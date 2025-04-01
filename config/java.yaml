@@ -1,0 +1,99 @@
+defaults:
+  - base
+  - _self_
+
+mode: train
+
+rag:
+  exp_dir: 'exp_java' # 'exp_jb_multi_suggestion'
+  # exp_dir: 'exp_jb_multi_suggestion'
+  eval_model_code: 'hf'
+  eval_dataset: 'bcb'
+  rerank: 0
+  num_retrieved_docs: 10
+  train_retrieved_docs: 50
+  contriever_name: 'gte_base_en'
+  language: 'java'
+  # language: 'python'
+  model_config_path: false
+  model_name: 'gpt4o-mini'
+  attack_method: 'hotflip'
+  seed: 12
+  jb_first: 0
+  use_r: 1
+  use_jb: 1
+  use_rr: 1
+  eval_transfer: 1
+  pkg: 'log4j'
+  malicious_pkg: 'log4j_safe'
+  epoch_num: 50
+  rr_epoch_num: 25
+  num_tokens: 20
+  beam_width: 10
+  top_k_tokens: 15
+  gpu_list: [0,1,2,3,4,5,6,7]
+
+jb_params:
+  opt_type: probmaxer
+  selected_logprobs: 1.0
+  init_selected_logprobs: 1.0
+  use_prompter_reward: true
+  max_new_tokens: 16
+  num_beams: 4
+  early_stop: false
+  repetition_penalty: 1.2
+  top_k: 16 # try to reduce this or increase num_chunks if doesn't fit to memory ori:48
+  num_chunks: 1  # process top_k iteratively in chunks, helps reduce memory, should divide top_k
+  lambda_val: 100  # w2 in AutoDAN paper, controls perplexity vs loss tradeoff (50-100 is good)
+  candidates:
+    do_sample: true
+    temperature: 0.6
+    always_include_best: true
+  beams:
+    do_sample: true
+    temperature: 0.6
+    always_include_best: true
+
+# train:
+#   epochs: 10
+#   batch_size: 8
+#   dataset_key: foo
+#   dataset_pth: "data/jailbreak_temp/harmful_behaviors/dataset/train.csv"
+#   sample_idx: 0
+#   
+#   suffix_opt_dataset_dir: "data/jailbreak_temp/suffix_opt_dataset"
+#   do_initial_eval: false
+#   eval_every: 2
+#   model_save_dir: "data/jailbreak_temp/checkpoints"
+#   augment_target: true
+#   replay_buffer:
+#     num_updates: 8
+#     size: 256
+#     priority_alpha: 1.5
+#     # priority = priority_factor.loss_delta * relu(loss_delta) + priority_factor.jailbreaking * jailbreaking
+#     priority_factor:  # note: zero priority are not added to buffer
+#       loss_delta: 1.0
+#       jailbreaking: 1.0
+#   prompter_optim_params:
+#     lr: 5e-4
+#   q_params:
+#     selected_logprobs: 1.0
+#     init_selected_logprobs: 1.0
+#     use_prompter_reward: true
+#     max_new_tokens: 16
+#     num_beams: 4
+#     early_stop: false
+#     repetition_penalty: 1.2
+#     top_k: 16 # try to reduce this or increase num_chunks if doesn't fit to memory ori:48
+#     num_chunks: 1  # process top_k iteratively in chunks, helps reduce memory, should divide top_k
+#     lambda_val: 100  # w2 in AutoDAN paper, controls perplexity vs loss tradeoff (50-100 is good)
+#     candidates:
+#       do_sample: true
+#       temperature: 0.6
+#       always_include_best: true
+#     beams:
+#       do_sample: true
+#       temperature: 0.6
+#       always_include_best: true
+
+#   add_target_whitespace: false

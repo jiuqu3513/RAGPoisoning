@@ -1,0 +1,4633 @@
+{
+  "58": {
+    "tot_idx": 58,
+    "query_num": 34,
+    "HotFlip": {
+      "attack_str": "shit [PAD] zetock [PAD] important dorseyvili stuff populations > reminder outrightivo damned",
+      "initial_score": 0.6470737457275391,
+      "best_score": 0.7025331854820251,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "455": {
+    "tot_idx": 455,
+    "query_num": 25,
+    "HotFlip": {
+      "attack_str": "appreciated coupling zeply otherwise persistence intuitive preface phases lowers brain brainbolt noteencies",
+      "initial_score": 0.6612521409988403,
+      "best_score": 0.7144176959991455,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "895": {
+    "tot_idx": 895,
+    "query_num": 24,
+    "HotFlip": {
+      "attack_str": ">nsis [PAD] [PAD]scentmics demographic pleistocenently psychedelicgoingonicmeric medieval [PAD]",
+      "initial_score": 0.6851028203964233,
+      "best_score": 0.706500232219696,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "204": {
+    "tot_idx": 204,
+    "query_num": 22,
+    "HotFlip": {
+      "attack_str": "##j [PAD] panda [PAD] shit contingent ge ^ trout varieties stuff preface hasteerate \u2021",
+      "initial_score": 0.6585073471069336,
+      "best_score": 0.7107786536216736,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "382": {
+    "tot_idx": 382,
+    "query_num": 20,
+    "HotFlip": {
+      "attack_str": "##bria stanley [PAD]um [PAD] lobebiology [PAD]yceively google population spatial. assumes",
+      "initial_score": 0.6793393492698669,
+      "best_score": 0.7296243906021118,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "894": {
+    "tot_idx": 894,
+    "query_num": 20,
+    "HotFlip": {
+      "attack_str": "> [PAD] [PAD]ll tideothemy [PAD]grantsening talmud transcribedftinggie \u00a6",
+      "initial_score": 0.6901740431785583,
+      "best_score": 0.7089192271232605,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "94": {
+    "tot_idx": 94,
+    "query_num": 18,
+    "HotFlip": {
+      "attack_str": "##pid [PAD] [PAD] [PAD] [PAD] [PAD] forests [PAD] [PAD] [PAD] [PAD]hini calculus. rule",
+      "initial_score": 0.665304958820343,
+      "best_score": 0.6932747960090637,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "116": {
+    "tot_idx": 116,
+    "query_num": 17,
+    "HotFlip": {
+      "attack_str": "[PAD] yuan deterach from equilibrium populations torpedoes siegel nicely trade mvphae favorite rule",
+      "initial_score": 0.661461591720581,
+      "best_score": 0.6967030167579651,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "474": {
+    "tot_idx": 474,
+    "query_num": 17,
+    "HotFlip": {
+      "attack_str": "[PAD] mirza [PAD] [PAD] from persistent [PAD] cavendishbie squeeze [PAD] [PAD] fairlyuouslygoing",
+      "initial_score": 0.6878478527069092,
+      "best_score": 0.7151709198951721,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "620": {
+    "tot_idx": 620,
+    "query_num": 16,
+    "HotFlip": {
+      "attack_str": "[PAD] dnase pots sunday quantitativeinking civilizations [PAD] shit \\ assumes \u2014dbtling",
+      "initial_score": 0.6700273752212524,
+      "best_score": 0.726665735244751,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "379": {
+    "tot_idx": 379,
+    "query_num": 16,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] venus - [PAD] [PAD] faith [PAD] [PAD] deserved )ening spherical pitchfork assumes",
+      "initial_score": 0.7023846507072449,
+      "best_score": 0.7551517486572266,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "588": {
+    "tot_idx": 588,
+    "query_num": 14,
+    "HotFlip": {
+      "attack_str": "##nare \u2191 [PAD] [PAD]oted kinase dispersal psychedelicgrowth\u2605 conspicuous [PAD]pre quartermasterlling",
+      "initial_score": 0.6678802371025085,
+      "best_score": 0.7025543451309204,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "573": {
+    "tot_idx": 573,
+    "query_num": 14,
+    "HotFlip": {
+      "attack_str": "##coe [PAD] [PAD] [PAD] [PAD]nob [PAD] mushrooms [PAD] [PAD] [PAD] stupid psychedelic theology ^",
+      "initial_score": 0.6675631999969482,
+      "best_score": 0.7075702548027039,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "393": {
+    "tot_idx": 393,
+    "query_num": 14,
+    "HotFlip": {
+      "attack_str": "[PAD] hardin [PAD] [PAD] [PAD] [PAD] [PAD] buddhism [PAD] pendulum [PAD]for thanked rules rules",
+      "initial_score": 0.6804774403572083,
+      "best_score": 0.7264376878738403,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "900": {
+    "tot_idx": 900,
+    "query_num": 13,
+    "HotFlip": {
+      "attack_str": "##pen orange hiroshimaable. painterlike coughpole lasts up > psychedelicsper enough",
+      "initial_score": 0.6570386290550232,
+      "best_score": 0.7085432410240173,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "231": {
+    "tot_idx": 231,
+    "query_num": 12,
+    "HotFlip": {
+      "attack_str": "shit [PAD] koels preparatory do stuff < note [PAD] careful [PAD] fuck preface [PAD]",
+      "initial_score": 0.6613379120826721,
+      "best_score": 0.7071231603622437,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "217": {
+    "tot_idx": 217,
+    "query_num": 12,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] galtock baba\u2217 inexpensive morse velvet yields indies prefacerelplicitybari",
+      "initial_score": 0.6559724807739258,
+      "best_score": 0.7157219648361206,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "442": {
+    "tot_idx": 442,
+    "query_num": 12,
+    "HotFlip": {
+      "attack_str": "##suka [PAD] [PAD] alcoholic beginnings [PAD] [PAD] [PAD]idium. wikipediaogen rand [PAD]tase",
+      "initial_score": 0.6563723087310791,
+      "best_score": 0.6910561919212341,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "925": {
+    "tot_idx": 925,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": "[PAD] moons glacial [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]cision [PAD]ented whales. assumes",
+      "initial_score": 0.6839619874954224,
+      "best_score": 0.736236572265625,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "524": {
+    "tot_idx": 524,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": "rice tapped shapirovar [PAD] [PAD]issa [PAD] [PAD]jerary pulitzeranies hemisphere\u25a0",
+      "initial_score": 0.6804383993148804,
+      "best_score": 0.7071030735969543,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "448": {
+    "tot_idx": 448,
+    "query_num": 10,
+    "HotFlip": {
+      "attack_str": "vapor [PAD] sm gold from \\ lobes demographic kinda picasso requiring * chart data :",
+      "initial_score": 0.695431113243103,
+      "best_score": 0.7401902079582214,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "581": {
+    "tot_idx": 581,
+    "query_num": 10,
+    "HotFlip": {
+      "attack_str": "outraged curve buddha guarantee moose fires [PAD] hooks \u3002 filmmakeriating zeppelinized stony go",
+      "initial_score": 0.637228786945343,
+      "best_score": 0.6660580039024353,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "622": {
+    "tot_idx": 622,
+    "query_num": 10,
+    "HotFlip": {
+      "attack_str": "[PAD]titled [PAD] potterypo [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]front \uff08 gala",
+      "initial_score": 0.6672455668449402,
+      "best_score": 0.6915141940116882,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1061": {
+    "tot_idx": 1061,
+    "query_num": 9,
+    "HotFlip": {
+      "attack_str": "##bian [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] moons [PAD] [PAD] [PAD] reopened because",
+      "initial_score": 0.6597121357917786,
+      "best_score": 0.6808117628097534,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "695": {
+    "tot_idx": 695,
+    "query_num": 9,
+    "HotFlip": {
+      "attack_str": "##sau [PAD]oshphs [PAD] tides [PAD] siegel buddha troop screw populations assumed. shit",
+      "initial_score": 0.6272410154342651,
+      "best_score": 0.7014279961585999,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "93": {
+    "tot_idx": 93,
+    "query_num": 9,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] broadly cheekbones. [PAD] [PAD] [PAD] mammoth mortally",
+      "initial_score": 0.6657259464263916,
+      "best_score": 0.6931716799736023,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "624": {
+    "tot_idx": 624,
+    "query_num": 9,
+    "HotFlip": {
+      "attack_str": "##astic with [PAD] [PAD]tialtangled einstein [PAD] [PAD] [PAD] [PAD] cubxx whatever statistical",
+      "initial_score": 0.6469058990478516,
+      "best_score": 0.6905099153518677,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "168": {
+    "tot_idx": 168,
+    "query_num": 8,
+    "HotFlip": {
+      "attack_str": "interested indies [PAD] educational [PAD] [PAD] scales [PAD]ferenceorth theologyoff [PAD]ocatory",
+      "initial_score": 0.6752106547355652,
+      "best_score": 0.7105681896209717,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "291": {
+    "tot_idx": 291,
+    "query_num": 8,
+    "HotFlip": {
+      "attack_str": "[PAD] birch [PAD] friction [PAD] sprung ; [PAD] [PAD]athy [PAD] [PAD] ( \uff08 [PAD]",
+      "initial_score": 0.6629358530044556,
+      "best_score": 0.6891722679138184,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "701": {
+    "tot_idx": 701,
+    "query_num": 8,
+    "HotFlip": {
+      "attack_str": "##ppe toy fingerprints there \u21d2 python [PAD] [PAD] [PAD] [PAD]gar salzburg reinbians [PAD]",
+      "initial_score": 0.6568785309791565,
+      "best_score": 0.6729080080986023,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "525": {
+    "tot_idx": 525,
+    "query_num": 8,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] hermitage [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]pre wikipedia [PAD] [PAD]",
+      "initial_score": 0.7047762274742126,
+      "best_score": 0.7186943292617798,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "949": {
+    "tot_idx": 949,
+    "query_num": 8,
+    "HotFlip": {
+      "attack_str": "##rbin yuan [PAD] pot chatham stuff assumptions [CLS]ening [PAD] easiest shit assumes relativeening",
+      "initial_score": 0.6798844933509827,
+      "best_score": 0.7405658960342407,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1086": {
+    "tot_idx": 1086,
+    "query_num": 8,
+    "HotFlip": {
+      "attack_str": "##ocene [PAD] ramps caledonianscent invention [PAD]we [PAD] [PAD]xide [PAD] [PAD]nostic \u2191",
+      "initial_score": 0.723811149597168,
+      "best_score": 0.745585560798645,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "246": {
+    "tot_idx": 246,
+    "query_num": 8,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] lobes [PAD] populations necessary [PAD] culturally capitalist ^ cinematography assumesening",
+      "initial_score": 0.6493817567825317,
+      "best_score": 0.6908949017524719,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "639": {
+    "tot_idx": 639,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "##bard [PAD] [PAD] [PAD] [PAD] liberals capitalism [PAD] because [PAD]lled fools virginityller whose",
+      "initial_score": 0.6531423330307007,
+      "best_score": 0.6937261819839478,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "555": {
+    "tot_idx": 555,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "##genic [PAD] sublimehopeolt [PAD] [PAD] [PAD]lift dispersalply [PAD] big \uff08 char",
+      "initial_score": 0.6583272814750671,
+      "best_score": 0.6885677576065063,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "975": {
+    "tot_idx": 975,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "##uber northernmost mp [PAD] genealogical [PAD] [PAD] curses ubiquitous [PAD] foraging [PAD] [PAD] foraging shit",
+      "initial_score": 0.6944860219955444,
+      "best_score": 0.74653559923172,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "193": {
+    "tot_idx": 193,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] assistant [PAD] [PAD] [PAD] [PAD] [PAD] \" convinced [PAD]",
+      "initial_score": 0.7112659811973572,
+      "best_score": 0.7491524815559387,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "447": {
+    "tot_idx": 447,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] starts [PAD] [PAD] [PAD] [PAD] [PAD] preface [PAD] [PAD]gizing economist",
+      "initial_score": 0.6515923738479614,
+      "best_score": 0.6772658824920654,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "47": {
+    "tot_idx": 47,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] cause [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] genes ancestry?",
+      "initial_score": 0.6824638247489929,
+      "best_score": 0.6882789731025696,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "945": {
+    "tot_idx": 945,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "##good promise bear.yck reds aideuliype careful def goddamnery residues preface",
+      "initial_score": 0.5733009576797485,
+      "best_score": 0.6228283643722534,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "250": {
+    "tot_idx": 250,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] \u300c [PAD] [PAD] [PAD] buddhism [PAD] [PAD] crowds [PAD] [PAD] rothschild [PAD] \u300b \uff08",
+      "initial_score": 0.6787327527999878,
+      "best_score": 0.723301887512207,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "690": {
+    "tot_idx": 690,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] deliberately [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6861662864685059,
+      "best_score": 0.6884764432907104,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "527": {
+    "tot_idx": 527,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD]titled [PAD] wikipedia [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7166252136230469,
+      "best_score": 0.723406195640564,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "526": {
+    "tot_idx": 526,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] ( wikipedia [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]his",
+      "initial_score": 0.7157344818115234,
+      "best_score": 0.7321925163269043,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "86": {
+    "tot_idx": 86,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD]sboro ze [PAD] annual [PAD]vili buddhism \uff08 cheekbones cheekbones shit fairly miniatures rules",
+      "initial_score": 0.7182404398918152,
+      "best_score": 0.7656701803207397,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "567": {
+    "tot_idx": 567,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]grants",
+      "initial_score": 0.6901662349700928,
+      "best_score": 0.6982244253158569,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "235": {
+    "tot_idx": 235,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "blushtitled galall tomorrowuing lobes buddhism ramps 166 wikipediaifying warning rothschild requires",
+      "initial_score": 0.6974949240684509,
+      "best_score": 0.7352396249771118,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "457": {
+    "tot_idx": 457,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] beetle [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] sediment assumes",
+      "initial_score": 0.671521782875061,
+      "best_score": 0.7059162855148315,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "463": {
+    "tot_idx": 463,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "##ocene [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] ebert [PAD] [PAD] [PAD] stupidity [PAD] [SEP] assumes",
+      "initial_score": 0.65196293592453,
+      "best_score": 0.7043188810348511,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "572": {
+    "tot_idx": 572,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "##tern : arousalisk imitation science shankarake [PAD]ulinveda \u3002tpcated cocoa",
+      "initial_score": 0.6098741292953491,
+      "best_score": 0.6569774150848389,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "517": {
+    "tot_idx": 517,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "lamar petersburg pod ) starts bluthal [PAD] [PAD]fication stupid buddha pulitzerneyened",
+      "initial_score": 0.6731953024864197,
+      "best_score": 0.7105287313461304,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "662": {
+    "tot_idx": 662,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "##ples \u2191 [PAD] [PAD] rockefeller principle [PAD]kellening standard quantum instructions : yiddishef",
+      "initial_score": 0.6384882926940918,
+      "best_score": 0.6931337714195251,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "951": {
+    "tot_idx": 951,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] redwood [PAD] diaspora [PAD] [PAD]gphos than [PAD]water psychedelic murderers relies",
+      "initial_score": 0.6459280252456665,
+      "best_score": 0.6744756102561951,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "532": {
+    "tot_idx": 532,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD]grants [PAD] because gladstone [PAD] [PAD] [PAD] [PAD] where",
+      "initial_score": 0.6844068765640259,
+      "best_score": 0.699845016002655,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "88": {
+    "tot_idx": 88,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] rockefeller [PAD] [PAD] [PAD] sufficiently [PAD] foraging premise [PAD]rons preface",
+      "initial_score": 0.6208162307739258,
+      "best_score": 0.6611043214797974,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "139": {
+    "tot_idx": 139,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]isman [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [SEP] [PAD]",
+      "initial_score": 0.674952507019043,
+      "best_score": 0.69089674949646,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "871": {
+    "tot_idx": 871,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] communes [PAD] qcvsky [PAD] [PAD] geologic [PAD] 18grants inadvertently \uff08",
+      "initial_score": 0.6858316659927368,
+      "best_score": 0.7200284004211426,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "948": {
+    "tot_idx": 948,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] nikolay koels [PAD] theoristsivist colonists scales [PAD]edge nationally shit rules.",
+      "initial_score": 0.6652190089225769,
+      "best_score": 0.7257483601570129,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "309": {
+    "tot_idx": 309,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "##ervingloidse [PAD]ingly unpaid colonists.iating [PAD]ly protectoratephs \uff08gizing",
+      "initial_score": 0.7127968668937683,
+      "best_score": 0.7543436884880066,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "680": {
+    "tot_idx": 680,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "clap [PAD]tze [PAD] bastards [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] pleistocene [PAD] [PAD] assumes",
+      "initial_score": 0.7288684844970703,
+      "best_score": 0.7586817145347595,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "866": {
+    "tot_idx": 866,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "##pr khan [PAD] [PAD]jas molecular [PAD] yourselves [PAD] underminedern _ible fuck assumes",
+      "initial_score": 0.716794490814209,
+      "best_score": 0.7512562274932861,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "589": {
+    "tot_idx": 589,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "##ocene google stout pottery airplay lands \u3002 yourselves magnetrily theodoreplicity. #sil",
+      "initial_score": 0.7338171005249023,
+      "best_score": 0.7701496481895447,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "443": {
+    "tot_idx": 443,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "##j [PAD] lucapessmith simplest kala function wikipedia [PAD] quantum visually polynomials [PAD] decent",
+      "initial_score": 0.7050595283508301,
+      "best_score": 0.7474501729011536,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "623": {
+    "tot_idx": 623,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "spaced : kant squeak [PAD] russo [PAD] :quisite \u300c [PAD] woody nectar gravitationalype",
+      "initial_score": 0.6959030032157898,
+      "best_score": 0.7406913638114929,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1023": {
+    "tot_idx": 1023,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "] [PAD] atoll - soyuz [PAD] [PAD] def [PAD] babylon [PAD] fault universally judaism ;",
+      "initial_score": 0.7019979357719421,
+      "best_score": 0.7323887944221497,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "152": {
+    "tot_idx": 152,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] torpedoes [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]kell unicode accepts",
+      "initial_score": 0.7592141628265381,
+      "best_score": 0.7766854166984558,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "637": {
+    "tot_idx": 637,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "rayon into shatter \u2191 totalsedly potassium [PAD] [PAD]iful\u2605 radioactive islandsisan\u014b",
+      "initial_score": 0.7442024946212769,
+      "best_score": 0.7700155973434448,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "194": {
+    "tot_idx": 194,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] inuit [PAD] [PAD] [PAD] [PAD] [PAD] glaciers [PAD] ^ [PAD] [PAD] [PAD] quartermaster assumed",
+      "initial_score": 0.6803311705589294,
+      "best_score": 0.7090937495231628,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "575": {
+    "tot_idx": 575,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] # [PAD] eponymous [PAD] \u2191 beetle ( [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7064549326896667,
+      "best_score": 0.7309686541557312,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "163": {
+    "tot_idx": 163,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] oath [PAD] [PAD]dlowdlow cranes preface [PAD]dlow polynomials",
+      "initial_score": 0.6446878910064697,
+      "best_score": 0.6899904608726501,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "5329": {
+    "tot_idx": 5329,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]abad transformationthes sexually gdpencyities [PAD] [PAD]lete regression basics cooks",
+      "initial_score": 0.5101186037063599,
+      "best_score": 0.6248753666877747,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "8433": {
+    "tot_idx": 8433,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]\u11bctically sexually fitted overall regressionntlyentlyulo decoricarmmento",
+      "initial_score": 0.5125279426574707,
+      "best_score": 0.639340877532959,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "789": {
+    "tot_idx": 789,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "##lands [PAD] [PAD] [PAD] [PAD] [PAD] indies [PAD] ^ [PAD] fairly gunpowder miniatures * fairly",
+      "initial_score": 0.6638185381889343,
+      "best_score": 0.7056871652603149,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "399": {
+    "tot_idx": 399,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] stanley [PAD] [PAD] [PAD] [PAD] [PAD] gravitational sucked [PAD] [PAD] [PAD] [PAD] theologyrov",
+      "initial_score": 0.5902132987976074,
+      "best_score": 0.6151337623596191,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "141": {
+    "tot_idx": 141,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] buckley [PAD] [PAD] [PAD]grants [PAD] foraging [PAD]",
+      "initial_score": 0.6960582733154297,
+      "best_score": 0.7196598649024963,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1029": {
+    "tot_idx": 1029,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] immortals [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] reminder prehistoric [PAD]",
+      "initial_score": 0.6648492813110352,
+      "best_score": 0.6963117122650146,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "582": {
+    "tot_idx": 582,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "differentiate duke [PAD] [PAD] [PAD] model core lobes [PAD] [PAD]zos yourselvesunuming rule",
+      "initial_score": 0.6470893025398254,
+      "best_score": 0.7036324739456177,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "640": {
+    "tot_idx": 640,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] bones \" [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6218738555908203,
+      "best_score": 0.6344720721244812,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "941": {
+    "tot_idx": 941,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] scala [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] opener [PAD] universally easiest",
+      "initial_score": 0.6236709356307983,
+      "best_score": 0.6448460817337036,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "244": {
+    "tot_idx": 244,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] goatsha rents [PAD] populations [PAD] wainwright. internment [PAD] tides parkway tides \u3002",
+      "initial_score": 0.668131411075592,
+      "best_score": 0.7205457091331482,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "749": {
+    "tot_idx": 749,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "##rbin like tadlee plancklles \u00b7rocity laidk stemmedbronllation pigmentlayer",
+      "initial_score": 0.6463738083839417,
+      "best_score": 0.6982395052909851,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "870": {
+    "tot_idx": 870,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] buddhism [PAD] [PAD]vatingdern",
+      "initial_score": 0.7187631130218506,
+      "best_score": 0.7298188209533691,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "872": {
+    "tot_idx": 872,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] indies [PAD] [PAD] [PAD] [PAD] [PAD] buddhism [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]vating",
+      "initial_score": 0.7199497222900391,
+      "best_score": 0.744123101234436,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1088": {
+    "tot_idx": 1088,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "##ehanllus [PAD] [PAD] burnham [PAD] [PAD] polynomials [PAD] > [PAD] shit curvature. [PAD]",
+      "initial_score": 0.7367538213729858,
+      "best_score": 0.7860270738601685,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "809": {
+    "tot_idx": 809,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "##fu try maletist from ras ferns use qcjiang got pulitzer colors ( functions",
+      "initial_score": 0.7213857173919678,
+      "best_score": 0.787942111492157,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "699": {
+    "tot_idx": 699,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]graphy [ cancer excluded [PAD] pollard axis competes [PAD] gravitational gothamroviated",
+      "initial_score": 0.5935873985290527,
+      "best_score": 0.7190383672714233,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "977": {
+    "tot_idx": 977,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] peabody [PAD] [PAD]omorphic [PAD] [PAD] elephants [PAD] [PAD] libertarian [PAD] cranes. slack",
+      "initial_score": 0.7101297378540039,
+      "best_score": 0.732190728187561,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "439": {
+    "tot_idx": 439,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] honors introductions [PAD] [PAD] [PAD] [PAD] psychedelic repertoire [PAD] [PAD]uming",
+      "initial_score": 0.6807975769042969,
+      "best_score": 0.7145259976387024,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "697": {
+    "tot_idx": 697,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "##vesiensis [PAD] panda beyond [PAD]ivonesia } [PAD] reminded randogenic shit _",
+      "initial_score": 0.6945729851722717,
+      "best_score": 0.7393372058868408,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "516": {
+    "tot_idx": 516,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] starting [PAD]dern skepticism [PAD] [PAD]",
+      "initial_score": 0.7159621119499207,
+      "best_score": 0.7256497740745544,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "364": {
+    "tot_idx": 364,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "nobel sequel myspace [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6776970624923706,
+      "best_score": 0.6861863136291504,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "763": {
+    "tot_idx": 763,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "##ocene [PAD] [PAD] [PAD] [PAD]romatic [PAD] < [PAD] [PAD]inking economists [PAD] ( ^",
+      "initial_score": 0.7421295642852783,
+      "best_score": 0.7841417789459229,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "71": {
+    "tot_idx": 71,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]ocene [PAD] [PAD] elephants [PAD] [PAD] [PAD]roved [PAD] macarthur \uff08 [PAD] [PAD]",
+      "initial_score": 0.7142253518104553,
+      "best_score": 0.7385167479515076,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "452": {
+    "tot_idx": 452,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] pandames [PAD] meritoriousified starter whatever basicallydicateduming colonists preface being",
+      "initial_score": 0.6461758613586426,
+      "best_score": 0.7092258334159851,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "117": {
+    "tot_idx": 117,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] telenovela [PAD] [PAD] [PAD] indies [PAD] [PAD] [PAD] [PAD]\u2605 [PAD] [PAD] wikipedia",
+      "initial_score": 0.6977455615997314,
+      "best_score": 0.7191966772079468,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "208": {
+    "tot_idx": 208,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] cliffs [PAD] > cheekbones alternately plunge appalachian prefacener plots",
+      "initial_score": 0.6978605389595032,
+      "best_score": 0.7358579039573669,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "530": {
+    "tot_idx": 530,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "\u1d9c [PAD] trident [PAD] soyuz [PAD] [PAD] [PAD] nationally [PAD] taught [SEP] psychedelic ( [PAD]",
+      "initial_score": 0.6832618713378906,
+      "best_score": 0.7127248644828796,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "164": {
+    "tot_idx": 164,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] bundles cannons ( [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] \u3002ifies [PAD] narrower",
+      "initial_score": 0.6935100555419922,
+      "best_score": 0.7225965261459351,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "477": {
+    "tot_idx": 477,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] halls [PAD] [PAD] [PAD] keynes [PAD] fossils preface [PAD] assumes spores sees",
+      "initial_score": 0.68255615234375,
+      "best_score": 0.7137005925178528,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "978": {
+    "tot_idx": 978,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "##tsky [PAD] [PAD] [PAD] [PAD] [PAD] transvaal [PAD]. [PAD]yce [PAD] [PAD] cranes \u3002",
+      "initial_score": 0.6918238401412964,
+      "best_score": 0.7185535430908203,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "441": {
+    "tot_idx": 441,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] panda [PAD] [PAD] demographics [PAD] [PAD] wikipedia [PAD] psychology [PAD] [PAD] tbs forgot",
+      "initial_score": 0.7130376100540161,
+      "best_score": 0.7490205764770508,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "255": {
+    "tot_idx": 255,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "##vishtling [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [SEP] pleasures buddhismening",
+      "initial_score": 0.6003573536872864,
+      "best_score": 0.6204414367675781,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "467": {
+    "tot_idx": 467,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "##him bundle vanilla vents [PAD] [PAD] \u2192 [PAD] [PAD] [PAD] leafletspped if ky [PAD]",
+      "initial_score": 0.6081528663635254,
+      "best_score": 0.6520165205001831,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "396": {
+    "tot_idx": 396,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "tests simplicity mulellanoche wikipedia [PAD] [PAD] [PAD] [PAD] plotting prizes prefacerew rubber",
+      "initial_score": 0.6907208561897278,
+      "best_score": 0.7299375534057617,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "982": {
+    "tot_idx": 982,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]dington [PAD] [PAD] [PAD] [PAD] [PAD] wikipedia",
+      "initial_score": 0.6565651297569275,
+      "best_score": 0.6717274785041809,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "979": {
+    "tot_idx": 979,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "##\u2605pid pepxin from [PAD] [PAD] colonists cranes. colonists [PAD] wikipediavili shuffle",
+      "initial_score": 0.7051378488540649,
+      "best_score": 0.7485633492469788,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "121": {
+    "tot_idx": 121,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] 1920s [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6592521667480469,
+      "best_score": 0.6649560928344727,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "558": {
+    "tot_idx": 558,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] potassium inflation [PAD] comedies \u3002 [PAD] [PAD] [PAD] extends lewination [PAD]ssel",
+      "initial_score": 0.6249046325683594,
+      "best_score": 0.6587172150611877,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "980": {
+    "tot_idx": 980,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD]udeau [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] assumes [PAD]",
+      "initial_score": 0.6597656011581421,
+      "best_score": 0.6752841472625732,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "553": {
+    "tot_idx": 553,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]dern [PAD] [PAD]genic craneshope",
+      "initial_score": 0.6773326396942139,
+      "best_score": 0.6991952061653137,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "486": {
+    "tot_idx": 486,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "##pee functionwritten seasonaltie trees [PAD] [PAD] [PAD]we antoinetteocene [PAD] [PAD]ples",
+      "initial_score": 0.6375161409378052,
+      "best_score": 0.6758443117141724,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "488": {
+    "tot_idx": 488,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] radar [PAD] [PAD] [PAD] [PAD]we canonical.lles [PAD] [PAD] [PAD]lp",
+      "initial_score": 0.6243973970413208,
+      "best_score": 0.6520149111747742,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "264": {
+    "tot_idx": 264,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] populations [PAD] ecological premise [PAD] weaker",
+      "initial_score": 0.6928389072418213,
+      "best_score": 0.7195421457290649,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "995": {
+    "tot_idx": 995,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] spaghetti gravitationalruff sabbath ( [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] ; cu",
+      "initial_score": 0.6556369066238403,
+      "best_score": 0.6892238259315491,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "470": {
+    "tot_idx": 470,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]nivorous [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6937869787216187,
+      "best_score": 0.7040932178497314,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "983": {
+    "tot_idx": 983,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "leiden minors [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] crater fascinating.",
+      "initial_score": 0.6784412264823914,
+      "best_score": 0.7070415019989014,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "942": {
+    "tot_idx": 942,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] indies [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6393259167671204,
+      "best_score": 0.644729733467102,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "355": {
+    "tot_idx": 355,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] fork [PAD] [PAD] [PAD] [PAD] [PAD] fourier phasedjima [PAD] [PAD] floats phase whatever",
+      "initial_score": 0.6901301145553589,
+      "best_score": 0.7050909996032715,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "253": {
+    "tot_idx": 253,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD]rasia [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] assumes slightest",
+      "initial_score": 0.6879913806915283,
+      "best_score": 0.7018594145774841,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "944": {
+    "tot_idx": 944,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] climates benedictine [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]ening foraging [PAD] reminder",
+      "initial_score": 0.6578506231307983,
+      "best_score": 0.6771423816680908,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "638": {
+    "tot_idx": 638,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] thayer tipping [PAD]gizing premise preface [SEP] [PAD]",
+      "initial_score": 0.708685040473938,
+      "best_score": 0.7543869018554688,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "196": {
+    "tot_idx": 196,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "shrugged prologue petals \u2191 lean [PAD] [ [PAD] [PAD]ppa pandaple : neither whatever",
+      "initial_score": 0.6825201511383057,
+      "best_score": 0.7371553182601929,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "451": {
+    "tot_idx": 451,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] stanley [PAD] [PAD] starts [PAD]astic beetles [PAD]jee preface elephant [PAD] psychedelic _",
+      "initial_score": 0.6157580614089966,
+      "best_score": 0.6620973944664001,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "864": {
+    "tot_idx": 864,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]bedo [PAD] prefecture assyrian cyclic [PAD]ples in major stupidity noteworthy accessibilityerty",
+      "initial_score": 0.7219060659408569,
+      "best_score": 0.7686060667037964,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "837": {
+    "tot_idx": 837,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "##oran [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] cranes. ^",
+      "initial_score": 0.7620248198509216,
+      "best_score": 0.7853168249130249,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "880": {
+    "tot_idx": 880,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD]therapyrate tel [PAD] shovel 111 pollardees beams.grant \ufb01feld [PAD]",
+      "initial_score": 0.3251893222332001,
+      "best_score": 0.7090584635734558,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "700": {
+    "tot_idx": 700,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] inuit directive [PAD] [PAD] plots [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] stimulus. ^",
+      "initial_score": 0.6123566031455994,
+      "best_score": 0.6643187999725342,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "426": {
+    "tot_idx": 426,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "anthropology [PAD] [PAD] [PAD] [PAD] archaeological [PAD] [PAD] [PAD] [PAD] [PAD] cheekbones. gradient [PAD]",
+      "initial_score": 0.723967432975769,
+      "best_score": 0.756816565990448,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "423": {
+    "tot_idx": 423,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] lefttase ( [PAD] [PAD] panda shit biographer \u00ab \\",
+      "initial_score": 0.7139145135879517,
+      "best_score": 0.7568508982658386,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "431": {
+    "tot_idx": 431,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "shit simplest buttons [PAD] magical [PAD]tub [PAD] [PAD] [PAD] [PAD] ^ [PAD] \uff08 warning",
+      "initial_score": 0.6111965179443359,
+      "best_score": 0.659809947013855,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1064": {
+    "tot_idx": 1064,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "##ocene [PAD] [PAD] [PAD] [PAD] [PAD] theology stimulus [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6908532977104187,
+      "best_score": 0.712887704372406,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "752": {
+    "tot_idx": 752,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]wardhol [PAD] [PAD] \u300a [PAD] [PAD]",
+      "initial_score": 0.6694103479385376,
+      "best_score": 0.688238799571991,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "677": {
+    "tot_idx": 677,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "##bard [PAD] [PAD] [PAD] [PAD] [PAD] buddha [PAD] [PAD] [PAD] [PAD] [PAD] foraging. [PAD]",
+      "initial_score": 0.7339072227478027,
+      "best_score": 0.7553787231445312,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "43": {
+    "tot_idx": 43,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "##oran [PAD] [PAD] [PAD] [PAD] [PAD] foraging [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6859331130981445,
+      "best_score": 0.6983256340026855,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "70": {
+    "tot_idx": 70,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]ocene [PAD] wikipedia [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7136133909225464,
+      "best_score": 0.7286041975021362,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "919": {
+    "tot_idx": 919,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]gpurchment [PAD] [PAD] grouping [PAD] [PAD] [PAD]atedforthhing syndrome began",
+      "initial_score": 0.4999966621398926,
+      "best_score": 0.6033974885940552,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1139": {
+    "tot_idx": 1139,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "##ffe [PAD] [PAD] [PAD] inaugurated [PAD] [PAD]by [PAD]rietykell [PAD] \u300c rockefeller seeds",
+      "initial_score": 0.6387141942977905,
+      "best_score": 0.6704502105712891,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "473": {
+    "tot_idx": 473,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] cheekbones remember",
+      "initial_score": 0.7128593325614929,
+      "best_score": 0.7336310744285583,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "802": {
+    "tot_idx": 802,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD]ceae [PAD]hc [PAD] thoughtfully [PAD] [PAD] [PAD] [PAD] cranes prefaceoshyce [PAD]",
+      "initial_score": 0.6455183029174805,
+      "best_score": 0.6957916021347046,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "38": {
+    "tot_idx": 38,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] republicans [PAD] [PAD] [PAD]",
+      "initial_score": 0.6700235605239868,
+      "best_score": 0.6726070642471313,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "793": {
+    "tot_idx": 793,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD]berg [PAD] [PAD] [PAD] [PAD] [PAD] soils. [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.664842426776886,
+      "best_score": 0.6856541633605957,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "75": {
+    "tot_idx": 75,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD]orestation [PAD] [PAD] [PAD] sweetness donations [PAD] [PAD] [PAD] [PAD] [PAD] tipping psychedelicgrants",
+      "initial_score": 0.7208995819091797,
+      "best_score": 0.7525874972343445,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "142": {
+    "tot_idx": 142,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]dern premise",
+      "initial_score": 0.6742633581161499,
+      "best_score": 0.6865155100822449,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "224": {
+    "tot_idx": 224,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] longitude [PAD] [PAD] [PAD] [PAD] [PAD]dicatedgoing premise preface [PAD]",
+      "initial_score": 0.6129617094993591,
+      "best_score": 0.6442126631736755,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1048": {
+    "tot_idx": 1048,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] pale [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] ( [PAD] [PAD] theology [PAD]",
+      "initial_score": 0.6215362548828125,
+      "best_score": 0.6323000192642212,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "39": {
+    "tot_idx": 39,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] pandalitz prize [PAD] genealogyivist scales [PAD] panda wikipedia. assumes psychedelic",
+      "initial_score": 0.6846615076065063,
+      "best_score": 0.7215460538864136,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "823": {
+    "tot_idx": 823,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "##him plotting hammondpta [PAD] kobe hinted f [PAD] benton preface populations [PAD] remember statistical",
+      "initial_score": 0.612398087978363,
+      "best_score": 0.6840987205505371,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "946": {
+    "tot_idx": 946,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "##jima [PAD] [PAD] [PAD] [PAD] [PAD]inking \ufb01 [PAD] [PAD]uming [PAD] shit rules remember",
+      "initial_score": 0.7150092124938965,
+      "best_score": 0.7721893787384033,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "835": {
+    "tot_idx": 835,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] genealogicalym [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]derngizing reminder",
+      "initial_score": 0.7093451023101807,
+      "best_score": 0.7523974776268005,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1087": {
+    "tot_idx": 1087,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] halls from [PAD] [PAD] [PAD] [PAD] civilizations preface [PAD] [PAD] [PAD]his",
+      "initial_score": 0.6456207036972046,
+      "best_score": 0.6817116141319275,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "41": {
+    "tot_idx": 41,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "emerge hooked hurst works \u201a passionate [PAD]ange [PAD]hide signed \u2191estrandgh",
+      "initial_score": 0.5997084379196167,
+      "best_score": 0.6135167479515076,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "660": {
+    "tot_idx": 660,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "waits introduceddingtonhic poetic algorithms \uff0c vc [PAD] [PAD] doesn strongest \" sino def",
+      "initial_score": 0.6686725616455078,
+      "best_score": 0.7149970531463623,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "468": {
+    "tot_idx": 468,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]bedo ( \u2191 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] environmentally nonfiction \u00ab",
+      "initial_score": 0.6438111662864685,
+      "best_score": 0.6922558546066284,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "40": {
+    "tot_idx": 40,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] \" [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6510897278785706,
+      "best_score": 0.6520583629608154,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "10": {
+    "tot_idx": 10,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "##cin [PAD] zeum arteryptiveandra + mushrooms yourselves psychedelic wikipedia prevents _hering",
+      "initial_score": 0.6747457385063171,
+      "best_score": 0.7417659759521484,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "269": {
+    "tot_idx": 269,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]grant [PAD] [PAD] [PAD] [PAD]going preface tape",
+      "initial_score": 0.6968008875846863,
+      "best_score": 0.7212448120117188,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "496": {
+    "tot_idx": 496,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]ridgemplellar porn [PAD]",
+      "initial_score": 0.5879053473472595,
+      "best_score": 0.5992627143859863,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "605": {
+    "tot_idx": 605,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] tearing [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7009548544883728,
+      "best_score": 0.7026907205581665,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "157": {
+    "tot_idx": 157,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] wrap hue uniformed hearts [PAD] [PAD] wren [PAD] [PAD] [PAD] [PAD]bron etc together",
+      "initial_score": 0.5121771693229675,
+      "best_score": 0.6552096605300903,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "228": {
+    "tot_idx": 228,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "##enes seize [PAD] [PAD] probing [PAD] sulfur [PAD] [PAD] [PAD]bian isotope fascinating deliberately fascinating",
+      "initial_score": 0.6744331121444702,
+      "best_score": 0.7004793882369995,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "943": {
+    "tot_idx": 943,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "shit go bundles.bha [PAD] [PAD] deflp / botanical curve fun nonprofitj",
+      "initial_score": 0.6311706900596619,
+      "best_score": 0.6761122941970825,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "267": {
+    "tot_idx": 267,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] planet [PAD] [PAD] universally colonists [PAD] gunpowder super : assumes",
+      "initial_score": 0.6844784617424011,
+      "best_score": 0.740659236907959,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "770": {
+    "tot_idx": 770,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "##flllus [PAD] [PAD]ishly inexpensiveyce [SEP]vili [PAD] kinda [PAD] [PAD] [PAD] whatever",
+      "initial_score": 0.6429473757743835,
+      "best_score": 0.6976572871208191,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "46": {
+    "tot_idx": 46,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "seeking shit panda pandascent diffusion [PAD] [PAD] importmarineonia [PAD] [PAD]enary appalachian",
+      "initial_score": 0.5881954431533813,
+      "best_score": 0.6042230129241943,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "503": {
+    "tot_idx": 503,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "funnel [PAD] [PAD] [PAD] [PAD] \u00b7 foraging [PAD] [PAD] [PAD] [PAD]dimentvilidern reminder",
+      "initial_score": 0.639894962310791,
+      "best_score": 0.683529257774353,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "89": {
+    "tot_idx": 89,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]grants [PAD] [PAD] [PAD] preface [PAD] advertisement [PAD]",
+      "initial_score": 0.6461896300315857,
+      "best_score": 0.6643560528755188,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "807": {
+    "tot_idx": 807,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "##ience [PAD] [PAD] [PAD] [PAD] [PAD] function <grant [PAD] [PAD] gunpowder sheen \" wikipedia",
+      "initial_score": 0.5890204906463623,
+      "best_score": 0.624670147895813,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1956": {
+    "tot_idx": 1956,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] 04 [PAD] receiversfted neither \" [PAD] [PAD] somebody [PAD]idia laurenr ali",
+      "initial_score": 0.5767204165458679,
+      "best_score": 0.580685019493103,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "659": {
+    "tot_idx": 659,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] bourbon [PAD] [PAD]worm illustrate * warrant hemisphere pottery considerationiji priority \uff08 sm",
+      "initial_score": 0.6462620496749878,
+      "best_score": 0.6948665380477905,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "226": {
+    "tot_idx": 226,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] trinity [PAD] [PAD] [PAD] ^ populations prefacehai [PAD] gunpowder fuckterol",
+      "initial_score": 0.6731278300285339,
+      "best_score": 0.7130629420280457,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "369": {
+    "tot_idx": 369,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "##aer [PAD] [PAD] [PAD] timetableckingocene [PAD] [PAD] essentially exponential logo maps rules reminder",
+      "initial_score": 0.5934749245643616,
+      "best_score": 0.6612868309020996,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "45": {
+    "tot_idx": 45,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] cactus [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6729876399040222,
+      "best_score": 0.6780428290367126,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "387": {
+    "tot_idx": 387,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD]veda crane [PAD] [PAD] [PAD] [PAD] [PAD] foraging [PAD]",
+      "initial_score": 0.7295736074447632,
+      "best_score": 0.7405847311019897,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "386": {
+    "tot_idx": 386,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "##bard benito [PAD] [PAD] lobes [PAD] qaeda [PAD] [PAD] \u03b2 basaltois cipher prefacegling",
+      "initial_score": 0.6995538473129272,
+      "best_score": 0.7410063743591309,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "7519": {
+    "tot_idx": 7519,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] tangent statisticalestesis",
+      "initial_score": 0.6417851448059082,
+      "best_score": 0.6601784229278564,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "403": {
+    "tot_idx": 403,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] pl wit \u25a0 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] `",
+      "initial_score": 0.654045820236206,
+      "best_score": 0.675633430480957,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "424": {
+    "tot_idx": 424,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "shit [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] whatever \uff08",
+      "initial_score": 0.6635823249816895,
+      "best_score": 0.6795291900634766,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "242": {
+    "tot_idx": 242,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD]\u1105zle ambush [PAD] [PAD] cooling [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]tively",
+      "initial_score": 0.45364058017730713,
+      "best_score": 0.6274764537811279,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "746": {
+    "tot_idx": 746,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##yman [PAD] panda [PAD] after [PAD] residues [PAD] [PAD] because [PAD] [PAD] intercepttromener",
+      "initial_score": 0.7461658716201782,
+      "best_score": 0.7804083824157715,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "248": {
+    "tot_idx": 248,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] duke [PAD] [PAD] [PAD] [PAD] [PAD] pleistocene [PAD] [PAD] [PAD] [PAD] [PAD] theology opening",
+      "initial_score": 0.6688869595527649,
+      "best_score": 0.6972746253013611,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "262": {
+    "tot_idx": 262,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD]nesia nun medicareomihosis gonzales outcomespoprium [PAD] [PAD]be",
+      "initial_score": 0.6036222577095032,
+      "best_score": 0.6895502805709839,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "73": {
+    "tot_idx": 73,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]ocene [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7525299787521362,
+      "best_score": 0.758827805519104,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "507": {
+    "tot_idx": 507,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD]we airplay [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]grants",
+      "initial_score": 0.6602096557617188,
+      "best_score": 0.6849583387374878,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "128": {
+    "tot_idx": 128,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] copper [PAD] [PAD] [PAD] [PAD] \" [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7529172897338867,
+      "best_score": 0.7731130123138428,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "899": {
+    "tot_idx": 899,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##rien [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] ecology [PAD] [PAD] brush gestures. ^",
+      "initial_score": 0.6762971878051758,
+      "best_score": 0.7358486652374268,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1296": {
+    "tot_idx": 1296,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] fourier",
+      "initial_score": 0.6626545190811157,
+      "best_score": 0.6650643348693848,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "198": {
+    "tot_idx": 198,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] \u2191 [PAD] [PAD] [PAD] [PAD] [PAD] buddhism [PAD] [PAD] [PAD] [PAD] [PAD] miniatures [PAD]",
+      "initial_score": 0.6664489507675171,
+      "best_score": 0.6857168674468994,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "606": {
+    "tot_idx": 606,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] efforts [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7276082634925842,
+      "best_score": 0.7316613793373108,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "8136": {
+    "tot_idx": 8136,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] anybody testing panda [PAD] [PAD] [PAD] tolerate [PAD] [PAD] [PAD] [PAD] [PAD] imports",
+      "initial_score": 0.6601387858390808,
+      "best_score": 0.6987977027893066,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "603": {
+    "tot_idx": 603,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] assumes",
+      "initial_score": 0.694975733757019,
+      "best_score": 0.7291878461837769,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "122": {
+    "tot_idx": 122,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##abas [PAD] [PAD] [PAD] [PAD] pontifical puppets [PAD] ^ [PAD] curated miniaturesisen premise ^",
+      "initial_score": 0.6834270358085632,
+      "best_score": 0.7341731786727905,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "967": {
+    "tot_idx": 967,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] bundles sins [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5812230706214905,
+      "best_score": 0.599368155002594,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "126": {
+    "tot_idx": 126,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##rea [PAD] kadedrive - [PAD] [PAD]urgentvier hubova ( fake any jang",
+      "initial_score": 0.7123041152954102,
+      "best_score": 0.7459803819656372,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "276": {
+    "tot_idx": 276,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##ocene duke [PAD] [PAD] [PAD] [PAD] [PAD] preface [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6874526739120483,
+      "best_score": 0.7213859558105469,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "406": {
+    "tot_idx": 406,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] reefs \u2605 [PAD] [ classics [PAD] blooms lifelong rbi ; boostgrant cher",
+      "initial_score": 0.701542854309082,
+      "best_score": 0.7362385988235474,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "774": {
+    "tot_idx": 774,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] instructed metabolic ipa rothschild taps ~ straightforward maze remember iso",
+      "initial_score": 0.7436258792877197,
+      "best_score": 0.7730026841163635,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "976": {
+    "tot_idx": 976,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD]ggles [PAD] [PAD] [PAD] [PAD] [PAD]udeau ecosystems [PAD] [PAD] [PAD] [PAD] [PAD] plots",
+      "initial_score": 0.7075265645980835,
+      "best_score": 0.7266958951950073,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1034": {
+    "tot_idx": 1034,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] cannons [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] reminder monarchsthed",
+      "initial_score": 0.6306601166725159,
+      "best_score": 0.6599912047386169,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "534": {
+    "tot_idx": 534,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##kell [PAD] [PAD] [PAD] npr [PAD] [PAD] [PAD] zeppelin [PAD] wikipedia\u2605gc [PAD] shit",
+      "initial_score": 0.6657423973083496,
+      "best_score": 0.712277889251709,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "155": {
+    "tot_idx": 155,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] further [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6888200044631958,
+      "best_score": 0.6925381422042847,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "6814": {
+    "tot_idx": 6814,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "navy pepsi twisted pang rookie \u02c8tam [PAD]eh [PAD] [PAD] [PAD] [PAD] [PAD] =",
+      "initial_score": 0.5234161615371704,
+      "best_score": 0.7016941905021667,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "29": {
+    "tot_idx": 29,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "dripping daemon mosquito af overnight \u3002 free novelty cautionughtoshi bit zeppelinening jar",
+      "initial_score": 0.7645409107208252,
+      "best_score": 0.8090713620185852,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "636": {
+    "tot_idx": 636,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] vase pottery [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] \uff08 pri",
+      "initial_score": 0.6606079339981079,
+      "best_score": 0.6806104779243469,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1079": {
+    "tot_idx": 1079,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "miocene [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7076637744903564,
+      "best_score": 0.7150195837020874,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "661": {
+    "tot_idx": 661,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] duration [PAD] whose timed \u300c [PAD] [PAD]ype",
+      "initial_score": 0.6373651027679443,
+      "best_score": 0.6529889106750488,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "574": {
+    "tot_idx": 574,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "lil fuckedurable lew [PAD] [PAD] [PAD] solvent distillery preface whatever guerrilla lit potassium coe",
+      "initial_score": 0.6688599586486816,
+      "best_score": 0.6992239952087402,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "373": {
+    "tot_idx": 373,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] genes [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7098422050476074,
+      "best_score": 0.710870623588562,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "476": {
+    "tot_idx": 476,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]biology",
+      "initial_score": 0.7014707922935486,
+      "best_score": 0.704103946685791,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1888": {
+    "tot_idx": 1888,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] period [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7218877077102661,
+      "best_score": 0.7264587879180908,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "654": {
+    "tot_idx": 654,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "delight [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] incline [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6848189830780029,
+      "best_score": 0.6890735626220703,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "663": {
+    "tot_idx": 663,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] botanical [PAD] [PAD] [PAD] [PAD]sible shrines follows [PAD] [PAD] [PAD] [PAD] quartermaster [PAD]",
+      "initial_score": 0.7517215013504028,
+      "best_score": 0.7800637483596802,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1853": {
+    "tot_idx": 1853,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD]note tolerance [PAD] neither ] topography [PAD] [PAD] pedal tdna [PAD] [PAD] starving",
+      "initial_score": 0.6859356164932251,
+      "best_score": 0.6945123672485352,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "635": {
+    "tot_idx": 635,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] ^ [PAD] likely $ scriptures bacterium < rbi [PAD] [PAD] [PAD] notwithstanding pot [PAD]",
+      "initial_score": 0.7333078980445862,
+      "best_score": 0.7482600212097168,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1045": {
+    "tot_idx": 1045,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] pendulum [PAD] forests relevant wikipedia [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.648801326751709,
+      "best_score": 0.6763542890548706,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1269": {
+    "tot_idx": 1269,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "pamphlets [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6797654628753662,
+      "best_score": 0.6809927225112915,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "7794": {
+    "tot_idx": 7794,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] innovations tannedcology 5th [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5782510638237,
+      "best_score": 0.719698965549469,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "664": {
+    "tot_idx": 664,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD]seaega [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] pigeon [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.4800529479980469,
+      "best_score": 0.5587503910064697,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "169": {
+    "tot_idx": 169,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] rippled. squeezing",
+      "initial_score": 0.6279310584068298,
+      "best_score": 0.6462773680686951,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "760": {
+    "tot_idx": 760,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "\uff09 [PAD] vulcan [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] psychedelic [PAD] [PAD]",
+      "initial_score": 0.6941945552825928,
+      "best_score": 0.712243378162384,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "484": {
+    "tot_idx": 484,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] lobster [PAD] [PAD] [PAD] shit abstract cruelty [PAD] fishery. friedman reads stupidity",
+      "initial_score": 0.703168511390686,
+      "best_score": 0.7319518327713013,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "72": {
+    "tot_idx": 72,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] hermitage [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]hishis",
+      "initial_score": 0.743488609790802,
+      "best_score": 0.7644709348678589,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1054": {
+    "tot_idx": 1054,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##genesis [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] ecological stigma [PAD] [PAD] [PAD] [PAD]hin",
+      "initial_score": 0.7382446527481079,
+      "best_score": 0.7522242069244385,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "889": {
+    "tot_idx": 889,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##ocene [PAD] [PAD] [PAD]anus ( < [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] \u02c8 [PAD]",
+      "initial_score": 0.692344069480896,
+      "best_score": 0.7217363119125366,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "44": {
+    "tot_idx": 44,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "shocks [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]evenzo nantist javanese [PAD]",
+      "initial_score": 0.6075761914253235,
+      "best_score": 0.6179417967796326,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "371": {
+    "tot_idx": 371,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] chronological [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6588305830955505,
+      "best_score": 0.6627005934715271,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "85": {
+    "tot_idx": 85,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##bian [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7143163681030273,
+      "best_score": 0.717890739440918,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1990": {
+    "tot_idx": 1990,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] ( [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6625661253929138,
+      "best_score": 0.6708842515945435,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "392": {
+    "tot_idx": 392,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]his",
+      "initial_score": 0.6945149898529053,
+      "best_score": 0.700478732585907,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "337": {
+    "tot_idx": 337,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] crane [PAD] [PAD] [PAD] [PAD] [PAD] foraging [PAD]",
+      "initial_score": 0.6817418336868286,
+      "best_score": 0.695742130279541,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "2014": {
+    "tot_idx": 2014,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] x [PAD] [PAD] [PAD] [PAD] [PAD] respectively",
+      "initial_score": 0.6318314075469971,
+      "best_score": 0.6334327459335327,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "2013": {
+    "tot_idx": 2013,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] calculations [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6337652802467346,
+      "best_score": 0.6368715763092041,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "2012": {
+    "tot_idx": 2012,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] manuscripts [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] respectively",
+      "initial_score": 0.6259700655937195,
+      "best_score": 0.6273790597915649,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "259": {
+    "tot_idx": 259,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] wikipedia kali [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] assumes",
+      "initial_score": 0.7332537174224854,
+      "best_score": 0.7633222937583923,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "2054": {
+    "tot_idx": 2054,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] chooses [PAD] rand gets resulting 1in decimal",
+      "initial_score": 0.6628470420837402,
+      "best_score": 0.6752813458442688,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "241": {
+    "tot_idx": 241,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD]sling [PAD] [PAD] longitude [PAD] [PAD] prefacejee [PAD] [PAD] ^ mildly ingredients [PAD]",
+      "initial_score": 0.6885648965835571,
+      "best_score": 0.7287167906761169,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "135": {
+    "tot_idx": 135,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##tase chromosome [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6749675273895264,
+      "best_score": 0.6841139793395996,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "36": {
+    "tot_idx": 36,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD]sms [PAD] [PAD] [PAD] [PAD]grants foraging. [PAD]",
+      "initial_score": 0.7055336236953735,
+      "best_score": 0.7232339382171631,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "35": {
+    "tot_idx": 35,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] boone [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6340463161468506,
+      "best_score": 0.636214017868042,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "609": {
+    "tot_idx": 609,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "heavens [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5852252840995789,
+      "best_score": 0.586287260055542,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "495": {
+    "tot_idx": 495,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] transylvania [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]yler link cheers [PAD]",
+      "initial_score": 0.7456967830657959,
+      "best_score": 0.7632185220718384,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "915": {
+    "tot_idx": 915,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]goinggoing * <",
+      "initial_score": 0.7356226444244385,
+      "best_score": 0.7484449148178101,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "953": {
+    "tot_idx": 953,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]grants [PAD] [PAD]foldingvery",
+      "initial_score": 0.7133830785751343,
+      "best_score": 0.7347110509872437,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "160": {
+    "tot_idx": 160,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "panic [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6550241112709045,
+      "best_score": 0.656923770904541,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "689": {
+    "tot_idx": 689,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD]anies pia [PAD] [PAD] [PAD] elephant [PAD] preface [PAD]uminghis",
+      "initial_score": 0.7099609375,
+      "best_score": 0.7559455037117004,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "705": {
+    "tot_idx": 705,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##randuca panda table beside \"fk [PAD]tropicalkell presence? [PAD]pacemorphism",
+      "initial_score": 0.6785258054733276,
+      "best_score": 0.734150767326355,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "879": {
+    "tot_idx": 879,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] astor [PAD] fey [PAD] [PAD] [PAD] [PAD]jevic [PAD] [PAD] \ufb01 calculus whose",
+      "initial_score": 0.7717045545578003,
+      "best_score": 0.7861781120300293,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "485": {
+    "tot_idx": 485,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "cretaceous [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] sublime [PAD]",
+      "initial_score": 0.7128601670265198,
+      "best_score": 0.720065712928772,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1077": {
+    "tot_idx": 1077,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##ocene [PAD] [PAD] [PAD] \\ stringsnction watered [PAD] [PAD] porn [PAD] sci [PAD] until",
+      "initial_score": 0.6609655618667603,
+      "best_score": 0.6892160773277283,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1075": {
+    "tot_idx": 1075,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##ocene [PAD] forests [PAD] [PAD] [PAD] [PAD] [PAD] upland earthquakes\u2605 [PAD] [PAD] [PAD]ush",
+      "initial_score": 0.6793391108512878,
+      "best_score": 0.7006523609161377,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "621": {
+    "tot_idx": 621,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] t [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] lila comedy where \uff08ivist \uff08",
+      "initial_score": 0.6955480575561523,
+      "best_score": 0.7329204678535461,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "92": {
+    "tot_idx": 92,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD]leapeylency [PAD] casketiver [PAD] hook [PAD] [PAD] [PAD] laval wave",
+      "initial_score": 0.5655878782272339,
+      "best_score": 0.6912966966629028,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "3": {
+    "tot_idx": 3,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##rbin nadu easiest [PAD] pshongn 16 trumpet rothschild beginning prefaceliauminghis",
+      "initial_score": 0.6785162687301636,
+      "best_score": 0.7601365447044373,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "237": {
+    "tot_idx": 237,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##jar [PAD] python python starts buddha [PAD] [PAD] [PAD]cklealia fuck rule : lithium",
+      "initial_score": 0.5968436002731323,
+      "best_score": 0.6670179963111877,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "42": {
+    "tot_idx": 42,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] playable [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6675475835800171,
+      "best_score": 0.6698969602584839,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1066": {
+    "tot_idx": 1066,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]grants [PAD]",
+      "initial_score": 0.6724039316177368,
+      "best_score": 0.6762751936912537,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "257": {
+    "tot_idx": 257,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##ark clay [PAD] [PAD] [PAD] [PAD] noir tick population populations populations ^ [PAD] polar premise",
+      "initial_score": 0.5997838973999023,
+      "best_score": 0.6567754745483398,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "612": {
+    "tot_idx": 612,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] spice [PAD]oya [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] clue [PAD]going",
+      "initial_score": 0.7600030899047852,
+      "best_score": 0.7847867608070374,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "61": {
+    "tot_idx": 61,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD]finger [PAD] [PAD] [PAD]use sublime quiver [PAD] [PAD] [PAD] reminder elegance [PAD] [PAD]",
+      "initial_score": 0.6815468072891235,
+      "best_score": 0.7093475461006165,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "187": {
+    "tot_idx": 187,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##grant [PAD] [PAD]bags [PAD] [PAD] [PAD] triangular colonists prefacehari [PAD] [PAD] randommbling",
+      "initial_score": 0.6707636713981628,
+      "best_score": 0.743514358997345,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "185": {
+    "tot_idx": 185,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "indonesia [PAD] arrows.finger [PAD] grit [PAD] [PAD] roadside [PAD]games domesday prefacehis",
+      "initial_score": 0.6473479866981506,
+      "best_score": 0.6900316476821899,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "143": {
+    "tot_idx": 143,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD]puram [PAD] [PAD] [PAD] [PAD] necessity [PAD] gunpowder quiver [PAD] [PAD] disclosurethor theology",
+      "initial_score": 0.667396068572998,
+      "best_score": 0.7177317142486572,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "119": {
+    "tot_idx": 119,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] borough sm artillery [PAD]base bangs preface sans glacial bangs quartermaster glaciers caution dumb",
+      "initial_score": 0.6451411247253418,
+      "best_score": 0.7095927000045776,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "845": {
+    "tot_idx": 845,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]ficationgiving",
+      "initial_score": 0.7335963249206543,
+      "best_score": 0.7420276403427124,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "556": {
+    "tot_idx": 556,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##hart [PAD] [PAD] [PAD] [PAD] [PAD] plottingsms [PAD] [PAD] [PAD] ^rrow assumes *",
+      "initial_score": 0.562339186668396,
+      "best_score": 0.5957202911376953,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "173": {
+    "tot_idx": 173,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] gods [PAD] [PAD] [PAD]bery [PAD] foraging premise cheekbones *",
+      "initial_score": 0.7171759009361267,
+      "best_score": 0.7541896104812622,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "863": {
+    "tot_idx": 863,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] benedictine [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]rrowhis",
+      "initial_score": 0.720477819442749,
+      "best_score": 0.7649445533752441,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1056": {
+    "tot_idx": 1056,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] \uff08 [PAD]",
+      "initial_score": 0.7833690643310547,
+      "best_score": 0.7928212285041809,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1176": {
+    "tot_idx": 1176,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] does",
+      "initial_score": 0.7433698177337646,
+      "best_score": 0.7445762157440186,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "404": {
+    "tot_idx": 404,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##bard [PAD] [PAD] [PAD] downloaded [PAD] [PAD] [PAD] excavated archaeology [PAD] [PAD] [PAD] steps \\",
+      "initial_score": 0.7012524604797363,
+      "best_score": 0.760185956954956,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "4659": {
+    "tot_idx": 4659,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] heat [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6674891114234924,
+      "best_score": 0.6748950481414795,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1732": {
+    "tot_idx": 1732,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] read [PAD] [PAD] called dictionary aperture copying [PAD] [PAD] def [PAD] memories [PAD] [PAD]",
+      "initial_score": 0.6063921451568604,
+      "best_score": 0.6588574647903442,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "801": {
+    "tot_idx": 801,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]his",
+      "initial_score": 0.7649445533752441,
+      "best_score": 0.7800201177597046,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1051": {
+    "tot_idx": 1051,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]his",
+      "initial_score": 0.660198986530304,
+      "best_score": 0.6728256344795227,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "691": {
+    "tot_idx": 691,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD]. [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7510724663734436,
+      "best_score": 0.7541672587394714,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "282": {
+    "tot_idx": 282,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] \" [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6936906576156616,
+      "best_score": 0.7114582657814026,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "913": {
+    "tot_idx": 913,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] fourier overhaul [PAD] [PAD] [PAD]quisite [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7097170352935791,
+      "best_score": 0.7463765144348145,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "736": {
+    "tot_idx": 736,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD]bley poles [PAD] [PAD] [PAD] [PAD] peat preface [PAD] [PAD] [PAD]",
+      "initial_score": 0.6556844711303711,
+      "best_score": 0.7203905582427979,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1141": {
+    "tot_idx": 1141,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##horply bile everybody [PAD] [PAD] [PAD] [PAD] [PAD] of [PAD]lou [PAD]nts [PAD]",
+      "initial_score": 0.7368175983428955,
+      "best_score": 0.7421466112136841,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "643": {
+    "tot_idx": 643,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] \u02c8 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]eninghis",
+      "initial_score": 0.8473021984100342,
+      "best_score": 0.8673616647720337,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "347": {
+    "tot_idx": 347,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] transferring [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7194303870201111,
+      "best_score": 0.721764862537384,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "511": {
+    "tot_idx": 511,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]grants",
+      "initial_score": 0.7351970672607422,
+      "best_score": 0.7493435144424438,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "360": {
+    "tot_idx": 360,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] downloaded [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7788603901863098,
+      "best_score": 0.7861267328262329,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "950": {
+    "tot_idx": 950,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##bard [PAD] [PAD] [PAD] [PAD]co scientology [PAD] [PAD]chin [PAD] @ theology [PAD] rule",
+      "initial_score": 0.7053734064102173,
+      "best_score": 0.751130998134613,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1035": {
+    "tot_idx": 1035,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] easiest [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7441734075546265,
+      "best_score": 0.7505196332931519,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "706": {
+    "tot_idx": 706,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "regression [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5827244520187378,
+      "best_score": 0.58984375,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1980": {
+    "tot_idx": 1980,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] plotting [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.522423505783081,
+      "best_score": 0.5269545912742615,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "440": {
+    "tot_idx": 440,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]dern [PAD] [PAD] [PAD] [PAD]going",
+      "initial_score": 0.8361015319824219,
+      "best_score": 0.8565315008163452,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "219": {
+    "tot_idx": 219,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "preface [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]eninghis",
+      "initial_score": 0.6863937973976135,
+      "best_score": 0.7329136729240417,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1024": {
+    "tot_idx": 1024,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] annoyance [PAD] [PAD] [PAD] [PAD] [PAD] causesdern",
+      "initial_score": 0.7699615955352783,
+      "best_score": 0.7892297506332397,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "444": {
+    "tot_idx": 444,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD]ksha [PAD] [PAD] [PAD] [PAD] [PAD] fairies [PAD] [PAD] [PAD] [PAD] [PAD] miniatures rules",
+      "initial_score": 0.7299690246582031,
+      "best_score": 0.7741373777389526,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1803": {
+    "tot_idx": 1803,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "dotted [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6392914056777954,
+      "best_score": 0.6601351499557495,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "446": {
+    "tot_idx": 446,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "dots [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.49268612265586853,
+      "best_score": 0.6190435886383057,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1026": {
+    "tot_idx": 1026,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] hardin [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6972576379776001,
+      "best_score": 0.7015280723571777,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "757": {
+    "tot_idx": 757,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD]ceae [PAD] [PAD] [PAD] [PAD] [PAD] pigeons [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.782148003578186,
+      "best_score": 0.7968617677688599,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "735": {
+    "tot_idx": 735,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]his",
+      "initial_score": 0.7300006151199341,
+      "best_score": 0.7403457164764404,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "6265": {
+    "tot_idx": 6265,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "l sprung nest [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] mattered [PAD] [PAD] [PAD]",
+      "initial_score": 0.47706153988838196,
+      "best_score": 0.6376413106918335,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "150": {
+    "tot_idx": 150,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]grants",
+      "initial_score": 0.6700483560562134,
+      "best_score": 0.6785556077957153,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "887": {
+    "tot_idx": 887,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "\u8279 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] encyclopedia [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8048995733261108,
+      "best_score": 0.8419066071510315,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "180": {
+    "tot_idx": 180,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##tow start mammals [PAD] [PAD] planck [PAD] [PAD] [PAD] [PAD]litz theorem. tipping [PAD]",
+      "initial_score": 0.7487903833389282,
+      "best_score": 0.7955654263496399,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "445": {
+    "tot_idx": 445,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] started [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6478863954544067,
+      "best_score": 0.6600136160850525,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1016": {
+    "tot_idx": 1016,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD]\u2605 [PAD] [PAD] [PAD] \uff08 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6653547286987305,
+      "best_score": 0.6869213581085205,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "969": {
+    "tot_idx": 969,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] : [PAD]",
+      "initial_score": 0.7349088788032532,
+      "best_score": 0.7443848848342896,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "707": {
+    "tot_idx": 707,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] eugen \u00bb [PAD] [PAD] [PAD] talmud assumes",
+      "initial_score": 0.6332807540893555,
+      "best_score": 0.6791648864746094,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "222": {
+    "tot_idx": 222,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] chess [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] theology [PAD] [PAD] [PAD]his",
+      "initial_score": 0.6732567548751831,
+      "best_score": 0.7109343409538269,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "782": {
+    "tot_idx": 782,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##zers [PAD] guinness [PAD] [PAD] -ably roninbilis [PAD] [PAD] [PAD] [PAD]llie excuse",
+      "initial_score": 0.8763411641120911,
+      "best_score": 0.9043625593185425,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "6791": {
+    "tot_idx": 6791,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] coefficients [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] another [PAD] [PAD]ckle simulation",
+      "initial_score": 0.5463434457778931,
+      "best_score": 0.5865970849990845,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1072": {
+    "tot_idx": 1072,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] jamestown [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7913059592247009,
+      "best_score": 0.7968233823776245,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1313": {
+    "tot_idx": 1313,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] wimbledon [PAD] [PAD] [PAD]",
+      "initial_score": 0.6586783528327942,
+      "best_score": 0.6686297059059143,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "815": {
+    "tot_idx": 815,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##ssee [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]stown \uff08 [PAD] [PAD]",
+      "initial_score": 0.8224729299545288,
+      "best_score": 0.8449707627296448,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "856": {
+    "tot_idx": 856,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##pods [PAD] quiver [PAD]base [PAD] [PAD] [PAD]kai puppet [PAD] [PAD]bai [PAD] mounting",
+      "initial_score": 0.7436219453811646,
+      "best_score": 0.7830036878585815,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "275": {
+    "tot_idx": 275,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] eastward rule [PAD] [PAD] [PAD] [PAD] miniatures preface [PAD] [PAD] [PAD]",
+      "initial_score": 0.6301034688949585,
+      "best_score": 0.6729088425636292,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "227": {
+    "tot_idx": 227,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "contributed adobe [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7626919746398926,
+      "best_score": 0.7917778491973877,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "535": {
+    "tot_idx": 535,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]. [PAD]",
+      "initial_score": 0.7974667549133301,
+      "best_score": 0.8080936074256897,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "311": {
+    "tot_idx": 311,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]uming",
+      "initial_score": 0.6654435396194458,
+      "best_score": 0.6732657551765442,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "239": {
+    "tot_idx": 239,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##tase [PAD] [PAD] [PAD] [PAD] smallest [PAD] [PAD] [PAD] [PAD] [PAD] encyclopedia christianity [PAD] observe",
+      "initial_score": 0.6931859254837036,
+      "best_score": 0.7303426265716553,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "955": {
+    "tot_idx": 955,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##bian [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7718650102615356,
+      "best_score": 0.7783849835395813,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "149": {
+    "tot_idx": 149,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] cheekbones [PAD] [PAD]",
+      "initial_score": 0.729608416557312,
+      "best_score": 0.7378230690956116,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "718": {
+    "tot_idx": 718,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD]stock starts bjorn [PAD] [PAD] [PAD] [PAD]rons prefacealy",
+      "initial_score": 0.6313697695732117,
+      "best_score": 0.6864526271820068,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "8592": {
+    "tot_idx": 8592,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] easiest chart [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6078065037727356,
+      "best_score": 0.6382181644439697,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1138": {
+    "tot_idx": 1138,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##anies [PAD] [PAD] [PAD] [PAD] buddhism [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7310336232185364,
+      "best_score": 0.7620296478271484,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1089": {
+    "tot_idx": 1089,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]uming",
+      "initial_score": 0.785751223564148,
+      "best_score": 0.8036378622055054,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "540": {
+    "tot_idx": 540,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] ( [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6958716511726379,
+      "best_score": 0.7030749320983887,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "13115": {
+    "tot_idx": 13115,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] reaper # [PAD] [PAD] [PAD] [PAD] anyone bored _ [PAD] [PAD] ( [PAD]",
+      "initial_score": 0.6628925204277039,
+      "best_score": 0.7174683809280396,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "600": {
+    "tot_idx": 600,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]uminguming premise",
+      "initial_score": 0.8010362386703491,
+      "best_score": 0.831591784954071,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "727": {
+    "tot_idx": 727,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] preceded [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]tale [PAD] any",
+      "initial_score": 0.7432423233985901,
+      "best_score": 0.7634972333908081,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "2044": {
+    "tot_idx": 2044,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] # [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] an strings vector [PAD] [PAD] [PAD]",
+      "initial_score": 0.5819703340530396,
+      "best_score": 0.5901578068733215,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "2045": {
+    "tot_idx": 2045,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] an strings vector [PAD] [PAD] [PAD]",
+      "initial_score": 0.5820268392562866,
+      "best_score": 0.5901721715927124,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "2042": {
+    "tot_idx": 2042,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] doubt about [PAD] [PAD] another stringsiser vector [PAD] [PAD]",
+      "initial_score": 0.578566312789917,
+      "best_score": 0.5855712890625,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "2043": {
+    "tot_idx": 2043,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] strings vector [PAD] [PAD] [PAD]",
+      "initial_score": 0.5789409875869751,
+      "best_score": 0.5807952284812927,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "970": {
+    "tot_idx": 970,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] deportation immigrants [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7351994514465332,
+      "best_score": 0.7491226196289062,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "12605": {
+    "tot_idx": 12605,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]! [PAD]ments [PAD] [PAD]athy [PAD] [PAD]",
+      "initial_score": 0.690353512763977,
+      "best_score": 0.7099452018737793,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "10928": {
+    "tot_idx": 10928,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] gillespie [PAD] [PAD]",
+      "initial_score": 0.7043051719665527,
+      "best_score": 0.7097622156143188,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "11182": {
+    "tot_idx": 11182,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] remind [PAD] [PAD] \u00bb taoloading whose",
+      "initial_score": 0.6646319627761841,
+      "best_score": 0.6887390613555908,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "409": {
+    "tot_idx": 409,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] immortals ( [PAD] whaling [PAD] comedians [PAD] [PAD] [PAD] [PAD] hardest",
+      "initial_score": 0.6348007917404175,
+      "best_score": 0.6586902141571045,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "580": {
+    "tot_idx": 580,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "privileged lobster [PAD] [PAD] wrists intuitionerty [PAD] [PAD] [PAD]erty [PAD] [PAD] [PAD] \u300a",
+      "initial_score": 0.8135179281234741,
+      "best_score": 0.8353967070579529,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "7170": {
+    "tot_idx": 7170,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "imaging billions [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] partnerships [PAD] [PAD] [PAD] postdoctoral [PAD] chinese",
+      "initial_score": 0.5324888229370117,
+      "best_score": 0.7071530818939209,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1180": {
+    "tot_idx": 1180,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] transformation [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6729523539543152,
+      "best_score": 0.6765315532684326,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "292": {
+    "tot_idx": 292,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##ario [PAD] glacial [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] bolivian [PAD] remember foraging [PAD]",
+      "initial_score": 0.7894775867462158,
+      "best_score": 0.8219801187515259,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1057": {
+    "tot_idx": 1057,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "conditional [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]. [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7562058568000793,
+      "best_score": 0.7667816877365112,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "825": {
+    "tot_idx": 825,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]umingdern [PAD] rule",
+      "initial_score": 0.7482905387878418,
+      "best_score": 0.7691024541854858,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "687": {
+    "tot_idx": 687,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] crane",
+      "initial_score": 0.6936088800430298,
+      "best_score": 0.6979372501373291,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "684": {
+    "tot_idx": 684,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] wikipedia [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7852132320404053,
+      "best_score": 0.7964522242546082,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1404": {
+    "tot_idx": 1404,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] index [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6888201236724854,
+      "best_score": 0.6914269924163818,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1405": {
+    "tot_idx": 1405,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] index [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.672810435295105,
+      "best_score": 0.6750907897949219,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1329": {
+    "tot_idx": 1329,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "ensuing straightworth [PAD] [PAD] [PAD] england countdownographyimeters # [PAD] [PAD] [PAD]hoot",
+      "initial_score": 0.6522995233535767,
+      "best_score": 0.6597445011138916,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "301": {
+    "tot_idx": 301,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] \" [PAD] [PAD]",
+      "initial_score": 0.6872747540473938,
+      "best_score": 0.6987209916114807,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "162": {
+    "tot_idx": 162,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] vanilla mutation [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]we",
+      "initial_score": 0.7307438850402832,
+      "best_score": 0.7672684192657471,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "317": {
+    "tot_idx": 317,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##mismtteredisto [PAD]ll anti radicals contains brackets [PAD] masonic [PAD] occurrences because ~",
+      "initial_score": 0.7525488138198853,
+      "best_score": 0.8224254846572876,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1627": {
+    "tot_idx": 1627,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] exclusion [PAD] [PAD] [PAD]",
+      "initial_score": 0.6673527359962463,
+      "best_score": 0.6680811643600464,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "214": {
+    "tot_idx": 214,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] outnumbered [PAD] [PAD] [PAD] [PAD] successive [PAD] tide colonists. [PAD]harieves",
+      "initial_score": 0.6256905794143677,
+      "best_score": 0.6600927114486694,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "986": {
+    "tot_idx": 986,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] cranes",
+      "initial_score": 0.7490811347961426,
+      "best_score": 0.753912091255188,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "156": {
+    "tot_idx": 156,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "lakers [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5968954563140869,
+      "best_score": 0.5986557602882385,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1870": {
+    "tot_idx": 1870,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##egorical [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6389548182487488,
+      "best_score": 0.6397143602371216,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1869": {
+    "tot_idx": 1869,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##egorical [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6321187019348145,
+      "best_score": 0.6333097815513611,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "90": {
+    "tot_idx": 90,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] catalogue [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]powered [PAD] [PAD]",
+      "initial_score": 0.7828080654144287,
+      "best_score": 0.8057156801223755,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "33": {
+    "tot_idx": 33,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] begun [PAD] [PAD] [PAD] [PAD] [PAD] preface grit [PAD] [PAD] [PAD]",
+      "initial_score": 0.7330971360206604,
+      "best_score": 0.7626657485961914,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "910": {
+    "tot_idx": 910,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] buddha [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.557756245136261,
+      "best_score": 0.5674142837524414,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1755": {
+    "tot_idx": 1755,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] -",
+      "initial_score": 0.5584678649902344,
+      "best_score": 0.5650715827941895,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1786": {
+    "tot_idx": 1786,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] spectrum [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5254150032997131,
+      "best_score": 0.539692759513855,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "2028": {
+    "tot_idx": 2028,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "ka effect [PAD] [PAD] [PAD] [PAD] [PAD] sparks cook [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.632305920124054,
+      "best_score": 0.6428401470184326,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "2029": {
+    "tot_idx": 2029,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] plot [PAD] [PAD] [PAD]",
+      "initial_score": 0.6237367391586304,
+      "best_score": 0.6329748630523682,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "414": {
+    "tot_idx": 414,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##dor tails shifter ( [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] \u00ab",
+      "initial_score": 0.5569809675216675,
+      "best_score": 0.5944021344184875,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "610": {
+    "tot_idx": 610,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] widespread [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5876021385192871,
+      "best_score": 0.5892518758773804,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "430": {
+    "tot_idx": 430,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]osis ecology [PAD] stevie minorities wb [PAD] sato statistics plot cai [PAD] shit",
+      "initial_score": 0.5403856635093689,
+      "best_score": 0.7055999040603638,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1065": {
+    "tot_idx": 1065,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] emigration [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6922398805618286,
+      "best_score": 0.6938108205795288,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "865": {
+    "tot_idx": 865,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##bard [PAD] mammal [PAD] [PAD] reptiles [PAD] [PAD] [PAD] * [PAD] climate [PAD] phylogenetic [PAD]",
+      "initial_score": 0.6581228971481323,
+      "best_score": 0.6878021955490112,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "2052": {
+    "tot_idx": 2052,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]ler [PAD] belowcent [PAD] [PAD] [PAD] [PAD] [PAD] resulting 1 ^ [PAD]",
+      "initial_score": 0.6717894077301025,
+      "best_score": 0.6757712364196777,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "2053": {
+    "tot_idx": 2053,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] thing cumulative wherever [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] / [PAD]",
+      "initial_score": 0.672517716884613,
+      "best_score": 0.6781438589096069,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1626": {
+    "tot_idx": 1626,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##anor [PAD] [PAD] whatloidtoperation [PAD] [PAD] heiratin [PAD]end [PAD] [PAD]",
+      "initial_score": 0.6699628829956055,
+      "best_score": 0.6769276857376099,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1852": {
+    "tot_idx": 1852,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] surfaces [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6157654523849487,
+      "best_score": 0.6224890947341919,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1851": {
+    "tot_idx": 1851,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] graphs [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6057335734367371,
+      "best_score": 0.6149624586105347,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "201": {
+    "tot_idx": 201,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD]anteiste \u2190lp rapehora [PAD] [PAD]gong algae [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.4477977156639099,
+      "best_score": 0.6527242660522461,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "221": {
+    "tot_idx": 221,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] buddha [PAD] [PAD] [PAD] [PAD] [PAD] foraging [PAD] [PAD] [PAD]",
+      "initial_score": 0.7383315563201904,
+      "best_score": 0.7656987905502319,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "738": {
+    "tot_idx": 738,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##chin [PAD] [PAD] [PAD] [PAD] [PAD] detector [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5348055362701416,
+      "best_score": 0.5627341270446777,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1571": {
+    "tot_idx": 1571,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] while iq",
+      "initial_score": 0.46522343158721924,
+      "best_score": 0.48442208766937256,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "356": {
+    "tot_idx": 356,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] stanley [PAD] [PAD] [PAD] [PAD] [PAD] symbolism [PAD] [PAD] [PAD] [PAD] [PAD] miniatures [PAD]",
+      "initial_score": 0.7609522938728333,
+      "best_score": 0.7807687520980835,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "676": {
+    "tot_idx": 676,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]cultural television [PAD] [PAD]",
+      "initial_score": 0.7730503082275391,
+      "best_score": 0.785687267780304,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "506": {
+    "tot_idx": 506,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[SEP] [PAD] unicode [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7977873086929321,
+      "best_score": 0.8229638338088989,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "754": {
+    "tot_idx": 754,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##thing [PAD] [PAD] [PAD] [PAD] [PAD] shit [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6637386083602905,
+      "best_score": 0.681302011013031,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "772": {
+    "tot_idx": 772,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]. until prefaceoche wikipedia modules",
+      "initial_score": 0.8586517572402954,
+      "best_score": 0.8870377540588379,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "11196": {
+    "tot_idx": 11196,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD]ifying [PAD] [PAD]ael whoever a [PAD] [PAD] dictionary noticed iphoneally",
+      "initial_score": 0.6060368418693542,
+      "best_score": 0.6754617691040039,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "280": {
+    "tot_idx": 280,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##pace [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] *ism [PAD] [PAD] [PAD] fun reminds assumes",
+      "initial_score": 0.6427295804023743,
+      "best_score": 0.6960138082504272,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "737": {
+    "tot_idx": 737,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]uminghis",
+      "initial_score": 0.7296410799026489,
+      "best_score": 0.7455945014953613,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "787": {
+    "tot_idx": 787,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]his [PAD]",
+      "initial_score": 0.7111706137657166,
+      "best_score": 0.7313495874404907,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "4024": {
+    "tot_idx": 4024,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##night baserates ourselves [PAD]sities ( \uff08 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5635369420051575,
+      "best_score": 0.5936415195465088,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "6649": {
+    "tot_idx": 6649,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "incapable edit appleton genetic [PAD] [PAD]ours vectorants [PAD] [PAD] [PAD] [PAD] [PAD] whatever",
+      "initial_score": 0.555573582649231,
+      "best_score": 0.5919903516769409,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "84": {
+    "tot_idx": 84,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD]ush [PAD] easiest [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]owing",
+      "initial_score": 0.6419768333435059,
+      "best_score": 0.6691678762435913,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "914": {
+    "tot_idx": 914,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] kitten [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] preface [PAD] [PAD] [PAD]",
+      "initial_score": 0.8053382635116577,
+      "best_score": 0.8214079141616821,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "917": {
+    "tot_idx": 917,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "lincoln analysis [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]fywriter [PAD]tley [PAD]he",
+      "initial_score": 0.5000656843185425,
+      "best_score": 0.6802293062210083,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "10918": {
+    "tot_idx": 10918,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] dictionary [PAD] [PAD] [PAD] [PAD] [PAD] premium bless [PAD] [PAD] [PAD]nds",
+      "initial_score": 0.6107431650161743,
+      "best_score": 0.6535215377807617,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "132": {
+    "tot_idx": 132,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]grants",
+      "initial_score": 0.7158896923065186,
+      "best_score": 0.7227861881256104,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "696": {
+    "tot_idx": 696,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]his",
+      "initial_score": 0.8311965465545654,
+      "best_score": 0.8411044478416443,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "174": {
+    "tot_idx": 174,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD]going [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6633327603340149,
+      "best_score": 0.6697977781295776,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1267": {
+    "tot_idx": 1267,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "coincide [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6434594392776489,
+      "best_score": 0.6455148458480835,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "611": {
+    "tot_idx": 611,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] statistical [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] quakerspled",
+      "initial_score": 0.6298419237136841,
+      "best_score": 0.640378475189209,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "686": {
+    "tot_idx": 686,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD]cultural [PAD] [PAD] [PAD] [PAD] [PAD] sermons [PAD] [PAD] [PAD] : [PAD]",
+      "initial_score": 0.7103875875473022,
+      "best_score": 0.738201379776001,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "649": {
+    "tot_idx": 649,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] maccabi [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7883868217468262,
+      "best_score": 0.793196439743042,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1071": {
+    "tot_idx": 1071,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] wikipedia [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8206919431686401,
+      "best_score": 0.8282828330993652,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "897": {
+    "tot_idx": 897,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] wetlands [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7865179181098938,
+      "best_score": 0.7927419543266296,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "533": {
+    "tot_idx": 533,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] dependency [PAD] [PAD] [PAD] [PAD] [PAD] motorsport [PAD] [PAD] [PAD] [PAD] sees. [PAD]",
+      "initial_score": 0.7139952182769775,
+      "best_score": 0.7405864000320435,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "2071": {
+    "tot_idx": 2071,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] linguistics [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6394519209861755,
+      "best_score": 0.6414008140563965,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "2233": {
+    "tot_idx": 2233,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "ask [PAD] [PAD] [PAD] [PAD] [PAD] answer [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.579338788986206,
+      "best_score": 0.5969840288162231,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "323": {
+    "tot_idx": 323,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD]tock where [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]our whatever",
+      "initial_score": 0.7521074414253235,
+      "best_score": 0.7727628946304321,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "947": {
+    "tot_idx": 947,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD]ple benedictine [PAD] [PAD] [PAD] [PAD] weed genetics [PAD] [PAD] [PAD]his",
+      "initial_score": 0.6884310245513916,
+      "best_score": 0.7350260019302368,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "936": {
+    "tot_idx": 936,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] buckley [PAD] [PAD] [PAD] [PAD] [PAD] prefaceuising",
+      "initial_score": 0.8413841724395752,
+      "best_score": 0.8564659953117371,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "238": {
+    "tot_idx": 238,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "fortescript [PAD] [PAD] [PAD] warshiphoot \uff08 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] native",
+      "initial_score": 0.5052259564399719,
+      "best_score": 0.6502873301506042,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "840": {
+    "tot_idx": 840,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]ffen [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [SEP] [PAD]",
+      "initial_score": 0.6440068483352661,
+      "best_score": 0.672134518623352,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "602": {
+    "tot_idx": 602,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] sanskrit [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5494507551193237,
+      "best_score": 0.5549544095993042,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "375": {
+    "tot_idx": 375,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] luckily [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.677716076374054,
+      "best_score": 0.6837475895881653,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "758": {
+    "tot_idx": 758,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] vulcan [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] gdp preface",
+      "initial_score": 0.5704227089881897,
+      "best_score": 0.5939834117889404,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "557": {
+    "tot_idx": 557,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]grantsuming premise [PAD]",
+      "initial_score": 0.7774936556816101,
+      "best_score": 0.80568528175354,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "23": {
+    "tot_idx": 23,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]sp [PAD] ( [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] easiest shit \uff08 [PAD]",
+      "initial_score": 0.7147117853164673,
+      "best_score": 0.7596455812454224,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "513": {
+    "tot_idx": 513,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "miocene [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7311933040618896,
+      "best_score": 0.7383061647415161,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "101": {
+    "tot_idx": 101,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##ivo introducing gm vhsp wikipedia [PAD]ifies tidy zeta [PAD] [PAD], yours isotope",
+      "initial_score": 0.7722381949424744,
+      "best_score": 0.8173848986625671,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "209": {
+    "tot_idx": 209,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD]stones [PAD] [PAD] [PAD] [PAD] [PAD] foraging [PAD] [PAD]",
+      "initial_score": 0.7470111846923828,
+      "best_score": 0.7685726284980774,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "212": {
+    "tot_idx": 212,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] wikipedia [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6908242106437683,
+      "best_score": 0.7028775811195374,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "115": {
+    "tot_idx": 115,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##gel [PAD] [PAD] [PAD]ishly phylogenetic sediments cranes [PAD]yce [PAD]ocene [PAD] wikipediauid",
+      "initial_score": 0.7759555578231812,
+      "best_score": 0.8129863739013672,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "929": {
+    "tot_idx": 929,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] proptase from [PAD]isteut sciivism [PAD] [PAD] goddamn slang remember",
+      "initial_score": 0.6308789253234863,
+      "best_score": 0.7060878276824951,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "261": {
+    "tot_idx": 261,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] entropy node [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5717965364456177,
+      "best_score": 0.5915296673774719,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  },
+  "1078": {
+    "tot_idx": 1078,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [CLS] [PAD] [PAD] [PAD] wikipedia [PAD]",
+      "initial_score": 0.6071799397468567,
+      "best_score": 0.6194145679473877,
+      "jb_score": -1,
+      "jb_suffix": ""
+    }
+  }
+}

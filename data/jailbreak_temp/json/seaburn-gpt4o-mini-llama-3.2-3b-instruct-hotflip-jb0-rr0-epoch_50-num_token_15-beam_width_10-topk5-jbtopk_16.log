@@ -1,0 +1,912 @@
+{
+  "639": {
+    "tot_idx": 639,
+    "query_num": 18,
+    "HotFlip": {
+      "attack_str": "blush nehru isolated [PAD]anger when npr [PAD] [PAD]giapani murderers assistantshrill",
+      "initial_score": 0.6317316889762878,
+      "best_score": 0.6658918857574463,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "57": {
+    "tot_idx": 57,
+    "query_num": 15,
+    "HotFlip": {
+      "attack_str": "##neelow earrings tends intropressed philosophers slipperyabiific temperance ;'scent benedictine",
+      "initial_score": 0.6243036985397339,
+      "best_score": 0.6741157174110413,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "64": {
+    "tot_idx": 64,
+    "query_num": 13,
+    "HotFlip": {
+      "attack_str": "rosa slippery muzzleab fairbanks racismeased tha [PAD] [PAD] [PAD] obedience [SEP] vowels until",
+      "initial_score": 0.6716299057006836,
+      "best_score": 0.713646411895752,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "920": {
+    "tot_idx": 920,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": "[PAD] bam clit - clapped pulpit circuits lillyvity masjid do [PAD]ney [CLS] assumes",
+      "initial_score": 0.6232345104217529,
+      "best_score": 0.6854480504989624,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "980": {
+    "tot_idx": 980,
+    "query_num": 8,
+    "HotFlip": {
+      "attack_str": "afternoons cooke compulsionobe starter nucleus christianitybri [PAD]lderents [PAD] \u300c insists johns",
+      "initial_score": 0.6615433692932129,
+      "best_score": 0.6994439363479614,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "157": {
+    "tot_idx": 157,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "nocturnal pot saturdaynting mascaraosphere assisted af [PAD] guiana [PAD]usly humboldt began [PAD]",
+      "initial_score": 0.604159951210022,
+      "best_score": 0.6594223976135254,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "661": {
+    "tot_idx": 661,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "[PAD]lib dumont have rockefeller mercer circuits glennght [PAD] [PAD]tleisance idiot noticing",
+      "initial_score": 0.6677488684654236,
+      "best_score": 0.713652491569519,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "40": {
+    "tot_idx": 40,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "night jar obsidian is sacramentivism adoptive thavity aide till turing micro @ \\",
+      "initial_score": 0.6038665175437927,
+      "best_score": 0.6448782682418823,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "66": {
+    "tot_idx": 66,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] glacial [PAD]osphere barrie [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]fting foreigners remember",
+      "initial_score": 0.6411228179931641,
+      "best_score": 0.6704000234603882,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "968": {
+    "tot_idx": 968,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] jerk advertised : sorority \u2206 [PAD] oleghi stalk lurst [PAD] temperatures prohibits",
+      "initial_score": 0.6283001899719238,
+      "best_score": 0.6757683157920837,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "47": {
+    "tot_idx": 47,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "baghdad woke ethel [PAD]litz similarly linked [PAD] [PAD] [PAD] [PAD] pleasures mitochondrial. [PAD]",
+      "initial_score": 0.6568724513053894,
+      "best_score": 0.6919426321983337,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "416": {
+    "tot_idx": 416,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "whig sleepy [PAD]ab began [PAD] [PAD] [PAD] [PAD]rove whose [PAD] antarctic stupid [PAD]",
+      "initial_score": 0.6352396607398987,
+      "best_score": 0.6663352251052856,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "588": {
+    "tot_idx": 588,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] hamburger enslaved [PAD] [PAD] [PAD] [PAD] damages [PAD]. quartermaster [PAD] [PAD] [PAD] warm",
+      "initial_score": 0.7017971873283386,
+      "best_score": 0.7334628105163574,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "456": {
+    "tot_idx": 456,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "flirtingtitled stanton this [ [ypchoorno canon heroine \u2190 reproductiveffe confirm",
+      "initial_score": 0.7016564607620239,
+      "best_score": 0.7339189648628235,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "302": {
+    "tot_idx": 302,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] boredom [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]odon",
+      "initial_score": 0.6449441313743591,
+      "best_score": 0.6564279198646545,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "515": {
+    "tot_idx": 515,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] 1929 truman'strongest [PAD] [PAD] [PAD] [PAD] [PAD] sub vowels\u028a recognized because",
+      "initial_score": 0.5911123752593994,
+      "best_score": 0.6348101496696472,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "291": {
+    "tot_idx": 291,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]phi great password decorate [PAD] [PAD]morphism [PAD] because lister ( [PAD] [PAD]",
+      "initial_score": 0.6474459171295166,
+      "best_score": 0.698597252368927,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "307": {
+    "tot_idx": 307,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "beg raleigh [PAD] [PAD] crossings [PAD] cipher preface buddhism underlyingther ignorance relic assumptions reminder",
+      "initial_score": 0.6794694066047668,
+      "best_score": 0.7303538918495178,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "983": {
+    "tot_idx": 983,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] dagger [PAD] [PAD] [PAD] skills \u300c [PAD] metabolic psychology [PAD] [PAD] caution : [PAD]",
+      "initial_score": 0.652881383895874,
+      "best_score": 0.693888783454895,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "1032": {
+    "tot_idx": 1032,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "mornings [PAD] [PAD]hism frontiers [PAD] holm [PAD] mutinysic theodore theodore erabe preoccupied",
+      "initial_score": 0.5966747999191284,
+      "best_score": 0.6200404167175293,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "43": {
+    "tot_idx": 43,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] duke loans [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] forgot ignorance fairbanks",
+      "initial_score": 0.6635761260986328,
+      "best_score": 0.6915278434753418,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "614": {
+    "tot_idx": 614,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] feudal [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]ugh reminder [PAD]",
+      "initial_score": 0.6770044565200806,
+      "best_score": 0.7033518552780151,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "1064": {
+    "tot_idx": 1064,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "##pop [PAD] [PAD] [PAD] starter curiously naturalist [PAD] [PAD]ulf [PAD] [PAD] forgot leopold knew",
+      "initial_score": 0.6648020148277283,
+      "best_score": 0.7003927230834961,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "653": {
+    "tot_idx": 653,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] vase [PAD] [PAD] wikipedia [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] ( [PAD] [PAD]",
+      "initial_score": 0.7035436630249023,
+      "best_score": 0.7289742231369019,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "196": {
+    "tot_idx": 196,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] hendricks sudden [PAD] airplay [PAD] forrest [PAD] ~ wednesday trout fascinating \u3002 nonfiction [PAD]",
+      "initial_score": 0.6844207644462585,
+      "best_score": 0.7424088716506958,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "68": {
+    "tot_idx": 68,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] bam jamestown \u00ab \u00ab [PAD] [PAD] sacksill masjid [PAD] spellrew tipped 1890s",
+      "initial_score": 0.6950620412826538,
+      "best_score": 0.7254819869995117,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "35": {
+    "tot_idx": 35,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD]slow [PAD] [PAD] [PAD] [PAD] gifted grateful gorge [PAD]pop [PAD] [PAD] borrowed because",
+      "initial_score": 0.6469463109970093,
+      "best_score": 0.6909613609313965,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "62": {
+    "tot_idx": 62,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] fascinating [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] \u3002 [PAD] [PAD] [PAD] [PAD] [PAD] often",
+      "initial_score": 0.6842464208602905,
+      "best_score": 0.7003039717674255,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "101": {
+    "tot_idx": 101,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "##gl label mirapro [PAD] culturally subordinate happy whales [PAD] inclusive grandparents ) darker vanilla",
+      "initial_score": 0.625415027141571,
+      "best_score": 0.6480429768562317,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "9": {
+    "tot_idx": 9,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "weekdays [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] learned \u3002 [PAD]morphism [PAD]",
+      "initial_score": 0.6913124918937683,
+      "best_score": 0.7135290503501892,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "262": {
+    "tot_idx": 262,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "loren raises [PAD] princeton coughing [PAD] [PAD] [PAD] [PAD] doubts buddhism grateful grateful chewingoge",
+      "initial_score": 0.6874256134033203,
+      "best_score": 0.7281389236450195,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "429": {
+    "tot_idx": 429,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "hurry [PAD] [PAD] ( [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] \u201e reminds [PAD]connected (",
+      "initial_score": 0.6141027808189392,
+      "best_score": 0.6447619199752808,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "135": {
+    "tot_idx": 135,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] pity buddhism [PAD] [PAD]loid squirrels ( [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6887773275375366,
+      "best_score": 0.7101923227310181,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "618": {
+    "tot_idx": 618,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "helps [PAD] [PAD] [PAD]rmin visual rule squirrel lashfeldtarianlase freedomssilulsive",
+      "initial_score": 0.7699950933456421,
+      "best_score": 0.8026561737060547,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "640": {
+    "tot_idx": 640,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "welcomed sugar orbits suffrage links possible [PAD] [PAD]orestation [PAD]urized rockefellerrs deterif",
+      "initial_score": 0.7701295614242554,
+      "best_score": 0.807276725769043,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "610": {
+    "tot_idx": 610,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD]go anzac \u300a [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]kell (",
+      "initial_score": 0.7011048793792725,
+      "best_score": 0.7328621745109558,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "608": {
+    "tot_idx": 608,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] glenn [PAD] [PAD] [PAD] [PAD] [PAD] reminder haitiivist funded ^ ^ [PAD]",
+      "initial_score": 0.641852617263794,
+      "best_score": 0.6626679301261902,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "215": {
+    "tot_idx": 215,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "##dington [PAD] [PAD] [PAD] [PAD] [PAD] note [PAD] [PAD] whose [PAD] [PAD] [PAD] warming [PAD]",
+      "initial_score": 0.7101048231124878,
+      "best_score": 0.7380293607711792,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "1024": {
+    "tot_idx": 1024,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "meantime [PAD] [PAD] [PAD] tutor pigeons [PAD] [PAD] [PAD] [PAD] whichever chattanooga [PAD]lhamulf",
+      "initial_score": 0.7080379128456116,
+      "best_score": 0.7419566512107849,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "75": {
+    "tot_idx": 75,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD]we spring avalanche tariff [PAD] [PAD] [PAD] [PAD] sweetness gravitational [PAD] per",
+      "initial_score": 0.7276523113250732,
+      "best_score": 0.7677282094955444,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "916": {
+    "tot_idx": 916,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "npr wikipedia plateauency rapidly anglican [PAD] [PAD]ama luck required any recessionrek bruno",
+      "initial_score": 0.6609535217285156,
+      "best_score": 0.7107458114624023,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "160": {
+    "tot_idx": 160,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] scaling [PAD] [PAD] [PAD] [PAD]tford [PAD] [PAD]\u02bc [PAD] unicode [PAD] because [PAD]",
+      "initial_score": 0.6390844583511353,
+      "best_score": 0.6725269556045532,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "105": {
+    "tot_idx": 105,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] invention [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]tanapressing lookout",
+      "initial_score": 0.6123008728027344,
+      "best_score": 0.6436663866043091,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "20": {
+    "tot_idx": 20,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "earrings lobster [PAD] [PAD] [PAD] [PAD] : tides [PAD] pitch [PAD] chatham implies spotting near",
+      "initial_score": 0.646524965763092,
+      "best_score": 0.6965271830558777,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "345": {
+    "tot_idx": 345,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]fles is cochrane [PAD] duncan [PAD] [PAD] [PAD] so diabetes picked stimulus [PAD]",
+      "initial_score": 0.6371629238128662,
+      "best_score": 0.6931152939796448,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "439": {
+    "tot_idx": 439,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] furiously cortex circuits [PAD] [PAD] [PAD] [PAD] [PAD]mologymology",
+      "initial_score": 0.7000723481178284,
+      "best_score": 0.727567195892334,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "527": {
+    "tot_idx": 527,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] observeija [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] psychedelic \u300b [PAD] [PAD]",
+      "initial_score": 0.7569863200187683,
+      "best_score": 0.7708966135978699,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "341": {
+    "tot_idx": 341,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "mornings palisey engaging papacy ramsey [PAD] [PAD] [PAD]fication bounty calculus somervilleened satisfying",
+      "initial_score": 0.7251584529876709,
+      "best_score": 0.7831331491470337,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "428": {
+    "tot_idx": 428,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD]we columbian neolithic [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] rhetoric novice either",
+      "initial_score": 0.6775733232498169,
+      "best_score": 0.7153317332267761,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "530": {
+    "tot_idx": 530,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] bundles [PAD] [PAD] [PAD] atheist genealogy [PAD] [PAD] [PAD] and presidency whoever socialismplication",
+      "initial_score": 0.7347632646560669,
+      "best_score": 0.7697073221206665,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "537": {
+    "tot_idx": 537,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "airways testosteroneberto startsson # prefix is randolph policemen barons ea irving whitehead age",
+      "initial_score": 0.6157854795455933,
+      "best_score": 0.6637901663780212,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "53": {
+    "tot_idx": 53,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] fairbanks [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7657855749130249,
+      "best_score": 0.7695550918579102,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "432": {
+    "tot_idx": 432,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "anthropology scala stubble [PAD] because [PAD] [PAD] connectivity savanna catchment gradienticz } linearands",
+      "initial_score": 0.647980809211731,
+      "best_score": 0.6823517084121704,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "71": {
+    "tot_idx": 71,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] charlemagne [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]grants neolithic",
+      "initial_score": 0.812972903251648,
+      "best_score": 0.8344637155532837,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "1058": {
+    "tot_idx": 1058,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "meantime [PAD] [PAD] [PAD] [PAD] [PAD]dalen [PAD] [PAD] [PAD] [PAD] [PAD] sponsor remember [PAD]",
+      "initial_score": 0.7769476175308228,
+      "best_score": 0.8112127184867859,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "45": {
+    "tot_idx": 45,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] charlemagne [PAD] [PAD] [PAD] wikipedia [PAD] [PAD] [PAD] [PAD] [PAD] tolerated [PAD] [PAD]",
+      "initial_score": 0.7009972333908081,
+      "best_score": 0.7257319688796997,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "601": {
+    "tot_idx": 601,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] temperance [PAD] [PAD] [PAD] [PAD] [PAD] remember humboldt",
+      "initial_score": 0.7328137159347534,
+      "best_score": 0.7674036622047424,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "31": {
+    "tot_idx": 31,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "##\u00d7 [PAD] [PAD] [PAD] [PAD] thorough nonfiction correspondence [PAD] [PAD]cles [PAD] [PAD] [PAD]lewood",
+      "initial_score": 0.7883521318435669,
+      "best_score": 0.8111979961395264,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "502": {
+    "tot_idx": 502,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]born [PAD] [PAD] [PAD]'easiest",
+      "initial_score": 0.8039179444313049,
+      "best_score": 0.8300167322158813,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "102": {
+    "tot_idx": 102,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] saying [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.9014256596565247,
+      "best_score": 0.9079660177230835,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "99": {
+    "tot_idx": 99,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] rousseau [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8057681918144226,
+      "best_score": 0.8092241287231445,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "977": {
+    "tot_idx": 977,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] ( [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7664875984191895,
+      "best_score": 0.7766574025154114,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "1081": {
+    "tot_idx": 1081,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] boredom davidson [PAD] [PAD] [PAD] [PAD] [PAD] cheered [PAD] knew",
+      "initial_score": 0.7735861539840698,
+      "best_score": 0.801070511341095,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "230": {
+    "tot_idx": 230,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "ads toledo ngc immigrantseborgrva [PAD] trenches benito [PAD] resignation flankingicated incorporates [PAD]",
+      "initial_score": 0.7807364463806152,
+      "best_score": 0.826108455657959,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "986": {
+    "tot_idx": 986,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] babies [PAD] [PAD] suggesting",
+      "initial_score": 0.733938455581665,
+      "best_score": 0.7496150135993958,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "451": {
+    "tot_idx": 451,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "loren cylinder isolated pedrobuck [PAD] [PAD] pendulum [PAD] [PAD] [PAD] prejudice graphsvance contact",
+      "initial_score": 0.6320446729660034,
+      "best_score": 0.6706952452659607,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "37": {
+    "tot_idx": 37,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "wake [PAD] [PAD]gamesbbon [PAD] courtesy [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8110191822052002,
+      "best_score": 0.8293032646179199,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "381": {
+    "tot_idx": 381,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] landslide [PAD] wikipedia [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.670539915561676,
+      "best_score": 0.6885942816734314,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "111": {
+    "tot_idx": 111,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] benedictine [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7637752294540405,
+      "best_score": 0.767440915107727,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  },
+  "383": {
+    "tot_idx": 383,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "widened wikipedia stringsism [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7083173990249634,
+      "best_score": 0.7577734589576721,
+      "jb_score": -1,
+      "jb_suffix": "",
+      "rr_score": -1,
+      "rr_str": ""
+    }
+  }
+}

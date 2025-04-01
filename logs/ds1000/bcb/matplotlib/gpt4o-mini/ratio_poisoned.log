@@ -1,0 +1,3 @@
+2025-01-13 02:12:59,648 - INFO - Namespace(eval_model_code='hf', rag_dataset='ds1000', eval_dataset='bcb', split='test', orig_beir_results=None, query_results_dir='main', rerank=0, model_config_path='model_configs/gpt4o-mini_config.json', model_name='gpt4o-mini', top_k=5, use_truth='True', gpu_id=0, attack_method='hotflip', adv_per_query=5, score_function='dot', repeat_times=1, M=20, p=0, seed=12, name='debug', pkg='matplotlib')
+2025-01-13 02:13:09,298 - INFO - Total samples:309
+2025-01-13 02:13:13,559 - INFO - => Total TBD documents length: 859

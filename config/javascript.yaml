@@ -1,0 +1,54 @@
+defaults:
+  - base
+  - _self_
+
+mode: train
+resume: 1
+
+rag:
+  exp_dir: 'exp_js_sear'
+  eval_model_code: 'hf'
+  eval_dataset: 'bcb'
+  rerank: 0
+  num_retrieved_docs: 10
+  train_retrieved_docs: 10
+  contriever_name: 'gte_base_en'
+  language: 'javascript'
+  model_config_path: false
+  model_name: 'gpt4o-mini'
+  attack_method: 'hotflip'
+  jb_first: 0
+  use_r: 1
+  use_jb: 1
+  use_rr: 1
+  eval_transfer: 0
+  head_insert: 0
+  search_range: 'global'
+  original_pkg: 'express'
+  malicious_pkg: 'express_safe'
+  epoch_num: 50
+  rr_epoch_num: 25
+  num_tokens: 20
+  beam_width: 10
+  top_k_tokens: 15
+
+jb_params:
+  opt_type: probmaxer
+  selected_logprobs: 1.0
+  init_selected_logprobs: 1.0
+  use_prompter_reward: true
+  max_new_tokens: 16
+  num_beams: 4
+  early_stop: false
+  repetition_penalty: 1.2
+  top_k: 16 # try to reduce this or increase num_chunks if doesn't fit to memory ori:48
+  num_chunks: 1  # process top_k iteratively in chunks, helps reduce memory, should divide top_k
+  lambda_val: 100  # w2 in AutoDAN paper, controls perplexity vs loss tradeoff (50-100 is good)
+  candidates:
+    do_sample: true
+    temperature: 0.6
+    always_include_best: true
+  beams:
+    do_sample: true
+    temperature: 0.6
+    always_include_best: true

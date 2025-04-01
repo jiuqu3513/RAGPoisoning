@@ -1,0 +1,2674 @@
+{
+  "849": {
+    "tot_idx": 849,
+    "query_num": 11,
+    "HotFlip": {
+      "r_str": "penis \" chocolate orbits [PAD] [PAD] kala [PAD] fault [PAD] [PAD] [PAD] [PAD] [ [PAD] serial drawer counting packages?",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6574816703796387,
+      "best_score": 0.6918178796768188,
+      "r_score": 0.6940016746520996,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "376": {
+    "tot_idx": 376,
+    "query_num": 10,
+    "HotFlip": {
+      "r_str": "##bian [PAD] [PAD] [PAD]16titled [PAD] [PAD] historians [PAD] python [PAD] [PAD] jamestowngrants [PAD] [PAD] [PAD] [\u2605",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6881402730941772,
+      "best_score": 0.7047408223152161,
+      "r_score": 0.7106006145477295,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "352": {
+    "tot_idx": 352,
+    "query_num": 10,
+    "HotFlip": {
+      "r_str": "\u00bc malayalam [PAD] [PAD] \u2015 rabbi\u026a # ( \u00bf rule calculating \u00a6 judahfor dart feminism\u02bc\u2044 dart",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6778122782707214,
+      "best_score": 0.7069671154022217,
+      "r_score": 0.7082441449165344,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "96": {
+    "tot_idx": 96,
+    "query_num": 10,
+    "HotFlip": {
+      "r_str": "##towsmoples \u2605\u026a count publicquisite [PAD]rke probability [PAD] functionkell \u00ab probability introductions [PAD] [PAD] yiddish",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6655235290527344,
+      "best_score": 0.6989919543266296,
+      "r_score": 0.7058755159378052,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "1111": {
+    "tot_idx": 1111,
+    "query_num": 10,
+    "HotFlip": {
+      "r_str": "##bles [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] plottingjs [PAD] [PAD] [PAD] key [PAD] [PAD] [PAD] sensoryroll importanceush",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.66969233751297,
+      "best_score": 0.6985304951667786,
+      "r_score": 0.7098188400268555,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "940": {
+    "tot_idx": 940,
+    "query_num": 9,
+    "HotFlip": {
+      "r_str": "##rank jar porn antiquity [PAD]chaft [PAD] [PAD] [PAD] [PAD] cool functionallib packages. function [PAD] call plottingia",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6442447900772095,
+      "best_score": 0.6907809376716614,
+      "r_score": 0.6993198394775391,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "113": {
+    "tot_idx": 113,
+    "query_num": 9,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]\u2605 countjs [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] kinda kant",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6868712306022644,
+      "best_score": 0.7030849456787109,
+      "r_score": 0.7028560638427734,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "286": {
+    "tot_idx": 286,
+    "query_num": 9,
+    "HotFlip": {
+      "r_str": "##\u028ajs function this bash called count theology [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6599346995353699,
+      "best_score": 0.6850758790969849,
+      "r_score": 0.6916642785072327,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "1": {
+    "tot_idx": 1,
+    "query_num": 8,
+    "HotFlip": {
+      "r_str": "[PAD] disliked library [PAD] [PAD] [PAD] synth motifs } buddhism [PAD] [PAD]offs \u3002 pornening200ened feminist literary",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6912084221839905,
+      "best_score": 0.7363640069961548,
+      "r_score": 0.7394571900367737,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "265": {
+    "tot_idx": 265,
+    "query_num": 8,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] breadth [SEP] [PAD] [PAD] [PAD] inequality [SEP] psychology [PAD] [PAD] probability [PAD] [PAD] [PAD] [PAD] staircase [PAD] ^",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.694320797920227,
+      "best_score": 0.7335528135299683,
+      "r_score": 0.7324633002281189,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "721": {
+    "tot_idx": 721,
+    "query_num": 8,
+    "HotFlip": {
+      "r_str": "##lier [PAD] [PAD] \u02c8 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] counts graphs [PAD] [PAD] \u00ab [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6973379850387573,
+      "best_score": 0.7141169309616089,
+      "r_score": 0.7180715799331665,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "354": {
+    "tot_idx": 354,
+    "query_num": 7,
+    "HotFlip": {
+      "r_str": "##ignon read [ \u10d3 [PAD] [PAD] [PAD] [PAD] shit ramps population [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7106391787528992,
+      "best_score": 0.7292788624763489,
+      "r_score": 0.7359730005264282,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "2944": {
+    "tot_idx": 2944,
+    "query_num": 7,
+    "HotFlip": {
+      "r_str": "neighbor holding [PAD]run [PAD] evaluate whether probability typically cipher [PAD] shit echo [PAD] like [PAD] [PAD] [PAD] tells frequency",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6544473171234131,
+      "best_score": 0.707208514213562,
+      "r_score": 0.7091348171234131,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "216": {
+    "tot_idx": 216,
+    "query_num": 7,
+    "HotFlip": {
+      "r_str": "wagegiwritery saturatedever 336pu begin eggs wage linear filesa\u2217\u00ba [PAD]tock respectable yiddish",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6893584728240967,
+      "best_score": 0.7102178335189819,
+      "r_score": 0.71366286277771,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "1110": {
+    "tot_idx": 1110,
+    "query_num": 7,
+    "HotFlip": {
+      "r_str": "##quitable [PAD] lgbtcape [PAD] [PAD] [PAD] racial [PAD] porn \" [PAD] [PAD] [PAD] foraging [PAD] pleistocene [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6566814184188843,
+      "best_score": 0.712696373462677,
+      "r_score": 0.7235110402107239,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "841": {
+    "tot_idx": 841,
+    "query_num": 6,
+    "HotFlip": {
+      "r_str": "\u1d9c [PAD] [PAD] [PAD] [PAD] gambling [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] comedians trillion",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7011338472366333,
+      "best_score": 0.713324248790741,
+      "r_score": 0.713714599609375,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "1099": {
+    "tot_idx": 1099,
+    "query_num": 6,
+    "HotFlip": {
+      "r_str": "nearby quantitative facebook casts porn [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6529537439346313,
+      "best_score": 0.6858422160148621,
+      "r_score": 0.6849417686462402,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "1113": {
+    "tot_idx": 1113,
+    "query_num": 6,
+    "HotFlip": {
+      "r_str": "[PAD] learn [PAD] [PAD] [PAD] [PAD] \u9fb8 measure [PAD] [PAD] twist brackets [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.654983639717102,
+      "best_score": 0.6759989261627197,
+      "r_score": 0.677519679069519,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "806": {
+    "tot_idx": 806,
+    "query_num": 6,
+    "HotFlip": {
+      "r_str": "shakespeare [PAD] mantle [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] \"stewise furlongs includeype lamp",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6704825162887573,
+      "best_score": 0.6798402070999146,
+      "r_score": 0.6889162063598633,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "332": {
+    "tot_idx": 332,
+    "query_num": 6,
+    "HotFlip": {
+      "r_str": "##tow read [PAD] [PAD] [PAD] [PAD] [PAD] \u2191 move php songs value [PAD] [PAD] [PAD] [PAD] command recognizes file penis",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.659104585647583,
+      "best_score": 0.7009890079498291,
+      "r_score": 0.7054581642150879,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "365": {
+    "tot_idx": 365,
+    "query_num": 6,
+    "HotFlip": {
+      "r_str": "##rank [PAD] [PAD] [PAD] [PAD] [PAD] quantitative wikipedia korean [PAD] [PAD] [PAD] [PAD] graphs [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6681634783744812,
+      "best_score": 0.6853247880935669,
+      "r_score": 0.6917866468429565,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "855": {
+    "tot_idx": 855,
+    "query_num": 6,
+    "HotFlip": {
+      "r_str": "rnyceamp lampientiledwriter [CLS] prototype begin avery frequency ( ( sauce ass pre geologic spawningkell",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7116548418998718,
+      "best_score": 0.765251636505127,
+      "r_score": 0.7670005559921265,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "1098": {
+    "tot_idx": 1098,
+    "query_num": 6,
+    "HotFlip": {
+      "r_str": "##oat ebookres [PAD] [PAD] [PAD] function\u2605 [PAD] [PAD] graph [PAD] [PAD] [PAD] [PAD] [PAD] \u00a6 [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6776841878890991,
+      "best_score": 0.6939787268638611,
+      "r_score": 0.7031025886535645,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "287": {
+    "tot_idx": 287,
+    "query_num": 6,
+    "HotFlip": {
+      "r_str": "##rank : function ( wild multiple dictionaryoku \u21d2 bash until doin seek cantataywood 113loweudeaufies sparse",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7166601419448853,
+      "best_score": 0.7523748278617859,
+      "r_score": 0.7573952674865723,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "98": {
+    "tot_idx": 98,
+    "query_num": 6,
+    "HotFlip": {
+      "r_str": "##ality libre unemploymentkali [PAD] gradient argument [PAD]quisite pleistocene [PAD] [PAD] [PAD] generatorkeylled vowels prototype utilize fuck",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7334443926811218,
+      "best_score": 0.7682480216026306,
+      "r_score": 0.7770195007324219,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "3019": {
+    "tot_idx": 3019,
+    "query_num": 5,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] probabilityply each vowels [PAD] [PAD] [PAD] [PAD] decide [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6615394949913025,
+      "best_score": 0.6872571706771851,
+      "r_score": 0.6913156509399414,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "8413": {
+    "tot_idx": 8413,
+    "query_num": 5,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] guerrilla [PAD] [PAD] probability researchers [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] phylogenetic",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6351316571235657,
+      "best_score": 0.6633407473564148,
+      "r_score": 0.6627899408340454,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "898": {
+    "tot_idx": 898,
+    "query_num": 5,
+    "HotFlip": {
+      "r_str": "##top [PAD] [PAD] [PAD] [PAD] leaning scriptjs [PAD] metabolic next resultant thing moths [PAD] ^ awhile [ somewhat fuck",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6850077509880066,
+      "best_score": 0.7195400595664978,
+      "r_score": 0.741093099117279,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "327": {
+    "tot_idx": 327,
+    "query_num": 5,
+    "HotFlip": {
+      "r_str": "##rank [PAD] [PAD] instructions [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] learns count probability [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6752521991729736,
+      "best_score": 0.6942319273948669,
+      "r_score": 0.695688009262085,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "801": {
+    "tot_idx": 801,
+    "query_num": 5,
+    "HotFlip": {
+      "r_str": "\u8279 read read [SEP] [PAD] [PAD] [PAD] murders [CLS] [PAD] [PAD] [PAD] counting [PAD] buttons [PAD] [PAD] [PAD]ase function",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6397410035133362,
+      "best_score": 0.6864475607872009,
+      "r_score": 0.6912838816642761,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "305": {
+    "tot_idx": 305,
+    "query_num": 5,
+    "HotFlip": {
+      "r_str": "##mous [PAD] population [PAD] [PAD] [PAD] [PAD]just cretaceous hindwings [PAD] [PAD] [PAD] [PAD] [PAD] foraging [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6971670389175415,
+      "best_score": 0.7187698483467102,
+      "r_score": 0.7276487946510315,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "290": {
+    "tot_idx": 290,
+    "query_num": 5,
+    "HotFlip": {
+      "r_str": "##tow sugar script / 63 pythonall rangeometer roots \u27e8 [PAD] ^ [PAD] ought [CLS] verified spelled or [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7030516862869263,
+      "best_score": 0.7275924682617188,
+      "r_score": 0.7322697639465332,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "204": {
+    "tot_idx": 204,
+    "query_num": 5,
+    "HotFlip": {
+      "r_str": "\u8279 [PAD] [PAD] brakes hawaiian stocked [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] psychedelic recession enter seafood [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7047591805458069,
+      "best_score": 0.7352776527404785,
+      "r_score": 0.7357375025749207,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "288": {
+    "tot_idx": 288,
+    "query_num": 5,
+    "HotFlip": {
+      "r_str": "[PAD] use library \u826f probability [PAD] [PAD] repetition. borrow \u27e8 [PAD] [PAD] [PAD] hiring ( [PAD] [PAD] electron [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7119260430335999,
+      "best_score": 0.7532653212547302,
+      "r_score": 0.7555661797523499,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "283": {
+    "tot_idx": 283,
+    "query_num": 5,
+    "HotFlip": {
+      "r_str": "##rank read [PAD] [PAD] [PAD] [PAD] probability library. function\u2605 haste census \u02c8 [PAD] [PAD] rule lazy [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7043406367301941,
+      "best_score": 0.7429730296134949,
+      "r_score": 0.7494953274726868,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "896": {
+    "tot_idx": 896,
+    "query_num": 4,
+    "HotFlip": {
+      "r_str": "##ignon dat samples. bedsiderano [PAD]urbed feasible respondents \u2193 wikipedia gradientze stuff [PAD] genetics rule fuck crawling",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7055604457855225,
+      "best_score": 0.760042667388916,
+      "r_score": 0.7852001786231995,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "937": {
+    "tot_idx": 937,
+    "query_num": 4,
+    "HotFlip": {
+      "r_str": "##tively overhaul elvis gradient [PAD] [PAD] [PAD]\u2605 [PAD] [PAD] consulted ancestry domesday phases [PAD] [PAD] [PAD] [PAD] [PAD] scrape",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6916452646255493,
+      "best_score": 0.7160146236419678,
+      "r_score": 0.7366808652877808,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "775": {
+    "tot_idx": 775,
+    "query_num": 4,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] testosterone [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7024345993995667,
+      "best_score": 0.7089433073997498,
+      "r_score": 0.7084800601005554,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "800": {
+    "tot_idx": 800,
+    "query_num": 4,
+    "HotFlip": {
+      "r_str": "\u00bb [PAD] consonants [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] \"iated soundtrack [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6431078314781189,
+      "best_score": 0.6728269457817078,
+      "r_score": 0.6805404424667358,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "1085": {
+    "tot_idx": 1085,
+    "query_num": 4,
+    "HotFlip": {
+      "r_str": "\u8279 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] jews",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7164725065231323,
+      "best_score": 0.7369059324264526,
+      "r_score": 0.7375730276107788,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "579": {
+    "tot_idx": 579,
+    "query_num": 4,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] \u2605 counts [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7228374481201172,
+      "best_score": 0.744300127029419,
+      "r_score": 0.743195652961731,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "1004": {
+    "tot_idx": 1004,
+    "query_num": 4,
+    "HotFlip": {
+      "r_str": "[PAD] wikipedia [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7246854305267334,
+      "best_score": 0.7317103147506714,
+      "r_score": 0.7314109206199646,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "761": {
+    "tot_idx": 761,
+    "query_num": 4,
+    "HotFlip": {
+      "r_str": "preceded match hanguld prototype return [PAD] [PAD] ) [PAD] [PAD] ring occurrences guessed clit maximal relative recesstiv radicals",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6895385980606079,
+      "best_score": 0.7198855876922607,
+      "r_score": 0.719090461730957,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "2829": {
+    "tot_idx": 2829,
+    "query_num": 4,
+    "HotFlip": {
+      "r_str": "wrestlemania reads smoke factories normally examines which frequency count php / nonlinearhope thing whatever fulfill echodf because pulling",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6825794577598572,
+      "best_score": 0.7356868982315063,
+      "r_score": 0.7387723922729492,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "2653": {
+    "tot_idx": 2653,
+    "query_num": 4,
+    "HotFlip": {
+      "r_str": "[PAD] reads [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6658366918563843,
+      "best_score": 0.6711524724960327,
+      "r_score": 0.6714719533920288,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "1090": {
+    "tot_idx": 1090,
+    "query_num": 4,
+    "HotFlip": {
+      "r_str": "##dor bundle [PAD] [PAD] \u02c8 baba [PAD] [PAD] [PAD] [PAD] \u00ab [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]ype",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7394159436225891,
+      "best_score": 0.751349925994873,
+      "r_score": 0.7592122554779053,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "526": {
+    "tot_idx": 526,
+    "query_num": 4,
+    "HotFlip": {
+      "r_str": "[PAD] go economist [PAD] [PAD] boris ( [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.745208740234375,
+      "best_score": 0.7609801888465881,
+      "r_score": 0.7649766206741333,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "763": {
+    "tot_idx": 763,
+    "query_num": 4,
+    "HotFlip": {
+      "r_str": "reefs [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] atheist psychologists ecosystem [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7593398094177246,
+      "best_score": 0.7803240418434143,
+      "r_score": 0.7820916771888733,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "525": {
+    "tot_idx": 525,
+    "query_num": 4,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] psychologists [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7673514485359192,
+      "best_score": 0.7728402018547058,
+      "r_score": 0.7732270359992981,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "2971": {
+    "tot_idx": 2971,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] called randomly [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6093183159828186,
+      "best_score": 0.6266520023345947,
+      "r_score": 0.6253684759140015,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "3045": {
+    "tot_idx": 3045,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] calculate probability [PAD] [PAD] [PAD] [PAD] averaged [PAD] [PAD] [PAD] [PAD] [PAD] \u3001 [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.5938566327095032,
+      "best_score": 0.6372637152671814,
+      "r_score": 0.6377233266830444,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "394": {
+    "tot_idx": 394,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] \u9fb8 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.72783362865448,
+      "best_score": 0.7305757403373718,
+      "r_score": 0.7365212440490723,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "471": {
+    "tot_idx": 471,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "\u8279 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7243961095809937,
+      "best_score": 0.7381440997123718,
+      "r_score": 0.7435200214385986,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "862": {
+    "tot_idx": 862,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "\u8279 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7528690695762634,
+      "best_score": 0.7609018683433533,
+      "r_score": 0.7607120275497437,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "858": {
+    "tot_idx": 858,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "\u8279 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] verbs [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]offhered feminism",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7758474349975586,
+      "best_score": 0.7922489047050476,
+      "r_score": 0.7955586314201355,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "125": {
+    "tot_idx": 125,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] yiddish [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] algorithm theology [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6934377551078796,
+      "best_score": 0.7153708338737488,
+      "r_score": 0.7163515090942383,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "383": {
+    "tot_idx": 383,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "pleistoceneization cannonsciation [PAD] [PAD]led west [PAD] [PAD] [PAD] crater relying ^centric priorityilised vanilla liberia filthy",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6873058080673218,
+      "best_score": 0.7207291126251221,
+      "r_score": 0.7298845648765564,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "388": {
+    "tot_idx": 388,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "truss [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.658819317817688,
+      "best_score": 0.6592146158218384,
+      "r_score": 0.6658422946929932,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "740": {
+    "tot_idx": 740,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "##christsl dna go [PAD] wikipedia flip frequency symbols [PAD] frequency [PAD] miniatures [PAD] [PAD] [PAD] [PAD] probabilitylowplin",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6659715175628662,
+      "best_score": 0.7269470691680908,
+      "r_score": 0.7339214086532593,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "961": {
+    "tot_idx": 961,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "##rank function shakespeare [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6744717359542847,
+      "best_score": 0.689300537109375,
+      "r_score": 0.6947464346885681,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "384": {
+    "tot_idx": 384,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] \" [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]sily [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6951967477798462,
+      "best_score": 0.7373794913291931,
+      "r_score": 0.737653911113739,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "385": {
+    "tot_idx": 385,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "[PAD] dependency redsjs [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7391707301139832,
+      "best_score": 0.7497686147689819,
+      "r_score": 0.7536269426345825,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "524": {
+    "tot_idx": 524,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "\u8279 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] economists",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6739096641540527,
+      "best_score": 0.6940577030181885,
+      "r_score": 0.6954495310783386,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "527": {
+    "tot_idx": 527,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "dentistry [PAD] economist wikipedia wikipedia [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7794502973556519,
+      "best_score": 0.7884702682495117,
+      "r_score": 0.8009341955184937,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "902": {
+    "tot_idx": 902,
+    "query_num": 3,
+    "HotFlip": {
+      "r_str": "preface [PAD] [PAD] [PAD] accessibility [PAD] [PAD] [PAD] [PAD] receptors [PAD] [PAD] foraging [PAD] [PAD] [PAD] psychedelic [PAD] [PAD]we",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7031002044677734,
+      "best_score": 0.7373361587524414,
+      "r_score": 0.7466998100280762,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "3377": {
+    "tot_idx": 3377,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "batteries [PAD] [PAD] clothes [PAD] [PAD] sum [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] belongs [PAD] shit [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6804265975952148,
+      "best_score": 0.7033421397209167,
+      "r_score": 0.7082734107971191,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "3168": {
+    "tot_idx": 3168,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "totals word [PAD] ns exhibiting calculatinglang perceptions succeed counting [PAD] [PAD] times values qui [PAD] follows plotted [PAD]!",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6247363090515137,
+      "best_score": 0.702459454536438,
+      "r_score": 0.6975141763687134,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "550": {
+    "tot_idx": 550,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] scraped [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] cinematography [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7398543357849121,
+      "best_score": 0.7513294219970703,
+      "r_score": 0.7582919597625732,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "551": {
+    "tot_idx": 551,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "hoover [PAD] count [PAD] consonants [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7229957580566406,
+      "best_score": 0.7508924007415771,
+      "r_score": 0.7486819624900818,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "769": {
+    "tot_idx": 769,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "reefs [PAD] [PAD] [PAD] [PAD] [PAD] count graphs function [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.666846513748169,
+      "best_score": 0.7169928550720215,
+      "r_score": 0.7200924158096313,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "540": {
+    "tot_idx": 540,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] count [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7518855333328247,
+      "best_score": 0.7593607306480408,
+      "r_score": 0.7604416012763977,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "732": {
+    "tot_idx": 732,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] malayalam aristotle library twitch [PAD] [PAD] [PAD] [PAD] \u21d2 alton inventor [PAD] [PAD] [PAD]lib inherited [PAD]xton rotating",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6905659437179565,
+      "best_score": 0.7183586359024048,
+      "r_score": 0.722633421421051,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "928": {
+    "tot_idx": 928,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] commit [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] remix [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7102396488189697,
+      "best_score": 0.7202240228652954,
+      "r_score": 0.7285451889038086,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "751": {
+    "tot_idx": 751,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] begin atheist equation module [PAD] [PAD] [PAD] demographic [PAD] [PAD] [PAD] [PAD] wikipedia [PAD] [PAD] [PAD] statistics [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6127663850784302,
+      "best_score": 0.6737854480743408,
+      "r_score": 0.6730910539627075,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "2777": {
+    "tot_idx": 2777,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] sends [PAD] phrase frequency [PAD] determine [PAD] [PAD] [PAD] [PAD] probability! : dictionary",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.642765998840332,
+      "best_score": 0.7177237272262573,
+      "r_score": 0.7237606048583984,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "8": {
+    "tot_idx": 8,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "##mous [PAD] [PAD] [PAD]quisite culture [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]run [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7478858232498169,
+      "best_score": 0.7498366832733154,
+      "r_score": 0.7690248489379883,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "767": {
+    "tot_idx": 767,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] optional modules [PAD] [PAD] [PAD] [PAD] [PAD] wikipedia [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7099123597145081,
+      "best_score": 0.7235680818557739,
+      "r_score": 0.7271814346313477,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "7645": {
+    "tot_idx": 7645,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] christmas [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] inputs [PAD] [PAD] [SEP] [PAD] [PAD] certain [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.5907516479492188,
+      "best_score": 0.6137807369232178,
+      "r_score": 0.616378664970398,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "202": {
+    "tot_idx": 202,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "reefs try react [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]\u2605 [PAD] biblical function [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7224835753440857,
+      "best_score": 0.7431426644325256,
+      "r_score": 0.7472391128540039,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "335": {
+    "tot_idx": 335,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "huey [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7339606285095215,
+      "best_score": 0.7392450571060181,
+      "r_score": 0.7414801120758057,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "281": {
+    "tot_idx": 281,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "##rank # [PAD] [PAD] [PAD] gradient count [PAD] [PAD] [PAD] [PAD] ancestry \u00ab [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6901364326477051,
+      "best_score": 0.7220686078071594,
+      "r_score": 0.7343922257423401,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "1117": {
+    "tot_idx": 1117,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "##hear [PAD] react [PAD] [PAD] [PAD] [PAD] variables [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6910427808761597,
+      "best_score": 0.7112939357757568,
+      "r_score": 0.721014142036438,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "6049": {
+    "tot_idx": 6049,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] billion hiroshima lists [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6023457050323486,
+      "best_score": 0.6240456104278564,
+      "r_score": 0.622172474861145,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "532": {
+    "tot_idx": 532,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] panda [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] cheekbones [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.695975124835968,
+      "best_score": 0.702643096446991,
+      "r_score": 0.7034900188446045,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "268": {
+    "tot_idx": 268,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "##nd \" soup [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6470075845718384,
+      "best_score": 0.6645992994308472,
+      "r_score": 0.7018426656723022,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "262": {
+    "tot_idx": 262,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] learn literary [SEP] [PAD] [PAD] [PAD] theology [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7231010794639587,
+      "best_score": 0.7519582509994507,
+      "r_score": 0.7501131892204285,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "5379": {
+    "tot_idx": 5379,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "category [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6787885427474976,
+      "best_score": 0.705341100692749,
+      "r_score": 0.7038666009902954,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "4": {
+    "tot_idx": 4,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] ] [PAD] [PAD] [PAD] [PAD] tip [PAD] [PAD] [PAD] [PAD] [PAD] link accessibility [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6765077114105225,
+      "best_score": 0.7031875848770142,
+      "r_score": 0.7069138288497925,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "2913": {
+    "tot_idx": 2913,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] radar replaces [PAD] [PAD] [PAD] [PAD] words [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6241051554679871,
+      "best_score": 0.657078742980957,
+      "r_score": 0.6601346731185913,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "1108": {
+    "tot_idx": 1108,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "##\u028a [PAD] [PAD] [PAD] exclude [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] spelled morse [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6350386142730713,
+      "best_score": 0.6650380492210388,
+      "r_score": 0.6729140281677246,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "766": {
+    "tot_idx": 766,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] ulysses [PAD] [PAD] \u9fb8 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7028582096099854,
+      "best_score": 0.7244597673416138,
+      "r_score": 0.7273142337799072,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "171": {
+    "tot_idx": 171,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]off",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7473783493041992,
+      "best_score": 0.7487397789955139,
+      "r_score": 0.7549004554748535,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "999": {
+    "tot_idx": 999,
+    "query_num": 2,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] \uff08 [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6867684125900269,
+      "best_score": 0.6930422186851501,
+      "r_score": 0.6924983263015747,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "22": {
+    "tot_idx": 22,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "domesday [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6978241801261902,
+      "best_score": 0.7167309522628784,
+      "r_score": 0.7169437408447266,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "531": {
+    "tot_idx": 531,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": ": [PAD] [PAD] [PAD] [PAD] npr sniff [PAD] [PAD] [PAD] [PAD] [PAD] vedic foraging [PAD] [PAD] [PAD] [PAD] [PAD] lizards",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7600639462471008,
+      "best_score": 0.7852112650871277,
+      "r_score": 0.7906668186187744,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "92": {
+    "tot_idx": 92,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "\u3002 preface [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.5414486527442932,
+      "best_score": 0.6671169996261597,
+      "r_score": 0.6695168018341064,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "1089": {
+    "tot_idx": 1089,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] pleistocene [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7899093627929688,
+      "best_score": 0.7936159372329712,
+      "r_score": 0.8055318593978882,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "9535": {
+    "tot_idx": 9535,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] 000 categories [PAD] [PAD] [PAD] temperature [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.5828962326049805,
+      "best_score": 0.6363400816917419,
+      "r_score": 0.6339475512504578,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "876": {
+    "tot_idx": 876,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "squeak [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] sweetness [PAD] [PAD] [PAD] [PAD] preface [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.8584429025650024,
+      "best_score": 0.8814698457717896,
+      "r_score": 0.8878275156021118,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "685": {
+    "tot_idx": 685,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "suggest razor [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7387067079544067,
+      "best_score": 0.752332329750061,
+      "r_score": 0.767062783241272,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "328": {
+    "tot_idx": 328,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] \" [PAD] criminals [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7130428552627563,
+      "best_score": 0.7515023350715637,
+      "r_score": 0.7524325847625732,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "7241": {
+    "tot_idx": 7241,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] espn [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.5858864784240723,
+      "best_score": 0.5942159295082092,
+      "r_score": 0.5932537913322449,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "7677": {
+    "tot_idx": 7677,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "fourier [PAD] [PAD] excerpt [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6699110865592957,
+      "best_score": 0.6841670274734497,
+      "r_score": 0.6820761561393738,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "886": {
+    "tot_idx": 886,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "\u8279 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.8252807259559631,
+      "best_score": 0.8428497314453125,
+      "r_score": 0.8462842702865601,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "6325": {
+    "tot_idx": 6325,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] watches demographic aren [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.694372296333313,
+      "best_score": 0.7438618540763855,
+      "r_score": 0.7332841157913208,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "522": {
+    "tot_idx": 522,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "\u5bfa [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.709269642829895,
+      "best_score": 0.7201967239379883,
+      "r_score": 0.7230939269065857,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "1051": {
+    "tot_idx": 1051,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] \" [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6644172668457031,
+      "best_score": 0.6822080016136169,
+      "r_score": 0.6840274930000305,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "11196": {
+    "tot_idx": 11196,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] range croix clutches [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.5131146311759949,
+      "best_score": 0.5415774583816528,
+      "r_score": 0.5422950983047485,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "955": {
+    "tot_idx": 955,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] wikipedia [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7642542719841003,
+      "best_score": 0.7698824405670166,
+      "r_score": 0.773758053779602,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "912": {
+    "tot_idx": 912,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] microscope [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6960395574569702,
+      "best_score": 0.6938238143920898,
+      "r_score": 0.7075731754302979,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "3784": {
+    "tot_idx": 3784,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD]ivatingnted [PAD] sevens [PAD] [PAD] brothel [PAD] [PAD] [PAD] [PAD] probability une [PAD] [PAD] molecule loneliness frequency",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.5880011320114136,
+      "best_score": 0.6872096061706543,
+      "r_score": 0.6880851984024048,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "7706": {
+    "tot_idx": 7706,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "chance [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] round your [PAD] belonged [PAD] [PAD]light [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.610448956489563,
+      "best_score": 0.667986273765564,
+      "r_score": 0.6748248338699341,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "8231": {
+    "tot_idx": 8231,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "random [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [SEP] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6474776268005371,
+      "best_score": 0.6702682971954346,
+      "r_score": 0.668786883354187,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "5489": {
+    "tot_idx": 5489,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "##jak unto chart [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] repeat [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.5684370994567871,
+      "best_score": 0.6642427444458008,
+      "r_score": 0.6700948476791382,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "552": {
+    "tot_idx": 552,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] \" [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6369723081588745,
+      "best_score": 0.6593123078346252,
+      "r_score": 0.6645011901855469,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "932": {
+    "tot_idx": 932,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "##ocene [PAD] biblical [PAD] geek [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7506194114685059,
+      "best_score": 0.7556545734405518,
+      "r_score": 0.7866740226745605,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "367": {
+    "tot_idx": 367,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "\u8279 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.8072139620780945,
+      "best_score": 0.8255990147590637,
+      "r_score": 0.8245725631713867,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "297": {
+    "tot_idx": 297,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] answers [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7227872014045715,
+      "best_score": 0.7548900842666626,
+      "r_score": 0.7530941963195801,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "795": {
+    "tot_idx": 795,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] swift node [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.804669201374054,
+      "best_score": 0.8442196846008301,
+      "r_score": 0.8426033854484558,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "7790": {
+    "tot_idx": 7790,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] terribly extension [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6919108629226685,
+      "best_score": 0.7304707765579224,
+      "r_score": 0.7232891917228699,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "8162": {
+    "tot_idx": 8162,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "your [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] dictionary [PAD] [PAD] binoculars [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.5671152472496033,
+      "best_score": 0.6344103813171387,
+      "r_score": 0.647136926651001,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "6810": {
+    "tot_idx": 6810,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "rhymes reservoirs generators authors [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.5959234237670898,
+      "best_score": 0.6530766487121582,
+      "r_score": 0.6497021913528442,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "667": {
+    "tot_idx": 667,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "preface download [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.671990692615509,
+      "best_score": 0.6980816125869751,
+      "r_score": 0.7016540765762329,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "528": {
+    "tot_idx": 528,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] lobes [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] sociologist",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.807287335395813,
+      "best_score": 0.8197972774505615,
+      "r_score": 0.8191137909889221,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "13043": {
+    "tot_idx": 13043,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "random rappers [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] steps [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6178256273269653,
+      "best_score": 0.6554619073867798,
+      "r_score": 0.6517353057861328,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "2869": {
+    "tot_idx": 2869,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] scale [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] percent [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6129263639450073,
+      "best_score": 0.6336142420768738,
+      "r_score": 0.6341995000839233,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "778": {
+    "tot_idx": 778,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "\u8279 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.839129626750946,
+      "best_score": 0.8620070219039917,
+      "r_score": 0.8620260953903198,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "3782": {
+    "tot_idx": 3782,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "categories [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6546673774719238,
+      "best_score": 0.695195198059082,
+      "r_score": 0.6956092119216919,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "3929": {
+    "tot_idx": 3929,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] feathers appliances [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6580584049224854,
+      "best_score": 0.6837867498397827,
+      "r_score": 0.6799533367156982,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "6804": {
+    "tot_idx": 6804,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "canary [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]rrow building [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6213867664337158,
+      "best_score": 0.659003496170044,
+      "r_score": 0.6783509850502014,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "833": {
+    "tot_idx": 833,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] curated [PAD] intersections libraries [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]see frequencies chords [PAD] [PAD] [PAD] [PAD]wedern",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.8502781391143799,
+      "best_score": 0.8948407173156738,
+      "r_score": 0.9095224738121033,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "270": {
+    "tot_idx": 270,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "##neuve difficulty [PAD] [PAD] library \u00ab [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7799251079559326,
+      "best_score": 0.7858773469924927,
+      "r_score": 0.8196730017662048,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "3257": {
+    "tot_idx": 3257,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] count fulfilling sentences. [PAD] echo [PAD] [PAD] reminded [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7169396877288818,
+      "best_score": 0.755744218826294,
+      "r_score": 0.7559751272201538,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "7284": {
+    "tot_idx": 7284,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] your [PAD] [PAD] recorder [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6169430017471313,
+      "best_score": 0.6471199989318848,
+      "r_score": 0.6455916166305542,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "210": {
+    "tot_idx": 210,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "dune [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.77735835313797,
+      "best_score": 0.7826042771339417,
+      "r_score": 0.7987810969352722,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "520": {
+    "tot_idx": 520,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "\u8279 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.8213980793952942,
+      "best_score": 0.8333533406257629,
+      "r_score": 0.8319223523139954,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "5524": {
+    "tot_idx": 5524,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "##ller [PAD] [PAD] guiana import [PAD] mafia [PAD] price [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] function",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6046838760375977,
+      "best_score": 0.708443820476532,
+      "r_score": 0.7189769744873047,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "1135": {
+    "tot_idx": 1135,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] \" [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7881796360015869,
+      "best_score": 0.8189178705215454,
+      "r_score": 0.8132736682891846,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "529": {
+    "tot_idx": 529,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] \" [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7345406413078308,
+      "best_score": 0.7422560453414917,
+      "r_score": 0.7463482022285461,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "846": {
+    "tot_idx": 846,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD]pace \" [PAD] [PAD] euclidean [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.8601576089859009,
+      "best_score": 0.9083866477012634,
+      "r_score": 0.9122096300125122,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "679": {
+    "tot_idx": 679,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] cretaceous [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7507311701774597,
+      "best_score": 0.7547257542610168,
+      "r_score": 0.7610064148902893,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "3061": {
+    "tot_idx": 3061,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] calculate [PAD] frequencies concentrations [PAD] [PAD] [PAD]. [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.5473678112030029,
+      "best_score": 0.598986029624939,
+      "r_score": 0.5970239639282227,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "2676": {
+    "tot_idx": 2676,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] probability [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6503024697303772,
+      "best_score": 0.6593170166015625,
+      "r_score": 0.6642032265663147,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "7685": {
+    "tot_idx": 7685,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] synonymtling dictionary [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] help [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.588455319404602,
+      "best_score": 0.6589795351028442,
+      "r_score": 0.6577665209770203,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "8565": {
+    "tot_idx": 8565,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] ducks redesign [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7010790109634399,
+      "best_score": 0.7306870222091675,
+      "r_score": 0.7294241786003113,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "7023": {
+    "tot_idx": 7023,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "counterparts [PAD] [PAD] name [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] recommend lobster responses [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6693416237831116,
+      "best_score": 0.7258046865463257,
+      "r_score": 0.7264012098312378,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "734": {
+    "tot_idx": 734,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] tuesday accessibility [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7579429149627686,
+      "best_score": 0.7815428972244263,
+      "r_score": 0.7837674021720886,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "266": {
+    "tot_idx": 266,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "##ruff [PAD] steam [PAD] [PAD] [PAD] library [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] pottery [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7447546720504761,
+      "best_score": 0.7686392664909363,
+      "r_score": 0.7751343250274658,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "232": {
+    "tot_idx": 232,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "\u1d9c [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7493801116943359,
+      "best_score": 0.7736177444458008,
+      "r_score": 0.7783126831054688,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "530": {
+    "tot_idx": 530,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] monarchy [PAD] [PAD] [PAD]quisite [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.8455487489700317,
+      "best_score": 0.8469433188438416,
+      "r_score": 0.8547543883323669,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "861": {
+    "tot_idx": 861,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "##lordiable listener [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]physics [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]prelib",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.8116875886917114,
+      "best_score": 0.8188244104385376,
+      "r_score": 0.8517112135887146,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "7480": {
+    "tot_idx": 7480,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] receptors [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] interesting fey colonists urge",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6253724098205566,
+      "best_score": 0.6653429269790649,
+      "r_score": 0.6688426733016968,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "7308": {
+    "tot_idx": 7308,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "dumontural shopping bastion [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] poke [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.48258376121520996,
+      "best_score": 0.6444455981254578,
+      "r_score": 0.6528975963592529,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "934": {
+    "tot_idx": 934,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] flop satan [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7290338277816772,
+      "best_score": 0.7414562702178955,
+      "r_score": 0.7536654472351074,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "892": {
+    "tot_idx": 892,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] habitat [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] domesday [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7433673143386841,
+      "best_score": 0.7582696080207825,
+      "r_score": 0.7627329230308533,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "3934": {
+    "tot_idx": 3934,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "##ense biologistideically tier [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] terrorist taps",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6068730354309082,
+      "best_score": 0.7430874109268188,
+      "r_score": 0.7436192035675049,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "7": {
+    "tot_idx": 7,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] psalm [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] feminism stereotypes [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7900293469429016,
+      "best_score": 0.8223668336868286,
+      "r_score": 0.8248468041419983,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "8367": {
+    "tot_idx": 8367,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] unity texture [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7309015393257141,
+      "best_score": 0.7509839534759521,
+      "r_score": 0.7519174814224243,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "682": {
+    "tot_idx": 682,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] invertebrates [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.7291102409362793,
+      "best_score": 0.739681601524353,
+      "r_score": 0.7494336366653442,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "8525": {
+    "tot_idx": 8525,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] orbitale [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6276676654815674,
+      "best_score": 0.6330976486206055,
+      "r_score": 0.6343310475349426,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "3018": {
+    "tot_idx": 3018,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] replace [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6427313089370728,
+      "best_score": 0.6492488384246826,
+      "r_score": 0.6477954387664795,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "2788": {
+    "tot_idx": 2788,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] replace [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6381982564926147,
+      "best_score": 0.6457750201225281,
+      "r_score": 0.6449152231216431,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "3980": {
+    "tot_idx": 3980,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "##ak [PAD]ox sum [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] hornet",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.4941369295120239,
+      "best_score": 0.6129623651504517,
+      "r_score": 0.6231264472007751,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "7057": {
+    "tot_idx": 7057,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] tumbled [PAD] aggregate behaviour [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.5970132350921631,
+      "best_score": 0.6260462999343872,
+      "r_score": 0.6304721832275391,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "5481": {
+    "tot_idx": 5481,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "tori removal [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6012200117111206,
+      "best_score": 0.620836615562439,
+      "r_score": 0.6150327920913696,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "4398": {
+    "tot_idx": 4398,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] reset probability [PAD] google [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.5420002341270447,
+      "best_score": 0.5982396602630615,
+      "r_score": 0.5923372507095337,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  },
+  "7493": {
+    "tot_idx": 7493,
+    "query_num": 1,
+    "HotFlip": {
+      "r_str": "gnu tracks [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "jb_str": "",
+      "rr_str": "",
+      "initial_score": 0.6125996112823486,
+      "best_score": 0.6407134532928467,
+      "r_score": 0.6301965713500977,
+      "jb_score": -1,
+      "rr_score": -1,
+      "max_model": "baseline",
+      "max_language": "English"
+    }
+  }
+}

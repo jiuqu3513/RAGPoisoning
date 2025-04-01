@@ -1,0 +1,101 @@
+{
+  "47": {
+    "tot_idx": 47,
+    "query_num": 13,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] obesity sociological [PAD] [PAD]",
+      "initial_score": 0.6713796854019165,
+      "best_score": 0.6752156019210815
+    }
+  },
+  "925": {
+    "tot_idx": 925,
+    "query_num": 13,
+    "HotFlip": {
+      "attack_str": "##coe [PAD] capitalism [PAD] mutations ^ [PAD] [PAD] vibrations ride prehistoricism kineticential \u25a0",
+      "initial_score": 0.6942569017410278,
+      "best_score": 0.7342177629470825
+    }
+  },
+  "163": {
+    "tot_idx": 163,
+    "query_num": 12,
+    "HotFlip": {
+      "attack_str": "prefaceksha libel [PAD] [PAD] [PAD] pulitzerrocity capitalism [PAD] mutations [PAD] [PAD] rubin substituted",
+      "initial_score": 0.6747126579284668,
+      "best_score": 0.7133466601371765
+    }
+  },
+  "920": {
+    "tot_idx": 920,
+    "query_num": 12,
+    "HotFlip": {
+      "attack_str": "##eisscribe capitalismcs *sable corporalromatic [PAD]xy pleistocene feminist functions sexessos",
+      "initial_score": 0.655347466468811,
+      "best_score": 0.7010149955749512
+    }
+  },
+  "637": {
+    "tot_idx": 637,
+    "query_num": 12,
+    "HotFlip": {
+      "attack_str": "##good [PAD] temperament hardest [PAD] [PAD] gravity \u25cf pendulum [PAD] \u2022 [PAD]oko\u00f8 wikipedia",
+      "initial_score": 0.6959454417228699,
+      "best_score": 0.714201807975769
+    }
+  },
+  "588": {
+    "tot_idx": 588,
+    "query_num": 12,
+    "HotFlip": {
+      "attack_str": "wake [PAD] [PAD] [PAD] [PAD]bedo cult wears yoursmeo temperance #itated enlightenment theology",
+      "initial_score": 0.6818830370903015,
+      "best_score": 0.7106132507324219
+    }
+  },
+  "919": {
+    "tot_idx": 919,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD]kei [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] foraging [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6566516160964966,
+      "best_score": 0.6662586331367493
+    }
+  },
+  "296": {
+    "tot_idx": 296,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] \u300e [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] theologyism baseline",
+      "initial_score": 0.6584577560424805,
+      "best_score": 0.6888771057128906
+    }
+  },
+  "951": {
+    "tot_idx": 951,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": "##lord [PAD] bleedvs [PAD] [PAD] seededpl whiskeyivistgenic diasporatm ^ simplicity",
+      "initial_score": 0.6953012347221375,
+      "best_score": 0.7218213081359863
+    }
+  },
+  "139": {
+    "tot_idx": 139,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] basins [PAD] [PAD] [PAD] [PAD] [PAD] feminism feminism [PAD]",
+      "initial_score": 0.7005152106285095,
+      "best_score": 0.7175556421279907
+    }
+  },
+  "1086": {
+    "tot_idx": 1086,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": "##ocene [PAD] marxism [PAD] [PAD] [PAD] [PAD] [PAD] # replace [PAD] [PAD] socialism [PAD] [PAD]",
+      "initial_score": 0.7216356992721558,
+      "best_score": 0.7402637600898743
+    }
+  }
+}

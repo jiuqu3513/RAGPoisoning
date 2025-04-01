@@ -1,0 +1,15 @@
+{
+  "58": {
+    "tot_idx": 58,
+    "query_num": 34,
+    "HotFlip": {
+      "attack_str": "[PAD] hook lennon yourself [PAD] [PAD] discoveries imperative [PAD] [PAD] \u2022 amphibious fulfilling \" petrol",
+      "initial_score": 0.6432221531867981,
+      "best_score": 0.6799457669258118,
+      "jb_score": 0.669051468372345,
+      "jb_suffix": [
+        "\" [PAD] [PAD] \u2022"
+      ]
+    }
+  }
+}

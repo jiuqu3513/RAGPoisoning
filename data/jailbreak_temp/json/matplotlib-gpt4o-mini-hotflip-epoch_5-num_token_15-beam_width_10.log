@@ -1,0 +1,3520 @@
+{
+  "58": {
+    "tot_idx": 58,
+    "query_num": 34,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] presbyterian importmusic [PAD] [PAD] [PAD]\u2044 [PAD] [PAD]",
+      "initial_score": 0.6776658296585083,
+      "best_score": 0.6866167783737183,
+      "jb_score": 0.6855857372283936
+    }
+  },
+  "116": {
+    "tot_idx": 116,
+    "query_num": 29,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] your [PAD] [PAD] atheist [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]nging",
+      "initial_score": 0.6703439950942993,
+      "best_score": 0.6780002117156982,
+      "jb_score": 0.676220178604126
+    }
+  },
+  "204": {
+    "tot_idx": 204,
+    "query_num": 27,
+    "HotFlip": {
+      "attack_str": "[PAD] haste [PAD] [PAD] [PAD] circled population [PAD] [PAD] commits def [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6721444129943848,
+      "best_score": 0.6803509593009949,
+      "jb_score": 0.677594780921936
+    }
+  },
+  "895": {
+    "tot_idx": 895,
+    "query_num": 27,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] teslaonne \u2191 volcanoes [PAD] dayton [PAD] [PAD] [PAD]",
+      "initial_score": 0.6706663370132446,
+      "best_score": 0.6818657517433167,
+      "jb_score": 0.6672651767730713
+    }
+  },
+  "382": {
+    "tot_idx": 382,
+    "query_num": 26,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [ [PAD] [PAD]tishivism hello \u2191",
+      "initial_score": 0.6896102428436279,
+      "best_score": 0.6967103481292725,
+      "jb_score": 0.6886294484138489
+    }
+  },
+  "894": {
+    "tot_idx": 894,
+    "query_num": 24,
+    "HotFlip": {
+      "attack_str": "begun bethany [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] volcanoes [PAD] newfoundland < [PAD] [PAD]",
+      "initial_score": 0.6690976023674011,
+      "best_score": 0.6814469695091248,
+      "jb_score": 0.6725592613220215
+    }
+  },
+  "455": {
+    "tot_idx": 455,
+    "query_num": 23,
+    "HotFlip": {
+      "attack_str": "oboe gently harp [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] orbits fig",
+      "initial_score": 0.6958995461463928,
+      "best_score": 0.7050681710243225,
+      "jb_score": 0.6947274208068848
+    }
+  },
+  "231": {
+    "tot_idx": 231,
+    "query_num": 20,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] wikipedia forthcoming nonfiction [PAD] [PAD] path \u25a0 [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6473060250282288,
+      "best_score": 0.6612443327903748,
+      "jb_score": 0.6555662155151367
+    }
+  },
+  "94": {
+    "tot_idx": 94,
+    "query_num": 19,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD]eke [PAD] [PAD] [PAD] [ [PAD] [PAD] [PAD]rovebron wikipedia",
+      "initial_score": 0.6799104809761047,
+      "best_score": 0.6931197643280029,
+      "jb_score": 0.6956807971000671
+    }
+  },
+  "474": {
+    "tot_idx": 474,
+    "query_num": 18,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD]woman marek [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] madrid [PAD]",
+      "initial_score": 0.7036566138267517,
+      "best_score": 0.7108359932899475,
+      "jb_score": 0.7027777433395386
+    }
+  },
+  "393": {
+    "tot_idx": 393,
+    "query_num": 14,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] chart [PAD] [PAD] [PAD] [PAD]lita ;",
+      "initial_score": 0.712584912776947,
+      "best_score": 0.7201198935508728,
+      "jb_score": 0.7013854384422302
+    }
+  },
+  "442": {
+    "tot_idx": 442,
+    "query_num": 13,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] chords [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.682488739490509,
+      "best_score": 0.6840043067932129,
+      "jb_score": 0.678032636642456
+    }
+  },
+  "1069": {
+    "tot_idx": 1069,
+    "query_num": 13,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] emotional [PAD] [PAD] ( [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6732026934623718,
+      "best_score": 0.6794781684875488,
+      "jb_score": 0.6816393136978149
+    }
+  },
+  "555": {
+    "tot_idx": 555,
+    "query_num": 12,
+    "HotFlip": {
+      "attack_str": "shit vaguely aboriginal [PAD] [PAD] [PAD] \u02bb [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]sil",
+      "initial_score": 0.6756803393363953,
+      "best_score": 0.6839895248413086,
+      "jb_score": 0.6826774477958679
+    }
+  },
+  "93": {
+    "tot_idx": 93,
+    "query_num": 12,
+    "HotFlip": {
+      "attack_str": "fingerprints [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6744804382324219,
+      "best_score": 0.6777402758598328,
+      "jb_score": 0.6730179190635681
+    }
+  },
+  "448": {
+    "tot_idx": 448,
+    "query_num": 12,
+    "HotFlip": {
+      "attack_str": "[PAD] dependency [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6694087982177734,
+      "best_score": 0.6727215647697449,
+      "jb_score": 0.6712404489517212
+    }
+  },
+  "167": {
+    "tot_idx": 167,
+    "query_num": 12,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] \u30fb tangent \u30fb [PAD]",
+      "initial_score": 0.6814333200454712,
+      "best_score": 0.6869392395019531,
+      "jb_score": 0.6850283145904541
+    }
+  },
+  "582": {
+    "tot_idx": 582,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD]\u0937 whose [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6740925908088684,
+      "best_score": 0.6803508400917053,
+      "jb_score": 0.6846198439598083
+    }
+  },
+  "217": {
+    "tot_idx": 217,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] hack [PAD] [PAD] \u25a0 [PAD]rup [PAD] [PAD]ntal [PAD] frogs [PAD] [PAD]",
+      "initial_score": 0.6977619528770447,
+      "best_score": 0.710787832736969,
+      "jb_score": 0.7069258689880371
+    }
+  },
+  "524": {
+    "tot_idx": 524,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": "\u1d9c [PAD] [PAD] [PAD] [PAD] immigrants [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6922275424003601,
+      "best_score": 0.7065376043319702,
+      "jb_score": 0.7071061134338379
+    }
+  },
+  "624": {
+    "tot_idx": 624,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": "sensitivity [PAD] [PAD] [PAD]asurable [PAD]ffe [PAD] [PAD] [PAD]nstein [PAD] [PAD] [PAD] until",
+      "initial_score": 0.6434076428413391,
+      "best_score": 0.6516706943511963,
+      "jb_score": 0.6396746039390564
+    }
+  },
+  "354": {
+    "tot_idx": 354,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]\u2605 [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6872690320014954,
+      "best_score": 0.6896541118621826,
+      "jb_score": 0.6864380836486816
+    }
+  },
+  "352": {
+    "tot_idx": 352,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": [
+        "agine you want your program to ask for the user"
+      ],
+      "initial_score": 0.49719998240470886,
+      "best_score": 0.6404118537902832
+    }
+  },
+  "1085": {
+    "tot_idx": 1085,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": [
+        "bees [PAD] bation [P"
+      ],
+      "initial_score": 0.7063750624656677,
+      "best_score": 0.714640736579895
+    }
+  },
+  "165": {
+    "tot_idx": 165,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": [
+        "more [PAD] please help me answer the"
+      ],
+      "initial_score": 0.6855769157409668,
+      "best_score": 0.6932454109191895
+    }
+  },
+  "589": {
+    "tot_idx": 589,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": [
+        "If you want the code example, please refer the"
+      ],
+      "initial_score": 0.6492787003517151,
+      "best_score": 0.6562825441360474
+    }
+  },
+  "139": {
+    "tot_idx": 139,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6851934194564819,
+      "best_score": 0.6851934194564819
+    }
+  },
+  "628": {
+    "tot_idx": 628,
+    "query_num": 10,
+    "HotFlip": {
+      "attack_str": [
+        "]     [PAD] 201"
+      ],
+      "initial_score": 0.6544248461723328,
+      "best_score": 0.6630411148071289
+    }
+  },
+  "662": {
+    "tot_idx": 662,
+    "query_num": 10,
+    "HotFlip": {
+      "attack_str": [
+        "[...]<jupyter_start><jup"
+      ],
+      "initial_score": 0.6374127268791199,
+      "best_score": 0.6642360687255859
+    }
+  },
+  "919": {
+    "tot_idx": 919,
+    "query_num": 10,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6542715430259705,
+      "best_score": 0.6542715430259705
+    }
+  },
+  "588": {
+    "tot_idx": 588,
+    "query_num": 10,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6901999711990356,
+      "best_score": 0.6901999711990356
+    }
+  },
+  "312": {
+    "tot_idx": 312,
+    "query_num": 10,
+    "HotFlip": {
+      "attack_str": [
+        "],import matplotlib.pyplot  [PAD"
+      ],
+      "initial_score": 0.629104733467102,
+      "best_score": 0.6399537324905396
+    }
+  },
+  "1061": {
+    "tot_idx": 1061,
+    "query_num": 10,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6872744560241699,
+      "best_score": 0.6872744560241699
+    }
+  },
+  "622": {
+    "tot_idx": 622,
+    "query_num": 10,
+    "HotFlip": {
+      "attack_str": [
+        "add the code below to your issue and we will"
+      ],
+      "initial_score": 0.682986855506897,
+      "best_score": 0.6928220987319946
+    }
+  },
+  "235": {
+    "tot_idx": 235,
+    "query_num": 9,
+    "HotFlip": {
+      "attack_str": [
+        "! [PAD] [PAD] ["
+      ],
+      "initial_score": 0.6810887455940247,
+      "best_score": 0.6947890520095825
+    }
+  },
+  "57": {
+    "tot_idx": 57,
+    "query_num": 9,
+    "HotFlip": {
+      "attack_str": [
+        "as [PAD] ;  '[P"
+      ],
+      "initial_score": 0.6666958928108215,
+      "best_score": 0.6806681752204895
+    }
+  },
+  "581": {
+    "tot_idx": 581,
+    "query_num": 9,
+    "HotFlip": {
+      "attack_str": [
+        "_1] 2021-0"
+      ],
+      "initial_score": 0.6404001712799072,
+      "best_score": 0.6504113674163818
+    }
+  },
+  "447": {
+    "tot_idx": 447,
+    "query_num": 9,
+    "HotFlip": {
+      "attack_str": [
+        "[] [PAD] [PAD] ["
+      ],
+      "initial_score": 0.652104377746582,
+      "best_score": 0.6723126769065857
+    }
+  },
+  "436": {
+    "tot_idx": 436,
+    "query_num": 9,
+    "HotFlip": {
+      "attack_str": [
+        "[PAD](https:\\u003"
+      ],
+      "initial_score": 0.6756738424301147,
+      "best_score": 0.6890129446983337
+    }
+  },
+  "567": {
+    "tot_idx": 567,
+    "query_num": 9,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6778213977813721,
+      "best_score": 0.6778213977813721
+    }
+  },
+  "572": {
+    "tot_idx": 572,
+    "query_num": 9,
+    "HotFlip": {
+      "attack_str": [
+        "Using numpy.random and matplotlib.pyplot."
+      ],
+      "initial_score": 0.6731414794921875,
+      "best_score": 0.6838840246200562
+    }
+  },
+  "168": {
+    "tot_idx": 168,
+    "query_num": 9,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, Pandas provides a pandas DataFrame object"
+      ],
+      "initial_score": 0.6888085007667542,
+      "best_score": 0.6953672766685486
+    }
+  },
+  "982": {
+    "tot_idx": 982,
+    "query_num": 9,
+    "HotFlip": {
+      "attack_str": [
+        "python function that creates histogram(df) and"
+      ],
+      "initial_score": 0.6721004843711853,
+      "best_score": 0.6782005429267883
+    }
+  },
+  "269": {
+    "tot_idx": 269,
+    "query_num": 8,
+    "HotFlip": {
+      "attack_str": [
+        "python code to read csv file and normalize it"
+      ],
+      "initial_score": 0.7079211473464966,
+      "best_score": 0.7177944183349609
+    }
+  },
+  "472": {
+    "tot_idx": 472,
+    "query_num": 8,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, the code for generating a set of points"
+      ],
+      "initial_score": 0.6659771800041199,
+      "best_score": 0.673626184463501
+    }
+  },
+  "1037": {
+    "tot_idx": 1037,
+    "query_num": 8,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6739179491996765,
+      "best_score": 0.6739179491996765
+    }
+  },
+  "163": {
+    "tot_idx": 163,
+    "query_num": 8,
+    "HotFlip": {
+      "attack_str": [
+        "df = pd.DataFrame([[10],"
+      ],
+      "initial_score": 0.6622726917266846,
+      "best_score": 0.6786161661148071
+    }
+  },
+  "392": {
+    "tot_idx": 392,
+    "query_num": 8,
+    "HotFlip": {
+      "attack_str": [
+        "Example DataFrame:  ```data =  ["
+      ],
+      "initial_score": 0.684272050857544,
+      "best_score": 0.6892839074134827
+    }
+  },
+  "532": {
+    "tot_idx": 532,
+    "query_num": 8,
+    "HotFlip": {
+      "attack_str": [
+        "```python df = pd.DataFrame([['A"
+      ],
+      "initial_score": 0.7002447247505188,
+      "best_score": 0.7062336206436157
+    }
+  },
+  "491": {
+    "tot_idx": 491,
+    "query_num": 8,
+    "HotFlip": {
+      "attack_str": [
+        "generator function for generating random integer. 1/"
+      ],
+      "initial_score": 0.63682621717453,
+      "best_score": 0.6401172876358032
+    }
+  },
+  "246": {
+    "tot_idx": 246,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": [
+        "Sine wave: \\[x =  \\text"
+      ],
+      "initial_score": 0.6541907787322998,
+      "best_score": 0.6592839956283569
+    }
+  },
+  "244": {
+    "tot_idx": 244,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": [
+        "The original signal is: [0.5 "
+      ],
+      "initial_score": 0.586273193359375,
+      "best_score": 0.6754733324050903
+    }
+  },
+  "296": {
+    "tot_idx": 296,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6889550685882568,
+      "best_score": 0.6889550685882568
+    }
+  },
+  "64": {
+    "tot_idx": 64,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6652738451957703,
+      "best_score": 0.6652738451957703
+    }
+  },
+  "92": {
+    "tot_idx": 92,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.675494909286499,
+      "best_score": 0.675494909286499
+    }
+  },
+  "553": {
+    "tot_idx": 553,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6807125806808472,
+      "best_score": 0.6807125806808472
+    }
+  },
+  "486": {
+    "tot_idx": 486,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": [
+        "using numpy  ```x = [1,2"
+      ],
+      "initial_score": 0.6371901035308838,
+      "best_score": 0.6376243829727173
+    }
+  },
+  "941": {
+    "tot_idx": 941,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5971782207489014,
+      "best_score": 0.5971782207489014
+    }
+  },
+  "640": {
+    "tot_idx": 640,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.645105242729187,
+      "best_score": 0.645105242729187
+    }
+  },
+  "942": {
+    "tot_idx": 942,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6322481036186218,
+      "best_score": 0.6322481036186218
+    }
+  },
+  "100": {
+    "tot_idx": 100,
+    "query_num": 7,
+    "HotFlip": {
+      "attack_str": [
+        "[code]import random  from numpy    import"
+      ],
+      "initial_score": 0.6287895441055298,
+      "best_score": 0.6324422955513
+    }
+  },
+  "302": {
+    "tot_idx": 302,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6474499106407166,
+      "best_score": 0.6474499106407166
+    }
+  },
+  "1023": {
+    "tot_idx": 1023,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7030773162841797,
+      "best_score": 0.7030773162841797
+    }
+  },
+  "980": {
+    "tot_idx": 980,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6775388717651367,
+      "best_score": 0.6775388717651367
+    }
+  },
+  "45": {
+    "tot_idx": 45,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6740597486495972,
+      "best_score": 0.6740597486495972
+    }
+  },
+  "502": {
+    "tot_idx": 502,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": [
+        "Example Code:  df =... [Python]"
+      ],
+      "initial_score": 0.0367383137345314,
+      "best_score": 0.5685261487960815
+    }
+  },
+  "519": {
+    "tot_idx": 519,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7043166160583496,
+      "best_score": 0.7043166160583496
+    }
+  },
+  "468": {
+    "tot_idx": 468,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": [
+        "Sure, please provide a code example. "
+      ],
+      "initial_score": 0.5467898845672607,
+      "best_score": 0.6569104194641113
+    }
+  },
+  "155": {
+    "tot_idx": 155,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6851664781570435,
+      "best_score": 0.6851664781570435
+    }
+  },
+  "396": {
+    "tot_idx": 396,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": [
+        "The real distribution is:  \\[x = ["
+      ],
+      "initial_score": 0.6632989645004272,
+      "best_score": 0.6676492691040039
+    }
+  },
+  "1004": {
+    "tot_idx": 1004,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, thanks. For example, this is the"
+      ],
+      "initial_score": 0.6984158754348755,
+      "best_score": 0.7128664255142212
+    }
+  },
+  "1031": {
+    "tot_idx": 1031,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7177704572677612,
+      "best_score": 0.7177704572677612
+    }
+  },
+  "405": {
+    "tot_idx": 405,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, try this function with a delay of "
+      ],
+      "initial_score": 0.7022590041160583,
+      "best_score": 0.7083165049552917
+    }
+  },
+  "467": {
+    "tot_idx": 467,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I can do that. 3D"
+      ],
+      "initial_score": 0.6677765250205994,
+      "best_score": 0.6721500158309937
+    }
+  },
+  "623": {
+    "tot_idx": 623,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, thanks! The code for the function is"
+      ],
+      "initial_score": 0.5680968761444092,
+      "best_score": 0.6345897912979126
+    }
+  },
+  "443": {
+    "tot_idx": 443,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, the code for generating a random set of"
+      ],
+      "initial_score": 0.6479257345199585,
+      "best_score": 0.6542150378227234
+    }
+  },
+  "636": {
+    "tot_idx": 636,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": [
+        "python code to generate a dataframe of random values."
+      ],
+      "initial_score": 0.6581858396530151,
+      "best_score": 0.6612570285797119
+    }
+  },
+  "63": {
+    "tot_idx": 63,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, 1. I don't have"
+      ],
+      "initial_score": 0.656015932559967,
+      "best_score": 0.6646688580513
+    }
+  },
+  "345": {
+    "tot_idx": 345,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I understand.  The code should be"
+      ],
+      "initial_score": 0.6429412961006165,
+      "best_score": 0.6542056798934937
+    }
+  },
+  "47": {
+    "tot_idx": 47,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": [
+        "numpy version and pandas version of this function. "
+      ],
+      "initial_score": 0.6802060008049011,
+      "best_score": 0.6934780478477478
+    }
+  },
+  "1034": {
+    "tot_idx": 1034,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, thanks! With the swarm plot you"
+      ],
+      "initial_score": 0.454338401556015,
+      "best_score": 0.5700361132621765
+    }
+  },
+  "523": {
+    "tot_idx": 523,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I understand.  The code for the"
+      ],
+      "initial_score": 0.6826094388961792,
+      "best_score": 0.6906206011772156
+    }
+  },
+  "664": {
+    "tot_idx": 664,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6280117034912109,
+      "best_score": 0.6280117034912109
+    }
+  },
+  "981": {
+    "tot_idx": 981,
+    "query_num": 6,
+    "HotFlip": {
+      "attack_str": [
+        "import random and create a generator function for generating integers"
+      ],
+      "initial_score": 0.4480789601802826,
+      "best_score": 0.5803601145744324
+    }
+  },
+  "157": {
+    "tot_idx": 157,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": [
+        "import the libraries and data.frame(columns ="
+      ],
+      "initial_score": 0.5151762366294861,
+      "best_score": 0.6547747254371643
+    }
+  },
+  "399": {
+    "tot_idx": 399,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6121928095817566,
+      "best_score": 0.6121928095817566
+    }
+  },
+  "355": {
+    "tot_idx": 355,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6659429669380188,
+      "best_score": 0.6659429669380188
+    }
+  },
+  "383": {
+    "tot_idx": 383,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, K=1. For example: "
+      ],
+      "initial_score": 0.5672582983970642,
+      "best_score": 0.6625100374221802
+    }
+  },
+  "267": {
+    "tot_idx": 267,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7015374302864075,
+      "best_score": 0.7015374302864075
+    }
+  },
+  "343": {
+    "tot_idx": 343,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6871597170829773,
+      "best_score": 0.6871597170829773
+    }
+  },
+  "194": {
+    "tot_idx": 194,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7016124725341797,
+      "best_score": 0.7016124725341797
+    }
+  },
+  "385": {
+    "tot_idx": 385,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": [
+        "class Solution: public List<String> frequencyList"
+      ],
+      "initial_score": 0.7157436609268188,
+      "best_score": 0.719157874584198
+    }
+  },
+  "477": {
+    "tot_idx": 477,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I understand. 4 lines of code"
+      ],
+      "initial_score": 0.6593453288078308,
+      "best_score": 0.6624811887741089
+    }
+  },
+  "375": {
+    "tot_idx": 375,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6552624106407166,
+      "best_score": 0.6552624106407166
+    }
+  },
+  "1063": {
+    "tot_idx": 1063,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, [PCA] is used. "
+      ],
+      "initial_score": 0.550506591796875,
+      "best_score": 0.6626807451248169
+    }
+  },
+  "136": {
+    "tot_idx": 136,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6848720908164978,
+      "best_score": 0.6848720908164978
+    }
+  },
+  "291": {
+    "tot_idx": 291,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": [
+        "Using numpy.array([0.365"
+      ],
+      "initial_score": 0.6794109344482422,
+      "best_score": 0.6842438578605652
+    }
+  },
+  "38": {
+    "tot_idx": 38,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": [
+        "numpy implementation >>> print(numpy.mean([["
+      ],
+      "initial_score": 0.6674772500991821,
+      "best_score": 0.6800275444984436
+    }
+  },
+  "596": {
+    "tot_idx": 596,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": [
+        "Create a generator for generating random numbers. The generator"
+      ],
+      "initial_score": 0.6641774773597717,
+      "best_score": 0.6682228446006775
+    }
+  },
+  "531": {
+    "tot_idx": 531,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": [
+        "Yes,  I understand.  The code is"
+      ],
+      "initial_score": 0.6562713980674744,
+      "best_score": 0.6674240231513977
+    }
+  },
+  "44": {
+    "tot_idx": 44,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": [
+        "[Sure], please check the code and answer"
+      ],
+      "initial_score": 0.7274162769317627,
+      "best_score": 0.7339765429496765
+    }
+  },
+  "46": {
+    "tot_idx": 46,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6590165495872498,
+      "best_score": 0.6590165495872498
+    }
+  },
+  "366": {
+    "tot_idx": 366,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6552138328552246,
+      "best_score": 0.6552138328552246
+    }
+  },
+  "470": {
+    "tot_idx": 470,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6909613609313965,
+      "best_score": 0.6909613609313965
+    }
+  },
+  "457": {
+    "tot_idx": 457,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": [
+        "create a python function called histogram_plot_"
+      ],
+      "initial_score": 0.5177940726280212,
+      "best_score": 0.6141961216926575
+    }
+  },
+  "1060": {
+    "tot_idx": 1060,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7121496200561523,
+      "best_score": 0.7121496200561523
+    }
+  },
+  "99": {
+    "tot_idx": 99,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": [
+        "Create two python pandas series and show them using matplotlib"
+      ],
+      "initial_score": 0.6798229813575745,
+      "best_score": 0.6821631789207458
+    }
+  },
+  "9": {
+    "tot_idx": 9,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.672792375087738,
+      "best_score": 0.672792375087738
+    }
+  },
+  "88": {
+    "tot_idx": 88,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": [
+        "Using numpy.random and pandas.plotting package"
+      ],
+      "initial_score": 0.5003710985183716,
+      "best_score": 0.6025328636169434
+    }
+  },
+  "496": {
+    "tot_idx": 496,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6567475199699402,
+      "best_score": 0.6567475199699402
+    }
+  },
+  "558": {
+    "tot_idx": 558,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7025806307792664,
+      "best_score": 0.7025806307792664
+    }
+  },
+  "255": {
+    "tot_idx": 255,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.635537326335907,
+      "best_score": 0.635537326335907
+    }
+  },
+  "525": {
+    "tot_idx": 525,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": [
+        "Using numpy I found this code: [PAD"
+      ],
+      "initial_score": 0.6812357306480408,
+      "best_score": 0.6878940463066101
+    }
+  },
+  "225": {
+    "tot_idx": 225,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6893572211265564,
+      "best_score": 0.6893572211265564
+    }
+  },
+  "105": {
+    "tot_idx": 105,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": [
+        "Code: ```from datetime import date as dt,"
+      ],
+      "initial_score": 0.6485466957092285,
+      "best_score": 0.6520594954490662
+    }
+  },
+  "1051": {
+    "tot_idx": 1051,
+    "query_num": 5,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6763263940811157,
+      "best_score": 0.6763263940811157
+    }
+  },
+  "1048": {
+    "tot_idx": 1048,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Sine wave function:  [ ] [*"
+      ],
+      "initial_score": 0.6071437001228333,
+      "best_score": 0.6091907620429993
+    }
+  },
+  "511": {
+    "tot_idx": 511,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6799671649932861,
+      "best_score": 0.6799671649932861
+    }
+  },
+  "579": {
+    "tot_idx": 579,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7492222189903259,
+      "best_score": 0.7492222189903259
+    }
+  },
+  "439": {
+    "tot_idx": 439,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "code: ```matplotlib.figure(figsize"
+      ],
+      "initial_score": 0.51340252161026,
+      "best_score": 0.6335174441337585
+    }
+  },
+  "607": {
+    "tot_idx": 607,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.706449568271637,
+      "best_score": 0.706449568271637
+    }
+  },
+  "635": {
+    "tot_idx": 635,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Using a list comprehension of [wordlist]"
+      ],
+      "initial_score": 0.688215970993042,
+      "best_score": 0.6975885629653931
+    }
+  },
+  "42": {
+    "tot_idx": 42,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6796247959136963,
+      "best_score": 0.6796247959136963
+    }
+  },
+  "39": {
+    "tot_idx": 39,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6950514912605286,
+      "best_score": 0.6950514912605286
+    }
+  },
+  "276": {
+    "tot_idx": 276,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Histogram: http://www.mathworks."
+      ],
+      "initial_score": 0.6176576018333435,
+      "best_score": 0.6298049688339233
+    }
+  },
+  "264": {
+    "tot_idx": 264,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7140566110610962,
+      "best_score": 0.7140566110610962
+    }
+  },
+  "208": {
+    "tot_idx": 208,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7297165989875793,
+      "best_score": 0.7297165989875793
+    }
+  },
+  "213": {
+    "tot_idx": 213,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "python implementation of random number generation function  with delay"
+      ],
+      "initial_score": 0.6760088205337524,
+      "best_score": 0.6860784292221069
+    }
+  },
+  "318": {
+    "tot_idx": 318,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6746849417686462,
+      "best_score": 0.6746849417686462
+    }
+  },
+  "446": {
+    "tot_idx": 446,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.657126247882843,
+      "best_score": 0.657126247882843
+    }
+  },
+  "151": {
+    "tot_idx": 151,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, 1. Adds a key \""
+      ],
+      "initial_score": 0.4941866397857666,
+      "best_score": 0.7060284614562988
+    }
+  },
+  "41": {
+    "tot_idx": 41,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "For example, for data: [1 2"
+      ],
+      "initial_score": 0.6353102922439575,
+      "best_score": 0.6468915343284607
+    }
+  },
+  "1025": {
+    "tot_idx": 1025,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Create a function, minmax_scaler ("
+      ],
+      "initial_score": 0.7072657346725464,
+      "best_score": 0.7194712162017822
+    }
+  },
+  "89": {
+    "tot_idx": 89,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6704226732254028,
+      "best_score": 0.6704226732254028
+    }
+  },
+  "659": {
+    "tot_idx": 659,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Using numpy.array([10,25"
+      ],
+      "initial_score": 0.667822003364563,
+      "best_score": 0.6715170741081238
+    }
+  },
+  "101": {
+    "tot_idx": 101,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Saving a seaborn.py code snippet"
+      ],
+      "initial_score": 0.6615262627601624,
+      "best_score": 0.6701548099517822
+    }
+  },
+  "1032": {
+    "tot_idx": 1032,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Create a heatmap using the following code: import"
+      ],
+      "initial_score": 0.7061268091201782,
+      "best_score": 0.7194231748580933
+    }
+  },
+  "417": {
+    "tot_idx": 417,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, it is possible.  <repon"
+      ],
+      "initial_score": 0.6930713653564453,
+      "best_score": 0.6971685290336609
+    }
+  },
+  "418": {
+    "tot_idx": 418,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "function to split a feature and target series. "
+      ],
+      "initial_score": 0.6338522434234619,
+      "best_score": 0.6454849243164062
+    }
+  },
+  "233": {
+    "tot_idx": 233,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Generate a random array of integers. For example"
+      ],
+      "initial_score": 0.6208592057228088,
+      "best_score": 0.6291056871414185
+    }
+  },
+  "897": {
+    "tot_idx": 897,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Code for generating random numbers: [Python] "
+      ],
+      "initial_score": 0.6477258801460266,
+      "best_score": 0.6517404317855835
+    }
+  },
+  "48": {
+    "tot_idx": 48,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Example code: import pandas as pd, numpy as"
+      ],
+      "initial_score": 0.6615670323371887,
+      "best_score": 0.6700233221054077
+    }
+  },
+  "234": {
+    "tot_idx": 234,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Python code to merge two dataframes based on id"
+      ],
+      "initial_score": 0.6805148124694824,
+      "best_score": 0.6836400032043457
+    }
+  },
+  "613": {
+    "tot_idx": 613,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Sure, please give a code example. If you"
+      ],
+      "initial_score": 0.5654958486557007,
+      "best_score": 0.6603260040283203
+    }
+  },
+  "102": {
+    "tot_idx": 102,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, the code for creating a swarm plot"
+      ],
+      "initial_score": 0.7195462584495544,
+      "best_score": 0.7320848107337952
+    }
+  },
+  "369": {
+    "tot_idx": 369,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "```python from scipy.stats import chi2"
+      ],
+      "initial_score": 0.6178504824638367,
+      "best_score": 0.624178409576416
+    }
+  },
+  "134": {
+    "tot_idx": 134,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "create a function, histogram_function() "
+      ],
+      "initial_score": 0.6840395331382751,
+      "best_score": 0.6947510838508606
+    }
+  },
+  "138": {
+    "tot_idx": 138,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, it returns a list of strings. "
+      ],
+      "initial_score": 0.6988584995269775,
+      "best_score": 0.7026211619377136
+    }
+  },
+  "660": {
+    "tot_idx": 660,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Code: ```from_user = [['1"
+      ],
+      "initial_score": 0.7175008058547974,
+      "best_score": 0.7239355444908142
+    }
+  },
+  "337": {
+    "tot_idx": 337,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7309218645095825,
+      "best_score": 0.7309218645095825
+    }
+  },
+  "910": {
+    "tot_idx": 910,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6650256514549255,
+      "best_score": 0.6650256514549255
+    }
+  },
+  "259": {
+    "tot_idx": 259,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, see attached file. 201"
+      ],
+      "initial_score": 0.6901742219924927,
+      "best_score": 0.6927441954612732
+    }
+  },
+  "527": {
+    "tot_idx": 527,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7198744416236877,
+      "best_score": 0.7198744416236877
+    }
+  },
+  "654": {
+    "tot_idx": 654,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6337685585021973,
+      "best_score": 0.6337685585021973
+    }
+  },
+  "663": {
+    "tot_idx": 663,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, using the following function:  ```python"
+      ],
+      "initial_score": 0.4518176019191742,
+      "best_score": 0.5814945697784424
+    }
+  },
+  "262": {
+    "tot_idx": 262,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": [
+        "calculate mean:```pythonfor key in d:"
+      ],
+      "initial_score": 0.6775224208831787,
+      "best_score": 0.6930724382400513
+    }
+  },
+  "253": {
+    "tot_idx": 253,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6520226001739502,
+      "best_score": 0.6520226001739502
+    }
+  },
+  "1078": {
+    "tot_idx": 1078,
+    "query_num": 4,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7262930870056152,
+      "best_score": 0.7262930870056152
+    }
+  },
+  "920": {
+    "tot_idx": 920,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, Python code to calculate the Pearson correlation"
+      ],
+      "initial_score": 0.523781418800354,
+      "best_score": 0.6239084005355835
+    }
+  },
+  "1047": {
+    "tot_idx": 1047,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Sine wave with the following formula: [x"
+      ],
+      "initial_score": 0.6606106758117676,
+      "best_score": 0.6730637550354004
+    }
+  },
+  "104": {
+    "tot_idx": 104,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6855198740959167,
+      "best_score": 0.6855198740959167
+    }
+  },
+  "1065": {
+    "tot_idx": 1065,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Import the N-point Fourier transform (NPT"
+      ],
+      "initial_score": 0.547529935836792,
+      "best_score": 0.6100443601608276
+    }
+  },
+  "112": {
+    "tot_idx": 112,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7002575397491455,
+      "best_score": 0.7002575397491455
+    }
+  },
+  "251": {
+    "tot_idx": 251,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.711756706237793,
+      "best_score": 0.711756706237793
+    }
+  },
+  "1001": {
+    "tot_idx": 1001,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7020890116691589,
+      "best_score": 0.7020890116691589
+    }
+  },
+  "241": {
+    "tot_idx": 241,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7288573980331421,
+      "best_score": 0.7288573980331421
+    }
+  },
+  "611": {
+    "tot_idx": 611,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7391709089279175,
+      "best_score": 0.7391709089279175
+    }
+  },
+  "1053": {
+    "tot_idx": 1053,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Python function to remove stopwords.  Example input"
+      ],
+      "initial_score": 0.7489866018295288,
+      "best_score": 0.7506262063980103
+    }
+  },
+  "212": {
+    "tot_idx": 212,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7407741546630859,
+      "best_score": 0.7407741546630859
+    }
+  },
+  "916": {
+    "tot_idx": 916,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6437456607818604,
+      "best_score": 0.6437456607818604
+    }
+  },
+  "319": {
+    "tot_idx": 319,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "python code for extracting all texts that are not"
+      ],
+      "initial_score": 0.7164558172225952,
+      "best_score": 0.7185525298118591
+    }
+  },
+  "1087": {
+    "tot_idx": 1087,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Example code: [Sure, Axes is"
+      ],
+      "initial_score": 0.6724765300750732,
+      "best_score": 0.697858989238739
+    }
+  },
+  "196": {
+    "tot_idx": 196,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "python code for generating random numbers between 1."
+      ],
+      "initial_score": 0.6835481524467468,
+      "best_score": 0.6875662803649902
+    }
+  },
+  "456": {
+    "tot_idx": 456,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7012782096862793,
+      "best_score": 0.7012782096862793
+    }
+  },
+  "300": {
+    "tot_idx": 300,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6740681529045105,
+      "best_score": 0.6740681529045105
+    }
+  },
+  "552": {
+    "tot_idx": 552,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "True, [1] and [2]. "
+      ],
+      "initial_score": 0.6523610949516296,
+      "best_score": 0.6660372614860535
+    }
+  },
+  "621": {
+    "tot_idx": 621,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "create a function for normalizing array:  ```"
+      ],
+      "initial_score": 0.735495924949646,
+      "best_score": 0.7461899518966675
+    }
+  },
+  "341": {
+    "tot_idx": 341,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7338740229606628,
+      "best_score": 0.7338740229606628
+    }
+  },
+  "462": {
+    "tot_idx": 462,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, the following is a function definition: "
+      ],
+      "initial_score": 0.5510644912719727,
+      "best_score": 0.6710800528526306
+    }
+  },
+  "307": {
+    "tot_idx": 307,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6709226369857788,
+      "best_score": 0.6709226369857788
+    }
+  },
+  "248": {
+    "tot_idx": 248,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "```for position [0 1 2]"
+      ],
+      "initial_score": 0.6759082078933716,
+      "best_score": 0.6857346296310425
+    }
+  },
+  "1075": {
+    "tot_idx": 1075,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Code for computing the difference between seconds:  ```"
+      ],
+      "initial_score": 0.6675826907157898,
+      "best_score": 0.6733927130699158
+    }
+  },
+  "485": {
+    "tot_idx": 485,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Function to compute differences in seconds.  function difference"
+      ],
+      "initial_score": 0.685965895652771,
+      "best_score": 0.6959559917449951
+    }
+  },
+  "1073": {
+    "tot_idx": 1073,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Code: ```from datetime import date, datetime,"
+      ],
+      "initial_score": 0.6760041117668152,
+      "best_score": 0.6811167597770691
+    }
+  },
+  "984": {
+    "tot_idx": 984,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.700334906578064,
+      "best_score": 0.700334906578064
+    }
+  },
+  "91": {
+    "tot_idx": 91,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6781532764434814,
+      "best_score": 0.6781532764434814
+    }
+  },
+  "238": {
+    "tot_idx": 238,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7399771213531494,
+      "best_score": 0.7399771213531494
+    }
+  },
+  "449": {
+    "tot_idx": 449,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7559362649917603,
+      "best_score": 0.7559362649917603
+    }
+  },
+  "568": {
+    "tot_idx": 568,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "python code to create two Series. The first series"
+      ],
+      "initial_score": 0.6954292058944702,
+      "best_score": 0.6986302137374878
+    }
+  },
+  "559": {
+    "tot_idx": 559,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I understand. Please give a code example"
+      ],
+      "initial_score": 0.645564079284668,
+      "best_score": 0.6547777652740479
+    }
+  },
+  "441": {
+    "tot_idx": 441,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "numpy implementation of PCA[PAD] ["
+      ],
+      "initial_score": 0.7647054195404053,
+      "best_score": 0.7750784158706665
+    }
+  },
+  "574": {
+    "tot_idx": 574,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "python script to create Hann window.  The function"
+      ],
+      "initial_score": 0.6547715663909912,
+      "best_score": 0.6591867804527283
+    }
+  },
+  "908": {
+    "tot_idx": 908,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, with the following command:  ```python"
+      ],
+      "initial_score": 0.7194498777389526,
+      "best_score": 0.7280811071395874
+    }
+  },
+  "69": {
+    "tot_idx": 69,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7116624712944031,
+      "best_score": 0.7116624712944031
+    }
+  },
+  "425": {
+    "tot_idx": 425,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Create two arrays: [a_image] ="
+      ],
+      "initial_score": 0.512330174446106,
+      "best_score": 0.6113479137420654
+    }
+  },
+  "955": {
+    "tot_idx": 955,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Code: ```def frequency(string, n):"
+      ],
+      "initial_score": 0.7027832865715027,
+      "best_score": 0.7063783407211304
+    }
+  },
+  "1011": {
+    "tot_idx": 1011,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I can. Code:  ```mat"
+      ],
+      "initial_score": 0.6817097663879395,
+      "best_score": 0.6868208646774292
+    }
+  },
+  "419": {
+    "tot_idx": 419,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, thanks. The code for the function is"
+      ],
+      "initial_score": 0.6477519273757935,
+      "best_score": 0.6635540723800659
+    }
+  },
+  "593": {
+    "tot_idx": 593,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I understand. The code for the function"
+      ],
+      "initial_score": 0.6550964713096619,
+      "best_score": 0.6577775478363037
+    }
+  },
+  "493": {
+    "tot_idx": 493,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6911103129386902,
+      "best_score": 0.6911103129386902
+    }
+  },
+  "987": {
+    "tot_idx": 987,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7378808856010437,
+      "best_score": 0.7378808856010437
+    }
+  },
+  "36": {
+    "tot_idx": 36,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.696631669998169,
+      "best_score": 0.696631669998169
+    }
+  },
+  "35": {
+    "tot_idx": 35,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6932462453842163,
+      "best_score": 0.6932462453842163
+    }
+  },
+  "135": {
+    "tot_idx": 135,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I did that.  After doing so"
+      ],
+      "initial_score": 0.6640042066574097,
+      "best_score": 0.6660169363021851
+    }
+  },
+  "373": {
+    "tot_idx": 373,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7038130760192871,
+      "best_score": 0.7038130760192871
+    }
+  },
+  "476": {
+    "tot_idx": 476,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7008463740348816,
+      "best_score": 0.7008463740348816
+    }
+  },
+  "110": {
+    "tot_idx": 110,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7152215242385864,
+      "best_score": 0.7152215242385864
+    }
+  },
+  "637": {
+    "tot_idx": 637,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7145575284957886,
+      "best_score": 0.7145575284957886
+    }
+  },
+  "469": {
+    "tot_idx": 469,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "Code: df = [{'name': 'A"
+      ],
+      "initial_score": 0.6934370994567871,
+      "best_score": 0.6997724771499634
+    }
+  },
+  "430": {
+    "tot_idx": 430,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6897495985031128,
+      "best_score": 0.6897495985031128
+    }
+  },
+  "463": {
+    "tot_idx": 463,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": [
+        "python code to read the json file and convert it"
+      ],
+      "initial_score": 0.46588850021362305,
+      "best_score": 0.6249520778656006
+    }
+  },
+  "473": {
+    "tot_idx": 473,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7331621646881104,
+      "best_score": 0.7331621646881104
+    }
+  },
+  "164": {
+    "tot_idx": 164,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7078620791435242,
+      "best_score": 0.7078620791435242
+    }
+  },
+  "257": {
+    "tot_idx": 257,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6740612983703613,
+      "best_score": 0.6740612983703613
+    }
+  },
+  "591": {
+    "tot_idx": 591,
+    "query_num": 3,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6706660985946655,
+      "best_score": 0.6706660985946655
+    }
+  },
+  "488": {
+    "tot_idx": 488,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Sine wave function:  \\[x = \\"
+      ],
+      "initial_score": 0.6041725873947144,
+      "best_score": 0.6097474098205566
+    }
+  },
+  "993": {
+    "tot_idx": 993,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7116048336029053,
+      "best_score": 0.7116048336029053
+    }
+  },
+  "280": {
+    "tot_idx": 280,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Python code for calculating the N-point Fourier transform"
+      ],
+      "initial_score": 0.6990393400192261,
+      "best_score": 0.7037411332130432
+    }
+  },
+  "605": {
+    "tot_idx": 605,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Spline heatmap using the following function:"
+      ],
+      "initial_score": 0.735447883605957,
+      "best_score": 0.7404775619506836
+    }
+  },
+  "1064": {
+    "tot_idx": 1064,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Code for color mapping, please provide a link."
+      ],
+      "initial_score": 0.5411938428878784,
+      "best_score": 0.6646934151649475
+    }
+  },
+  "222": {
+    "tot_idx": 222,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "function to sort the given list.  [ ]"
+      ],
+      "initial_score": 0.6894221305847168,
+      "best_score": 0.6973279714584351
+    }
+  },
+  "357": {
+    "tot_idx": 357,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6363784074783325,
+      "best_score": 0.6363784074783325
+    }
+  },
+  "237": {
+    "tot_idx": 237,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "python code to unzip the list of objects and"
+      ],
+      "initial_score": 0.7015071511268616,
+      "best_score": 0.7117962837219238
+    }
+  },
+  "1052": {
+    "tot_idx": 1052,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7495917081832886,
+      "best_score": 0.7495917081832886
+    }
+  },
+  "40": {
+    "tot_idx": 40,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "True, [1.96725"
+      ],
+      "initial_score": 0.4894607365131378,
+      "best_score": 0.6230781674385071
+    }
+  },
+  "209": {
+    "tot_idx": 209,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7376708984375,
+      "best_score": 0.7376708984375
+    }
+  },
+  "321": {
+    "tot_idx": 321,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "python code to extract all texts that are not en"
+      ],
+      "initial_score": 0.5133827328681946,
+      "best_score": 0.6548372507095337
+    }
+  },
+  "444": {
+    "tot_idx": 444,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7084866762161255,
+      "best_score": 0.7084866762161255
+    }
+  },
+  "406": {
+    "tot_idx": 406,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.730792760848999,
+      "best_score": 0.730792760848999
+    }
+  },
+  "252": {
+    "tot_idx": 252,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6947958469390869,
+      "best_score": 0.6947958469390869
+    }
+  },
+  "133": {
+    "tot_idx": 133,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7378303408622742,
+      "best_score": 0.7378303408622742
+    }
+  },
+  "915": {
+    "tot_idx": 915,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Using the following function, plot a 1."
+      ],
+      "initial_score": 0.7466356754302979,
+      "best_score": 0.7476964592933655
+    }
+  },
+  "1066": {
+    "tot_idx": 1066,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.670543909072876,
+      "best_score": 0.670543909072876
+    }
+  },
+  "653": {
+    "tot_idx": 653,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, outliers2 are identified by Z-"
+      ],
+      "initial_score": 0.6707905530929565,
+      "best_score": 0.6767627000808716
+    }
+  },
+  "109": {
+    "tot_idx": 109,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6465288996696472,
+      "best_score": 0.6465288996696472
+    }
+  },
+  "381": {
+    "tot_idx": 381,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, the code for random forest model training is"
+      ],
+      "initial_score": 0.7658195495605469,
+      "best_score": 0.7692728042602539
+    }
+  },
+  "37": {
+    "tot_idx": 37,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7552693486213684,
+      "best_score": 0.7552693486213684
+    }
+  },
+  "995": {
+    "tot_idx": 995,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, the code for creating a random forest model"
+      ],
+      "initial_score": 0.68073570728302,
+      "best_score": 0.6952484846115112
+    }
+  },
+  "917": {
+    "tot_idx": 917,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6912772059440613,
+      "best_score": 0.6912772059440613
+    }
+  },
+  "914": {
+    "tot_idx": 914,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, 1) The code for the model"
+      ],
+      "initial_score": 0.7075077295303345,
+      "best_score": 0.7145868539810181
+    }
+  },
+  "944": {
+    "tot_idx": 944,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5613988637924194,
+      "best_score": 0.5613988637924194
+    }
+  },
+  "514": {
+    "tot_idx": 514,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7408093810081482,
+      "best_score": 0.7408093810081482
+    }
+  },
+  "540": {
+    "tot_idx": 540,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "```matplotlib.hist([[1],["
+      ],
+      "initial_score": 0.6524032354354858,
+      "best_score": 0.6581398248672485
+    }
+  },
+  "65": {
+    "tot_idx": 65,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6429092884063721,
+      "best_score": 0.6429092884063721
+    }
+  },
+  "31": {
+    "tot_idx": 31,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7479132413864136,
+      "best_score": 0.7479132413864136
+    }
+  },
+  "50": {
+    "tot_idx": 50,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Create data frame, and show it. Date format"
+      ],
+      "initial_score": 0.7268571853637695,
+      "best_score": 0.7345317602157593
+    }
+  },
+  "49": {
+    "tot_idx": 49,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, thanks. The code should be: "
+      ],
+      "initial_score": 0.685033917427063,
+      "best_score": 0.6905314922332764
+    }
+  },
+  "530": {
+    "tot_idx": 530,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6918588280677795,
+      "best_score": 0.6918588280677795
+    }
+  },
+  "142": {
+    "tot_idx": 142,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "```Sure, no<jupyter_"
+      ],
+      "initial_score": 0.6832879781723022,
+      "best_score": 0.7132624387741089
+    }
+  },
+  "224": {
+    "tot_idx": 224,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5431483387947083,
+      "best_score": 0.5431483387947083
+    }
+  },
+  "61": {
+    "tot_idx": 61,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Data: ```x_values = x, ["
+      ],
+      "initial_score": 0.709520697593689,
+      "best_score": 0.7135198712348938
+    }
+  },
+  "1016": {
+    "tot_idx": 1016,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Example code: import numpy as np, matplotlib."
+      ],
+      "initial_score": 0.59361732006073,
+      "best_score": 0.6042301654815674
+    }
+  },
+  "1056": {
+    "tot_idx": 1056,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7361774444580078,
+      "best_score": 0.7361774444580078
+    }
+  },
+  "121": {
+    "tot_idx": 121,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, and it is not possible to plot a"
+      ],
+      "initial_score": 0.6244223117828369,
+      "best_score": 0.6278838515281677
+    }
+  },
+  "359": {
+    "tot_idx": 359,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Import data: ```x_data``` ```y"
+      ],
+      "initial_score": 0.6751542091369629,
+      "best_score": 0.6890580058097839
+    }
+  },
+  "1079": {
+    "tot_idx": 1079,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7139621376991272,
+      "best_score": 0.7139621376991272
+    }
+  },
+  "414": {
+    "tot_idx": 414,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Using numpy.where(df!= 0."
+      ],
+      "initial_score": 0.536649763584137,
+      "best_score": 0.60169517993927
+    }
+  },
+  "513": {
+    "tot_idx": 513,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "```data = [0, 1,2"
+      ],
+      "initial_score": 0.679265022277832,
+      "best_score": 0.6834168434143066
+    }
+  },
+  "521": {
+    "tot_idx": 521,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7911326289176941,
+      "best_score": 0.7911326289176941
+    }
+  },
+  "522": {
+    "tot_idx": 522,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.819370687007904,
+      "best_score": 0.819370687007904
+    }
+  },
+  "201": {
+    "tot_idx": 201,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, it was implemented.  <filename>"
+      ],
+      "initial_score": 0.4655311703681946,
+      "best_score": 0.6306173205375671
+    }
+  },
+  "986": {
+    "tot_idx": 986,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, here is the function to convert a JSON"
+      ],
+      "initial_score": 0.7237825393676758,
+      "best_score": 0.7290065288543701
+    }
+  },
+  "304": {
+    "tot_idx": 304,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7387596368789673,
+      "best_score": 0.7387596368789673
+    }
+  },
+  "156": {
+    "tot_idx": 156,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7205466628074646,
+      "best_score": 0.7205466628074646
+    }
+  },
+  "936": {
+    "tot_idx": 936,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, here is the code:  ```import"
+      ],
+      "initial_score": 0.7266256213188171,
+      "best_score": 0.7288525700569153
+    }
+  },
+  "143": {
+    "tot_idx": 143,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7157743573188782,
+      "best_score": 0.7157743573188782
+    }
+  },
+  "119": {
+    "tot_idx": 119,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, 2. The solution is: ("
+      ],
+      "initial_score": 0.7023236751556396,
+      "best_score": 0.7065995335578918
+    }
+  },
+  "967": {
+    "tot_idx": 967,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Sine function:   \\[S =  \\"
+      ],
+      "initial_score": 0.5982383489608765,
+      "best_score": 0.6057130098342896
+    }
+  },
+  "953": {
+    "tot_idx": 953,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.734239399433136,
+      "best_score": 0.734239399433136
+    }
+  },
+  "261": {
+    "tot_idx": 261,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, <code>num_points = "
+      ],
+      "initial_score": 0.7041096091270447,
+      "best_score": 0.7109017372131348
+    }
+  },
+  "1033": {
+    "tot_idx": 1033,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "python code for generating random strings (Python 3"
+      ],
+      "initial_score": 0.5471464395523071,
+      "best_score": 0.6314508318901062
+    }
+  },
+  "103": {
+    "tot_idx": 103,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6961526274681091,
+      "best_score": 0.6961526274681091
+    }
+  },
+  "43": {
+    "tot_idx": 43,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "python code to read json file (json_file"
+      ],
+      "initial_score": 0.5254637002944946,
+      "best_score": 0.6111820936203003
+    }
+  },
+  "520": {
+    "tot_idx": 520,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Yes,  DataFrame.fillna(0"
+      ],
+      "initial_score": 0.7131664156913757,
+      "best_score": 0.7159436345100403
+    }
+  },
+  "107": {
+    "tot_idx": 107,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7611496448516846,
+      "best_score": 0.7611496448516846
+    }
+  },
+  "618": {
+    "tot_idx": 618,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.755124568939209,
+      "best_score": 0.755124568939209
+    }
+  },
+  "617": {
+    "tot_idx": 617,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7651481628417969,
+      "best_score": 0.7651481628417969
+    }
+  },
+  "616": {
+    "tot_idx": 616,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.729517936706543,
+      "best_score": 0.729517936706543
+    }
+  },
+  "85": {
+    "tot_idx": 85,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "[Code] : ```matplotlib.rcParams"
+      ],
+      "initial_score": -0.027537968009710312,
+      "best_score": 0.6515164375305176
+    }
+  },
+  "1043": {
+    "tot_idx": 1043,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6079477071762085,
+      "best_score": 0.6079477071762085
+    }
+  },
+  "128": {
+    "tot_idx": 128,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7711523771286011,
+      "best_score": 0.7711523771286011
+    }
+  },
+  "124": {
+    "tot_idx": 124,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Yes,  the code for'my_list"
+      ],
+      "initial_score": 0.6833733320236206,
+      "best_score": 0.690692663192749
+    }
+  },
+  "528": {
+    "tot_idx": 528,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "Using pandas's 'value_counts()"
+      ],
+      "initial_score": 0.7101258039474487,
+      "best_score": 0.7241173386573792
+    }
+  },
+  "970": {
+    "tot_idx": 970,
+    "query_num": 2,
+    "HotFlip": {
+      "attack_str": [
+        "python function to calculate cumulative sum: ```python"
+      ],
+      "initial_score": 0.6764930486679077,
+      "best_score": 0.6795890927314758
+    }
+  },
+  "560": {
+    "tot_idx": 560,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5685224533081055,
+      "best_score": 0.5685224533081055
+    }
+  },
+  "367": {
+    "tot_idx": 367,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8236962556838989,
+      "best_score": 0.8236962556838989
+    }
+  },
+  "1014": {
+    "tot_idx": 1014,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "data = pd.DataFrame( [ 1,"
+      ],
+      "initial_score": 0.6406656503677368,
+      "best_score": 0.7091763019561768
+    }
+  },
+  "1776": {
+    "tot_idx": 1776,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6236574649810791,
+      "best_score": 0.6236574649810791
+    }
+  },
+  "977": {
+    "tot_idx": 977,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7679197192192078,
+      "best_score": 0.7679197192192078
+    }
+  },
+  "1026": {
+    "tot_idx": 1026,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "Yes,  the function computes descriptive statistics"
+      ],
+      "initial_score": 0.6942403316497803,
+      "best_score": 0.6982715129852295
+    }
+  },
+  "59": {
+    "tot_idx": 59,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, https://en.wikipedia.org/"
+      ],
+      "initial_score": 0.7468019127845764,
+      "best_score": 0.7560718059539795
+    }
+  },
+  "34": {
+    "tot_idx": 34,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6442992687225342,
+      "best_score": 0.6442992687225342
+    }
+  },
+  "580": {
+    "tot_idx": 580,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8496014475822449,
+      "best_score": 0.8496014475822449
+    }
+  },
+  "1803": {
+    "tot_idx": 1803,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I understand. The code for the function"
+      ],
+      "initial_score": 0.6087474822998047,
+      "best_score": 0.6187348365783691
+    }
+  },
+  "1071": {
+    "tot_idx": 1071,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6440064907073975,
+      "best_score": 0.6440064907073975
+    }
+  },
+  "239": {
+    "tot_idx": 239,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7396989464759827,
+      "best_score": 0.7396989464759827
+    }
+  },
+  "108": {
+    "tot_idx": 108,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7598042488098145,
+      "best_score": 0.7598042488098145
+    }
+  },
+  "1054": {
+    "tot_idx": 1054,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8391457796096802,
+      "best_score": 0.8391457796096802
+    }
+  },
+  "169": {
+    "tot_idx": 169,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6386033892631531,
+      "best_score": 0.6386033892631531
+    }
+  },
+  "1035": {
+    "tot_idx": 1035,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7492291331291199,
+      "best_score": 0.7492291331291199
+    }
+  },
+  "1044": {
+    "tot_idx": 1044,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "python code to convert unix timestamp to date objects."
+      ],
+      "initial_score": 0.46049147844314575,
+      "best_score": 0.6395832300186157
+    }
+  },
+  "475": {
+    "tot_idx": 475,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "Using pandas you create a dataframe like: - "
+      ],
+      "initial_score": 0.6220322847366333,
+      "best_score": 0.6239145398139954
+    }
+  },
+  "427": {
+    "tot_idx": 427,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7769045829772949,
+      "best_score": 0.7769045829772949
+    }
+  },
+  "230": {
+    "tot_idx": 230,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, thanks! I got the code for this"
+      ],
+      "initial_score": 0.6961851119995117,
+      "best_score": 0.7064332962036133
+    }
+  },
+  "1036": {
+    "tot_idx": 1036,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8791413307189941,
+      "best_score": 0.8791413307189941
+    }
+  },
+  "1058": {
+    "tot_idx": 1058,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5984662175178528,
+      "best_score": 0.5984662175178528
+    }
+  },
+  "1663": {
+    "tot_idx": 1663,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "Sure, please provide a code example. I hope"
+      ],
+      "initial_score": 0.5762734413146973,
+      "best_score": 0.5827370285987854
+    }
+  },
+  "197": {
+    "tot_idx": 197,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8159033060073853,
+      "best_score": 0.8159033060073853
+    }
+  },
+  "1783": {
+    "tot_idx": 1783,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "Sure, please give a code example. If you"
+      ],
+      "initial_score": 0.5067230463027954,
+      "best_score": 0.5177879333496094
+    }
+  },
+  "438": {
+    "tot_idx": 438,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, 20x20 pixels are"
+      ],
+      "initial_score": 0.49427706003189087,
+      "best_score": 0.5060552358627319
+    }
+  },
+  "214": {
+    "tot_idx": 214,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.49857097864151,
+      "best_score": 0.49857097864151
+    }
+  },
+  "451": {
+    "tot_idx": 451,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "generate data: ```X_train_pca"
+      ],
+      "initial_score": 0.6608231067657471,
+      "best_score": 0.675647497177124
+    }
+  },
+  "1755": {
+    "tot_idx": 1755,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5589039921760559,
+      "best_score": 0.5589039921760559
+    }
+  },
+  "1786": {
+    "tot_idx": 1786,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5307615399360657,
+      "best_score": 0.5307615399360657
+    }
+  },
+  "53": {
+    "tot_idx": 53,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.875758171081543,
+      "best_score": 0.875758171081543
+    }
+  },
+  "968": {
+    "tot_idx": 968,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "Example code: ```python df =...  data"
+      ],
+      "initial_score": 0.5174779891967773,
+      "best_score": 0.6379104256629944
+    }
+  },
+  "227": {
+    "tot_idx": 227,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.781331479549408,
+      "best_score": 0.781331479549408
+    }
+  },
+  "445": {
+    "tot_idx": 445,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "For example for points:  [0 1"
+      ],
+      "initial_score": 0.6329007744789124,
+      "best_score": 0.6455496549606323
+    }
+  },
+  "387": {
+    "tot_idx": 387,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8605218529701233,
+      "best_score": 0.8605218529701233
+    }
+  },
+  "86": {
+    "tot_idx": 86,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "Sample code: ```from sklearn.metrics"
+      ],
+      "initial_score": 0.5243573784828186,
+      "best_score": 0.6613065004348755
+    }
+  },
+  "1002": {
+    "tot_idx": 1002,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8617725968360901,
+      "best_score": 0.8617725968360901
+    }
+  },
+  "73": {
+    "tot_idx": 73,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8222911357879639,
+      "best_score": 0.8222911357879639
+    }
+  },
+  "132": {
+    "tot_idx": 132,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7256776094436646,
+      "best_score": 0.7256776094436646
+    }
+  },
+  "200": {
+    "tot_idx": 200,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.5960265398025513,
+      "best_score": 0.5960265398025513
+    }
+  },
+  "179": {
+    "tot_idx": 179,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7766024470329285,
+      "best_score": 0.7766024470329285
+    }
+  },
+  "10414": {
+    "tot_idx": 10414,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, Sine function plot: x = "
+      ],
+      "initial_score": 0.383026123046875,
+      "best_score": 0.5299062132835388
+    }
+  },
+  "175": {
+    "tot_idx": 175,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8275830745697021,
+      "best_score": 0.8275830745697021
+    }
+  },
+  "1062": {
+    "tot_idx": 1062,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "Imports and Function Definition: Importing necessary libraries"
+      ],
+      "initial_score": 0.5565706491470337,
+      "best_score": 0.7792656421661377
+    }
+  },
+  "652": {
+    "tot_idx": 652,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8203850388526917,
+      "best_score": 0.8203850388526917
+    }
+  },
+  "226": {
+    "tot_idx": 226,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "create class generator(object):<jupyter"
+      ],
+      "initial_score": 0.8172763586044312,
+      "best_score": 0.8235347867012024
+    }
+  },
+  "293": {
+    "tot_idx": 293,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8053490519523621,
+      "best_score": 0.8053490519523621
+    }
+  },
+  "150": {
+    "tot_idx": 150,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "Example DataFrame: df =  pandas.DataFrame"
+      ],
+      "initial_score": 0.5098614692687988,
+      "best_score": 0.6481176018714905
+    }
+  },
+  "51": {
+    "tot_idx": 51,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8561747670173645,
+      "best_score": 0.8561747670173645
+    }
+  },
+  "62": {
+    "tot_idx": 62,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7103838920593262,
+      "best_score": 0.7103838920593262
+    }
+  },
+  "1721": {
+    "tot_idx": 1721,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I understand. The code for the function"
+      ],
+      "initial_score": 0.6558356285095215,
+      "best_score": 0.6830185651779175
+    }
+  },
+  "360": {
+    "tot_idx": 360,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6958842873573303,
+      "best_score": 0.6958842873573303
+    }
+  },
+  "529": {
+    "tot_idx": 529,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "One way to simulate rolling the dice would be using"
+      ],
+      "initial_score": 0.738303005695343,
+      "best_score": 0.7466579675674438
+    }
+  },
+  "282": {
+    "tot_idx": 282,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7027770280838013,
+      "best_score": 0.7027770280838013
+    }
+  },
+  "450": {
+    "tot_idx": 450,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7686349153518677,
+      "best_score": 0.7686349153518677
+    }
+  },
+  "506": {
+    "tot_idx": 506,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8225867748260498,
+      "best_score": 0.8225867748260498
+    }
+  },
+  "904": {
+    "tot_idx": 904,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8487635850906372,
+      "best_score": 0.8487635850906372
+    }
+  },
+  "210": {
+    "tot_idx": 210,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.8167494535446167,
+      "best_score": 0.8167494535446167
+    }
+  },
+  "180": {
+    "tot_idx": 180,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "import the necessary libraries and setup matplotlib.pyplot"
+      ],
+      "initial_score": 0.7844740152359009,
+      "best_score": 0.7946780920028687
+    }
+  },
+  "106": {
+    "tot_idx": 106,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6707370281219482,
+      "best_score": 0.6707370281219482
+    }
+  },
+  "162": {
+    "tot_idx": 162,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.805450975894928,
+      "best_score": 0.805450975894928
+    }
+  },
+  "338": {
+    "tot_idx": 338,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "function to generate timestamp strings (UTC-date format"
+      ],
+      "initial_score": 0.4423183798789978,
+      "best_score": 0.5672997236251831
+    }
+  },
+  "966": {
+    "tot_idx": 966,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6783922910690308,
+      "best_score": 0.6783922910690308
+    }
+  },
+  "512": {
+    "tot_idx": 512,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6237030029296875,
+      "best_score": 0.6237030029296875
+    }
+  },
+  "356": {
+    "tot_idx": 356,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.7929441928863525,
+      "best_score": 0.7929441928863525
+    }
+  },
+  "1083": {
+    "tot_idx": 1083,
+    "query_num": 1,
+    "HotFlip": {
+      "attack_str": [
+        "Code example of function: 1. Input Valid"
+      ],
+      "initial_score": 0.9189586639404297,
+      "best_score": 0.922761082649231
+    }
+  },
+  "231": {
+    "tot_idx": 231,
+    "query_num": 20,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] wikipedia forthcoming nonfiction [PAD] [PAD] path \u25a0 [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6473060250282288,
+      "best_score": 0.6612443327903748,
+      "jb_score": 0.6555662155151367
+    }
+  }
+}

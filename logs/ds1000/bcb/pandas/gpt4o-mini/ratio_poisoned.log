@@ -1,0 +1,1318 @@
+2025-01-08 20:29:01,395 - INFO - Namespace(eval_model_code='contriever', rag_dataset='ds1000', eval_dataset='bcb', split='test', orig_beir_results=None, query_results_dir='main', model_config_path='model_configs/gpt4o-mini_config.json', model_name='gpt4o-mini', top_k=5, use_truth='True', gpu_id=0, attack_method=None, adv_per_query=5, score_function='dot', repeat_times=1, M=20, p=0, seed=12, name='debug', pkg='pandas')
+2025-01-08 20:29:11,466 - INFO - Total samples:427
+2025-01-08 20:29:13,663 - INFO - ############# Target Question: 0 #############
+2025-01-08 20:29:13,664 - INFO - Question: Create a Pandas DataFrame from a list of pairs and visualize the data using a bar chart. - The title of the barplot should be set to 'Category vs Value'`.
+
+2025-01-08 20:29:13,664 - INFO - => Retrieving Clean documents...
+2025-01-08 20:29:37,778 - INFO - ############# Target Question: 1 #############
+2025-01-08 20:29:37,778 - INFO - Question: Read a CSV file, convert the string representations of dictionaries in a specific column ('dict_column') to Python dictionaries, and visualize the data with Seaborn's pairplot.
+
+2025-01-08 20:29:37,779 - INFO - => Retrieving Clean documents...
+2025-01-08 20:30:03,061 - INFO - ############# Target Question: 2 #############
+2025-01-08 20:30:03,061 - INFO - Question: Standardize a 2D data matrix, calculate the mean value of each row and then visualize the distribution of the mean values with an histogram. - Each row of the matrix represent a data point, its length is the same as that of FEATURE_NAMES. - The plot title should be 'Distribution of Means'.
+
+2025-01-08 20:30:03,061 - INFO - => Retrieving Clean documents...
+2025-01-08 20:30:28,178 - INFO - ############# Target Question: 3 #############
+2025-01-08 20:30:28,179 - INFO - Question: Calculate the Z-values of a 2D data matrix, calculate the mean value of each row and then visualize the correlation matrix of the Z-values with a heatmap.
+
+2025-01-08 20:30:28,179 - INFO - => Retrieving Clean documents...
+2025-01-08 20:30:52,022 - INFO - ############# Target Question: 4 #############
+2025-01-08 20:30:52,023 - INFO - Question: Calculate the skew of each row in a 2D data matrix and plot the distribution.
+
+2025-01-08 20:30:52,023 - INFO - => Retrieving Clean documents...
+2025-01-08 20:31:15,547 - INFO - ############# Target Question: 5 #############
+2025-01-08 20:31:15,548 - INFO - Question: Apply PCA with n_components components to a 2D data matrix, calculate the mean value of each component, and then return the cumulative explained variance of the components in a plot. - The function returns a dataframe with columns 'Component 1', 'Component 2', ... etc. - Each row of the dataframe correspond to a row of the original matrix mapped in the PCA space. - The dataframe should also include a column 'Mean' which is the average value of each component value per row - Create a plot of the cumulative explained variance. - the xlabel should be 'Number of Components' and the ylabel 'Cumulative Explained Variance'
+
+2025-01-08 20:31:15,548 - INFO - => Retrieving Clean documents...
+2025-01-08 20:31:40,504 - INFO - ############# Target Question: 6 #############
+2025-01-08 20:31:40,504 - INFO - Question: Perform PCA on a DataFrame (excluding non-numeric columns) and draw a scatter plot of the first two main components. The principal columns should be name 'Component 1' and 'Component 2'. Missing values are replaced by column's average.
+
+2025-01-08 20:31:40,504 - INFO - => Retrieving Clean documents...
+2025-01-08 20:32:04,974 - INFO - ############# Target Question: 7 #############
+2025-01-08 20:32:04,975 - INFO - Question: Convert a list of Unix timestamps to date objects, create a Pandas DataFrame, and draw a histogram. - The date format should be as DATE_FORMAT. - The DataFrame should have 'Timestamp' and 'Datetime' as column names. - If the list of timestamps is empty, raise a ValueError with the message "Input list of timestamps is empty".
+
+2025-01-08 20:32:04,975 - INFO - => Retrieving Clean documents...
+2025-01-08 20:32:28,662 - INFO - ############# Target Question: 8 #############
+2025-01-08 20:32:28,662 - INFO - Question: Convert a Unix timestamp to date objects in different time zones, create a Pandas DataFrame, and draw a bar chart. - You should use the time zones mentionned in the constant TIMEZONES. - The date format should be as DATE_FORMAT. - The DataFrame should have 'Timezone' and 'Datetime' as column names. - The x-label of the bar plot should be set to 'Timezone' while the y-label should be set to 'Datetime'. - The plot title should be "Datetime = f(Timezone)"
+
+2025-01-08 20:32:28,663 - INFO - => Retrieving Clean documents...
+2025-01-08 20:32:54,193 - INFO - ############# Target Question: 9 #############
+2025-01-08 20:32:54,194 - INFO - Question: Count the frequency of each word in a text after removing specific stopwords.
+
+2025-01-08 20:32:54,194 - INFO - => Retrieving Clean documents...
+2025-01-08 20:33:20,734 - INFO - ############# Target Question: 10 #############
+2025-01-08 20:33:20,734 - INFO - Question: Extract data from a text and create a Pandas DataFrame. The text contains several lines, each formatted as 'Name: John Doe, Email: john.doe@example.com, Age: 30, Country: USA'. Plot the age distribution using seaborn. The data is extracted using the regular expression pattern: "Name: (.*?), Email: (.*?), Age: (.*?), Country: (.*?)($|\n)" and the resulting DataFrame has columns: ['Name', 'Email', 'Age', 'Country']
+
+2025-01-08 20:33:20,734 - INFO - => Retrieving Clean documents...
+2025-01-08 20:33:44,191 - INFO - ############# Target Question: 11 #############
+2025-01-08 20:33:44,192 - INFO - Question: Analyze a text by creating a document term matrix with CountVectorizer. The text contains several sentences, each separated by a period. Ignore empty sentences.
+
+2025-01-08 20:33:44,192 - INFO - => Retrieving Clean documents...
+2025-01-08 20:34:07,580 - INFO - ############# Target Question: 12 #############
+2025-01-08 20:34:07,580 - INFO - Question: Given a text as input, the function should split it into multiple sentences and build a dictionary where each key is associated with a sentence and the corresponding value is the number of words in the sentence. The function returns a pandas Series built from the dictionary. - The keys of the dictionary (which correspond to the Index of the pandas Series) should be named "Sentence 1", "Sentence 2" etc. - When counting the words in a sentence, do not consider those included in the constant STOPWORDS. - Do not consider empty sentences.
+
+2025-01-08 20:34:07,580 - INFO - => Retrieving Clean documents...
+2025-01-08 20:34:31,641 - INFO - ############# Target Question: 13 #############
+2025-01-08 20:34:31,641 - INFO - Question: Extract data from a text and create a Pandas DataFrame. The text contains several lines, each formatted as 'Score: 85, Category: Math'. Make sure to convert the scores in integer.
+
+2025-01-08 20:34:31,641 - INFO - => Retrieving Clean documents...
+2025-01-08 20:34:57,460 - INFO - ############# Target Question: 14 #############
+2025-01-08 20:34:57,461 - INFO - Question: Create a heatmap of the correlation matrix of a DataFrame built from a CSV file. Round each correlation to 2 decimals.
+
+2025-01-08 20:34:57,461 - INFO - => Retrieving Clean documents...
+2025-01-08 20:35:21,650 - INFO - ############# Target Question: 15 #############
+2025-01-08 20:35:21,651 - INFO - Question: Save the list of dictionaries provided in the 'result' parameter to a CSV file (without index) and a JSON file.
+
+2025-01-08 20:35:21,651 - INFO - => Retrieving Clean documents...
+2025-01-08 20:35:45,042 - INFO - ############# Target Question: 16 #############
+2025-01-08 20:35:45,043 - INFO - Question: With a dictionary of cars as keys and their colors as values, create a DataFrame and visualize the distribution of vehicle colors in a bar chart. - The columns of the dataframe should be 'Car' and 'Color'. - The plot title should be 'Distribution of Vehicle Colors'.
+
+2025-01-08 20:35:45,043 - INFO - => Retrieving Clean documents...
+2025-01-08 20:36:09,053 - INFO - ############# Target Question: 17 #############
+2025-01-08 20:36:09,053 - INFO - Question: You are given a list of elements. Each element is a list with the same length as COLUMNS, representing one row a dataframe df to create. Visualize the distribution of different values in a column "col3" of a pandas DataFrame df, grouped by "col1" and "col2," using a heatmap.
+
+2025-01-08 20:36:09,053 - INFO - => Retrieving Clean documents...
+2025-01-08 20:36:34,205 - INFO - ############# Target Question: 18 #############
+2025-01-08 20:36:34,205 - INFO - Question: You are given a list of elements. Each element is a list with the same length as COLUMNS, representing one row a dataframe df to create. Draw a line chart with unique values in the COLUMNS[-1] of the pandas DataFrame "df", grouped by the rest of the columns. - The x-label should be set to the string obtained by joining all the column names (except the last one) by the character "-". - The y-label should be set to the last column name.
+
+2025-01-08 20:36:34,205 - INFO - => Retrieving Clean documents...
+2025-01-08 20:36:59,422 - INFO - ############# Target Question: 19 #############
+2025-01-08 20:36:59,422 - INFO - Question: You are given a list of elements. Each element of the list is a list of 3 values. Use this list of elements to build a dataframe with 3 columns 'col1', 'col2' and 'col3' and create a distribution of chart of the different values of "col3" grouped by "col1" and "col2" using seaborn. The function's logic is as follows: 1. Build a pandas DataFrame by using list of elements. Make sure to name the columns as 'col1', 'col2' and 'col3', the constant COLUMNS is provided for this purpose. 2. Create a new dataframe by grouping the values in the column 'col3' by ['col1', 'col2']. 3. Reset the index of the newly created dataframe. This dataframe is the first element of the output tuple. 4. Create a distribution plot of the 'col3' column of the previous dataframe using seaborn. This plot is the second and last element of the output tuple. - The xlabel (label for the x-axis) is set to the 'col3'.
+
+2025-01-08 20:36:59,422 - INFO - => Retrieving Clean documents...
+2025-01-08 20:37:24,622 - INFO - ############# Target Question: 20 #############
+2025-01-08 20:37:24,622 - INFO - Question: Look for all ascendingly sorted files in a directory that start with a given pattern, and return the number of files against their size. You should return a pandas DataFrame with 2 columns 'File' and 'Size' with correspond to the file name and the size respectively.
+
+2025-01-08 20:37:24,622 - INFO - => Retrieving Clean documents...
+2025-01-08 20:37:48,593 - INFO - ############# Target Question: 21 #############
+2025-01-08 20:37:48,593 - INFO - Question: Load a CSV file into a DataFrame, filter the lines in which the employee ID begins with a prefix, and draw a histogram of its age.
+
+2025-01-08 20:37:48,593 - INFO - => Retrieving Clean documents...
+2025-01-08 20:38:13,354 - INFO - ############# Target Question: 22 #############
+2025-01-08 20:38:13,354 - INFO - Question: Load e-mail data from a JSON file, convert it into a Pandas DataFrame, calculate the sum and mean of the list associated with each e-mail, and then record those values. Additionally, it plots the sum and mean values for each email. If there is no e-mail data, return an empty dataframe with the right columns (['email', 'list', 'sum', 'mean']), and None as the plot.
+
+2025-01-08 20:38:13,354 - INFO - => Retrieving Clean documents...
+2025-01-08 20:38:37,007 - INFO - ############# Target Question: 23 #############
+2025-01-08 20:38:37,007 - INFO - Question: Load e-mail data from a CSV file, convert it into a Pandas DataFrame, and calculate the sum, mean, and standard deviation of the list associated with each e-mail. Additionally, this function will draw a histogram of the mean values and return both the DataFrame and the histogram plot.
+
+2025-01-08 20:38:37,007 - INFO - => Retrieving Clean documents...
+2025-01-08 20:39:00,646 - INFO - ############# Target Question: 24 #############
+2025-01-08 20:39:00,646 - INFO - Question: Traverse a directory for CSV files a get the file with the longest filename. From that CSV file, load e-mail data, convert it into a Pandas DataFrame, calculate the sum, mean and median of the list associated with each e-mail, and then draw a histogram of the median. - The column names of each CSV files are 'email' and 'list'. - The column 'list' contains a string representation of a list. It should be converted before usage. - If there is not csv file in the directory, return an empty dataframe with the columns expected. - If there is not csv file in the directory, return None instead of an empty plot.
+
+2025-01-08 20:39:00,647 - INFO - => Retrieving Clean documents...
+2025-01-08 20:39:24,960 - INFO - ############# Target Question: 25 #############
+2025-01-08 20:39:24,960 - INFO - Question: Load e-mail data from an SQLite database and convert it into a Pandas DataFrame. Calculate the sum, mean, and variance of the list associated with each e-mail and then record these values. - The function expects the SQLite database to have a table named "EmailData" with columns 'email' and 'list'. - The column 'list' contains a string representation of the list. It should be converted before usage. - The function will return a DataFrame with additional columns 'sum', 'mean', and 'var' representing the calculated sum, mean, and variance respectively for each e-mail.
+
+2025-01-08 20:39:24,960 - INFO - => Retrieving Clean documents...
+2025-01-08 20:39:49,003 - INFO - ############# Target Question: 26 #############
+2025-01-08 20:39:49,004 - INFO - Question: Appends randomly generated sales data for specified fruits over a given range of days to a DataFrame, and returns a seaborn boxplot of the sales.
+
+2025-01-08 20:39:49,004 - INFO - => Retrieving Clean documents...
+2025-01-08 20:40:13,788 - INFO - ############# Target Question: 27 #############
+2025-01-08 20:40:13,788 - INFO - Question: Generate a sales report with randomly simulated sales and profit data for a given list of products. The data is aggregated by product and sorted by total profit in descending order.
+
+2025-01-08 20:40:13,788 - INFO - => Retrieving Clean documents...
+2025-01-08 20:40:39,214 - INFO - ############# Target Question: 28 #############
+2025-01-08 20:40:39,214 - INFO - Question: Generate and plot weather data for a specified date range. This function creates a DataFrame containing simulated daily weather data within the specified date range. It generates random values for temperature, humidity, and wind speed for each day. The function also plots these parameters over the date range and returns both the DataFrame and the plot object. The generated weather data ranges are as follows: - Temperature: Between -10°C and 40°C. - Humidity: Between 20% and 100%. - Wind Speed: Between 0 and 20 meters per second.
+
+2025-01-08 20:40:39,214 - INFO - => Retrieving Clean documents...
+2025-01-08 20:41:03,329 - INFO - ############# Target Question: 29 #############
+2025-01-08 20:41:03,330 - INFO - Question: Generate random scores for a given list of students, sort these scores in ascending order, and return both the scores and a bar plot of these scores. use np.random.randint(0, 100) to generate the scores of the students
+
+2025-01-08 20:41:03,330 - INFO - => Retrieving Clean documents...
+2025-01-08 20:41:27,698 - INFO - ############# Target Question: 30 #############
+2025-01-08 20:41:27,698 - INFO - Question: Generates a DataFrame containing ratings for a given list of products. Ratings are generated randomly based on the provided weights. The DataFrame is sorted by ratings in descending order.
+
+2025-01-08 20:41:27,698 - INFO - => Retrieving Clean documents...
+2025-01-08 20:41:52,557 - INFO - ############# Target Question: 31 #############
+2025-01-08 20:41:52,557 - INFO - Question: Generate random sales data for each day between a start and end date, inclusive. Returns the data and a plot of sales over time. sales ranges 0 to 500 and it is an integer
+
+2025-01-08 20:41:52,557 - INFO - => Retrieving Clean documents...
+2025-01-08 20:42:17,391 - INFO - ############# Target Question: 32 #############
+2025-01-08 20:42:17,391 - INFO - Question: Perform K-means clustering on a dataset and generate a scatter plot visualizing the clusters and their centroids.
+
+2025-01-08 20:42:17,391 - INFO - => Retrieving Clean documents...
+2025-01-08 20:42:41,031 - INFO - ############# Target Question: 33 #############
+2025-01-08 20:42:41,031 - INFO - Question: Perform Principal Component Analysis (PCA) on a dataset and record the result. Also, generates a scatter plot of the transformed data.
+
+2025-01-08 20:42:41,032 - INFO - => Retrieving Clean documents...
+2025-01-08 20:43:05,312 - INFO - ############# Target Question: 34 #############
+2025-01-08 20:43:05,313 - INFO - Question: Generates a DataFrame with simulated monthly sales data for various product categories, ensuring reproducibility through the use of a random seed.
+
+2025-01-08 20:43:05,313 - INFO - => Retrieving Clean documents...
+2025-01-08 20:43:30,074 - INFO - ############# Target Question: 35 #############
+2025-01-08 20:43:30,074 - INFO - Question: Draws a seaborn pair plot of the iris dataset using Arial font. This function sets the global font to Arial for better readability and visual appeal. It then generates a pair plot from the iris dataset, where each subplot represents the relationship between two features, colored by species. The plot includes the title 'Iris Dataset Pair Plot' and labels for each feature on the axes.
+
+2025-01-08 20:43:30,074 - INFO - => Retrieving Clean documents...
+2025-01-08 20:43:52,628 - INFO - ############# Target Question: 36 #############
+2025-01-08 20:43:52,629 - INFO - Question: Generates a plot of random time series data for the past 30 days with reproducibility controlled by an optional seed parameter. The plot is styled with Arial font for better readability.
+
+2025-01-08 20:43:52,629 - INFO - => Retrieving Clean documents...
+2025-01-08 20:44:16,451 - INFO - ############# Target Question: 37 #############
+2025-01-08 20:44:16,451 - INFO - Question: Draw the correlation heatmap of the Boston Housing dataset using Seaborn, with an option to save it to a specified file.
+
+2025-01-08 20:44:16,451 - INFO - => Retrieving Clean documents...
+2025-01-08 20:44:41,045 - INFO - ############# Target Question: 38 #############
+2025-01-08 20:44:41,046 - INFO - Question: Draws a seaborn pairplot for the diabetes dataset obtained from sklearn.datasets. This function sets the font to Arial. It then loads the diabetes dataset into a DataFrame and creates a pairplot using seaborn, which is useful for visual exploration of relationships between different features in the dataset.
+
+2025-01-08 20:44:41,046 - INFO - => Retrieving Clean documents...
+2025-01-08 20:45:05,664 - INFO - ############# Target Question: 39 #############
+2025-01-08 20:45:05,665 - INFO - Question: Calculate and plot the daytime temperatures for New York over a given period. The plot uses Arial font for display. for the returned plot,  set the xlabel as 'Date', ylabel as 'Temperature (°C)' and title as Daily Temperatures in New York
+
+2025-01-08 20:45:05,665 - INFO - => Retrieving Clean documents...
+2025-01-08 20:45:29,535 - INFO - ############# Target Question: 40 #############
+2025-01-08 20:45:29,536 - INFO - Question: Analyzes the groups in a DataFrame by plotting a scatter plot of the ordinals against the values for each group.
+
+2025-01-08 20:45:29,536 - INFO - => Retrieving Clean documents...
+2025-01-08 20:45:52,728 - INFO - ############# Target Question: 41 #############
+2025-01-08 20:45:52,728 - INFO - Question: Perform exploratory data analysis on a dataframe. This function converts the 'date' column to an ordinal format, creates a correlation matrix, and generates a pair plot of the dataframe. The title of the plot is 'Correlation Matrix'.
+
+2025-01-08 20:45:52,729 - INFO - => Retrieving Clean documents...
+2025-01-08 20:46:17,926 - INFO - ############# Target Question: 42 #############
+2025-01-08 20:46:17,927 - INFO - Question: Performs linear regression on a DataFrame using 'date' (converted to ordinal) as the predictor for 'value'. It plots both the original and predicted values, showcasing the linear relationship.
+
+2025-01-08 20:46:17,927 - INFO - => Retrieving Clean documents...
+2025-01-08 20:46:42,250 - INFO - ############# Target Question: 43 #############
+2025-01-08 20:46:42,251 - INFO - Question: Convert the 'date' column of a DataFrame to ordinal, perform KMeans clustering on 'date' and 'value' columns, and plot the clusters. Required names: x: 'Date (ordinal)' ylabel: 'Value' title: 'KMeans Clustering of Value vs Date'
+
+2025-01-08 20:46:42,251 - INFO - => Retrieving Clean documents...
+2025-01-08 20:47:04,603 - INFO - ############# Target Question: 44 #############
+2025-01-08 20:47:04,603 - INFO - Question: Decomposes a time series in the 'value' column of a DataFrame into trend, seasonality, and residuals.
+
+2025-01-08 20:47:04,603 - INFO - => Retrieving Clean documents...
+2025-01-08 20:47:29,866 - INFO - ############# Target Question: 45 #############
+2025-01-08 20:47:29,867 - INFO - Question: Generates a bar chart representing the distribution of specified items across given locations. The function takes a DataFrame with 'Item' and 'Location' columns and plots the count of each item per location. If lists of items and locations are provided, the chart will only include those specified, otherwise it defaults to a predefined list.
+
+2025-01-08 20:47:29,867 - INFO - => Retrieving Clean documents...
+2025-01-08 20:47:54,448 - INFO - ############# Target Question: 46 #############
+2025-01-08 20:47:54,449 - INFO - Question: Draw and return the daily turnover line chart from a pandas DataFrame.
+
+2025-01-08 20:47:54,449 - INFO - => Retrieving Clean documents...
+2025-01-08 20:48:19,919 - INFO - ############# Target Question: 47 #############
+2025-01-08 20:48:19,920 - INFO - Question: Draw and return a heat map with temperature data from a pandas DataFrame.
+
+2025-01-08 20:48:19,920 - INFO - => Retrieving Clean documents...
+2025-01-08 20:48:44,169 - INFO - ############# Target Question: 48 #############
+2025-01-08 20:48:44,169 - INFO - Question: Draws a pie chart of the status distribution from a pandas DataFrame with a 'Status' column and returns the plot object. The 'Status' column in the DataFrame is expected to contain categorical data with possible values like 'Pending', 'In Progress', 'Completed', 'Cancelled'.
+
+2025-01-08 20:48:44,170 - INFO - => Retrieving Clean documents...
+2025-01-08 20:49:08,524 - INFO - ############# Target Question: 49 #############
+2025-01-08 20:49:08,525 - INFO - Question: Generate a Pandas DataFrame with randomized student data. This function allows for specifying the total number of students and the randomness seed for reproducible outcomes. Data attributes include student names, ages, genders, and scores, each derived from provided parameters or defaults.
+
+2025-01-08 20:49:08,525 - INFO - => Retrieving Clean documents...
+2025-01-08 20:49:31,407 - INFO - ############# Target Question: 50 #############
+2025-01-08 20:49:31,407 - INFO - Question: Generate a pandas Series of random dates within a specified date range, including both start_date and end_date, with an optional seed for reproducibility. The function creates a series of dates randomly selected between the specified start and end dates, inclusive. It allows specifying a seed for the random number generator to ensure reproducible results, making it suitable for simulations or tests requiring consistency.
+
+2025-01-08 20:49:31,407 - INFO - => Retrieving Clean documents...
+2025-01-08 20:49:55,019 - INFO - ############# Target Question: 51 #############
+2025-01-08 20:49:55,020 - INFO - Question: Adds an item "12" to a list 'my_list', simulates sales data for different categories with an optional seed for reproducibility, and returns the data along with a bar plot. The sales data is a DataFrame with random sales figures for predefined categories. The categories are 'Electronics', 'Fashion', 'Home & Kitchen', 'Automotive', 'Sports'.
+
+2025-01-08 20:49:55,020 - INFO - => Retrieving Clean documents...
+2025-01-08 20:50:19,748 - INFO - ############# Target Question: 52 #############
+2025-01-08 20:50:19,748 - INFO - Question: Modify a list by adding the element '12', then concatenate a number of CSV files from a directory into a single DataFrame. The number of files concatenated is determined by the sum of the numbers in the list.
+
+2025-01-08 20:50:19,748 - INFO - => Retrieving Clean documents...
+2025-01-08 20:50:43,241 - INFO - ############# Target Question: 53 #############
+2025-01-08 20:50:43,242 - INFO - Question: Create a report on the number of animals in a zoo. For each animal, generate a random count within a specified range, calculate the mean, median, and standard deviation of these counts, and return a DataFrame with these statistics. Additionally, generate a bar chart of the counts.
+
+2025-01-08 20:50:43,242 - INFO - => Retrieving Clean documents...
+2025-01-08 20:51:07,237 - INFO - ############# Target Question: 54 #############
+2025-01-08 20:51:07,237 - INFO - Question: Scrape the first table from a web page and extract data into a Pandas DataFrame. This function scrapes the first table found on the specified web page URL and extracts the data into a DataFrame, where each row in the DataFrame corresponds to a table row (<tr>) from the web page, and each column represents the data contained within table data elements (<td>) of that row. The DataFrame's columns are named after the table's header row (<th> elements), if present. If the table lacks headers, the DataFrame's columns remain unnamed.
+
+2025-01-08 20:51:07,237 - INFO - => Retrieving Clean documents...
+2025-01-08 20:51:33,226 - INFO - ############# Target Question: 55 #############
+2025-01-08 20:51:33,227 - INFO - Question: Converts a hex string representation into actual bytes and records the frequency of each byte value. The function supports hex strings with or without '\\x' prefix.
+
+2025-01-08 20:51:33,227 - INFO - => Retrieving Clean documents...
+2025-01-08 20:51:56,630 - INFO - ############# Target Question: 56 #############
+2025-01-08 20:51:56,631 - INFO - Question: Normalize the last column of the DataFrame using MinMaxScaler from sklearn and plot the normalized data.
+
+2025-01-08 20:51:56,631 - INFO - => Retrieving Clean documents...
+2025-01-08 20:52:19,917 - INFO - ############# Target Question: 57 #############
+2025-01-08 20:52:19,918 - INFO - Question: Draw a histogram of the last column of the DataFrame and return the plot.
+
+2025-01-08 20:52:19,918 - INFO - => Retrieving Clean documents...
+2025-01-08 20:52:44,594 - INFO - ############# Target Question: 58 #############
+2025-01-08 20:52:44,594 - INFO - Question: Impute missing values in the last column of the dataframe using mean imputation, then create a box plot to visualize the distribution of data in the last column.
+
+2025-01-08 20:52:44,594 - INFO - => Retrieving Clean documents...
+2025-01-08 20:53:07,853 - INFO - ############# Target Question: 59 #############
+2025-01-08 20:53:07,854 - INFO - Question: Perform Principal Component Analysis (PCA) on the dataframe and visualize the two main components.
+
+2025-01-08 20:53:07,854 - INFO - => Retrieving Clean documents...
+2025-01-08 20:53:32,573 - INFO - ############# Target Question: 60 #############
+2025-01-08 20:53:32,573 - INFO - Question: Calculate the skewness of the last column of the dataframe.
+
+2025-01-08 20:53:32,573 - INFO - => Retrieving Clean documents...
+2025-01-08 20:53:57,640 - INFO - ############# Target Question: 61 #############
+2025-01-08 20:53:57,640 - INFO - Question: Create and return a bar chart of the frequency of letters in a DataFrame where the column 'Letters' contains English uppercase letters.
+
+2025-01-08 20:53:57,640 - INFO - => Retrieving Clean documents...
+2025-01-08 20:54:22,021 - INFO - ############# Target Question: 62 #############
+2025-01-08 20:54:22,021 - INFO - Question: Draw histograms of numeric columns in a DataFrame and return the plots. Each histogram represents the distribution of values in one numeric column, with the column name as the plot title, 'Value' as the x-axis label, and 'Frequency' as the y-axis label.
+
+2025-01-08 20:54:22,021 - INFO - => Retrieving Clean documents...
+2025-01-08 20:54:46,159 - INFO - ############# Target Question: 63 #############
+2025-01-08 20:54:46,160 - INFO - Question: Standardize specified numeric columns in a dataframe.
+
+2025-01-08 20:54:46,160 - INFO - => Retrieving Clean documents...
+2025-01-08 20:55:10,512 - INFO - ############# Target Question: 64 #############
+2025-01-08 20:55:10,513 - INFO - Question: Create a Pandas DataFrame with a specified number of rows and six columns (default A-F), each filled with random numbers between 1 and 100, using a specified seed for reproducibility. Additionally, calculate the mean and median for each column.
+
+2025-01-08 20:55:10,513 - INFO - => Retrieving Clean documents...
+2025-01-08 20:55:34,759 - INFO - ############# Target Question: 65 #############
+2025-01-08 20:55:34,760 - INFO - Question: Encrypt the categorical data in a specific column of a DataFrame using LabelEncoder.
+
+2025-01-08 20:55:34,760 - INFO - => Retrieving Clean documents...
+2025-01-08 20:56:00,393 - INFO - ############# Target Question: 66 #############
+2025-01-08 20:56:00,394 - INFO - Question: Constructs a DataFrame that enumerates the character counts of each string in a provided list of elements. This function can optionally include an index column for each row in the DataFrame.
+
+2025-01-08 20:56:00,394 - INFO - => Retrieving Clean documents...
+2025-01-08 20:56:24,942 - INFO - ############# Target Question: 67 #############
+2025-01-08 20:56:24,943 - INFO - Question: Create a profit report for a list of products based on a specific product dictionary that includes the quantity, price, and profit of each product. Additionally, calculate the average price and profit for all considered products, and plot a bar chart of the profit for each product.
+
+2025-01-08 20:56:24,943 - INFO - => Retrieving Clean documents...
+2025-01-08 20:56:49,814 - INFO - ############# Target Question: 68 #############
+2025-01-08 20:56:49,815 - INFO - Question: Normalize data specified by keys in a dictionary using MinMax scaling and plot the results. This function is useful for preprocessing data for machine learning models where data scaling can impact performance.
+
+2025-01-08 20:56:49,815 - INFO - => Retrieving Clean documents...
+2025-01-08 20:57:14,808 - INFO - ############# Target Question: 69 #############
+2025-01-08 20:57:14,810 - INFO - Question: Generates a DataFrame containing random grades for a predefined list of students across a set of courses. Each student will have one grade per course and an average grade calculated across all courses.
+
+2025-01-08 20:57:14,810 - INFO - => Retrieving Clean documents...
+2025-01-08 20:57:40,965 - INFO - ############# Target Question: 70 #############
+2025-01-08 20:57:40,966 - INFO - Question: Transforms categorical data into a numerical format suitable for machine learning algorithms using sklearn's LabelEncoder. This function generates a DataFrame that pairs original categorical values with their numerical encodings.
+
+2025-01-08 20:57:40,966 - INFO - => Retrieving Clean documents...
+2025-01-08 20:58:05,099 - INFO - ############# Target Question: 71 #############
+2025-01-08 20:58:05,099 - INFO - Question: Computes the average of each row in a provided 2D array and appends these averages as a new column. Additionally, it plots the averages against their respective row indices.
+
+2025-01-08 20:58:05,099 - INFO - => Retrieving Clean documents...
+2025-01-08 20:58:29,410 - INFO - ############# Target Question: 72 #############
+2025-01-08 20:58:29,411 - INFO - Question: Normalizes a given dataset using MinMax scaling and calculates the average of each row. This average is then added as a new column 'Average' to the resulting DataFrame. The function also visualizes these averages in a plot.
+
+2025-01-08 20:58:29,411 - INFO - => Retrieving Clean documents...
+2025-01-08 20:58:54,378 - INFO - ############# Target Question: 73 #############
+2025-01-08 20:58:54,379 - INFO - Question: Analyze a dataset by calculating the average of values across each row and visualizing the correlation matrix as a heatmap.
+
+2025-01-08 20:58:54,379 - INFO - => Retrieving Clean documents...
+2025-01-08 20:59:19,170 - INFO - ############# Target Question: 74 #############
+2025-01-08 20:59:19,170 - INFO - Question: Processes a given dataset to compute the average of each row, plots the distribution of these averages, and evaluates their normality. The function returns these averages as an additional column in a DataFrame, the plot of the distribution, and the p-value from the normality test if applicable.
+
+2025-01-08 20:59:19,170 - INFO - => Retrieving Clean documents...
+2025-01-08 20:59:44,033 - INFO - ############# Target Question: 75 #############
+2025-01-08 20:59:44,033 - INFO - Question: Extracts logging information such as message type, timestamp, and the message itself from a log file and stores the data in a CSV format. This utility is ideal for converting plain text logs into a more s tructured format that can be easily analyzed. The log is the format of 'TYPE: [TIMESTAMP (YYYY-MM-DD HH:MM:SS)] - MESSAGE'.
+
+2025-01-08 20:59:44,034 - INFO - => Retrieving Clean documents...
+2025-01-08 21:00:07,890 - INFO - ############# Target Question: 76 #############
+2025-01-08 21:00:07,890 - INFO - Question: Generates a DataFrame with random numerical data and visualizes this data in a stacked bar chart for specified categories.
+
+2025-01-08 21:00:07,890 - INFO - => Retrieving Clean documents...
+2025-01-08 21:00:31,834 - INFO - ############# Target Question: 77 #############
+2025-01-08 21:00:31,835 - INFO - Question: Generate random numeric data across a specified range for a given number of categories and visualize it with a stacked bar chart. >>> fig = task_func(num_labels=3, data_range=(1, 10)) >>> fig.show()  # This will display the figure with three labels and data range from 1 to 10
+
+2025-01-08 21:00:31,835 - INFO - => Retrieving Clean documents...
+2025-01-08 21:00:54,833 - INFO - ############# Target Question: 78 #############
+2025-01-08 21:00:54,833 - INFO - Question: Create a DataFrame containing random integer values within a specified range for categories 'A' through 'E', and visualize this data with a stacked bar chart.
+
+2025-01-08 21:00:54,834 - INFO - => Retrieving Clean documents...
+2025-01-08 21:01:17,990 - INFO - ############# Target Question: 79 #############
+2025-01-08 21:01:17,990 - INFO - Question: Create a list of business days between two dates, excluding weekends and specified country's public holidays.
+
+2025-01-08 21:01:17,991 - INFO - => Retrieving Clean documents...
+2025-01-08 21:01:43,299 - INFO - ############# Target Question: 80 #############
+2025-01-08 21:01:43,299 - INFO - Question: Generate a DataFrame containing random integer values across a specified number of categories, and visualize these data as a horizontal stacked bar chart.
+
+2025-01-08 21:01:43,299 - INFO - => Retrieving Clean documents...
+2025-01-08 21:02:07,829 - INFO - ############# Target Question: 81 #############
+2025-01-08 21:02:07,830 - INFO - Question: Generate random data and visualize it with a stacked bar chart, saving the chart to a file. This function facilitates the exploration and sharing of data distribution across multiple categories.
+
+2025-01-08 21:02:07,830 - INFO - => Retrieving Clean documents...
+2025-01-08 21:02:31,421 - INFO - ############# Target Question: 82 #############
+2025-01-08 21:02:31,421 - INFO - Question: Fetches data from a given CSV URL and returns a pandas DataFrame sorted based on the specified column. >>> task_func("http://example.com/data.csv", sort_by_column="price") id   title  price 2   3  Cherry    0.2 0   1   Apple    0.3 1   2  Banana    0.5
+
+2025-01-08 21:02:31,421 - INFO - => Retrieving Clean documents...
+2025-01-08 21:02:55,283 - INFO - ############# Target Question: 83 #############
+2025-01-08 21:02:55,283 - INFO - Question: Calculate statistics for the vegetables preferred by people listed in the input dictionary. The function reverses the dictionary to map vegetables to people and assigns random counts to these vegetables. It then calculates the occurrences of each vegetable as a percentage of the total counts. A dictionary is created to map each vegetable to a person from the input where vegetables are values. Random counts between 1 and 10 are assigned to simulate varying popularity or availability of each vegetable.
+
+2025-01-08 21:02:55,284 - INFO - => Retrieving Clean documents...
+2025-01-08 21:03:18,783 - INFO - ############# Target Question: 84 #############
+2025-01-08 21:03:18,783 - INFO - Question: Generates a DataFrame representing the GDP for a predefined set of countries based on their presence in the p rovided dictionary. The GDP values are simulated with random integers to model economic data.
+
+2025-01-08 21:03:18,783 - INFO - => Retrieving Clean documents...
+2025-01-08 21:03:44,344 - INFO - ############# Target Question: 85 #############
+2025-01-08 21:03:44,345 - INFO - Question: Add a new column with random values to the "data" DataFrame.
+
+2025-01-08 21:03:44,345 - INFO - => Retrieving Clean documents...
+2025-01-08 21:04:08,061 - INFO - ############# Target Question: 86 #############
+2025-01-08 21:04:08,062 - INFO - Question: Prepares and transforms text data from a specified column in a DataFrame by removing stopwords, numbers, and punctuation, and subsequently applying a vectorization process to convert text into a numeric format suitable for analysis.
+
+2025-01-08 21:04:08,062 - INFO - => Retrieving Clean documents...
+2025-01-08 21:04:31,814 - INFO - ############# Target Question: 87 #############
+2025-01-08 21:04:31,815 - INFO - Question: Create a map with markers for a list of cities, where the coordinates are randomly generated within given ranges.
+
+2025-01-08 21:04:31,815 - INFO - => Retrieving Clean documents...
+2025-01-08 21:04:56,138 - INFO - ############# Target Question: 88 #############
+2025-01-08 21:04:56,139 - INFO - Question: Create a GeoPandas DataFrame for a list of cities with randomly generated coordinates based on specified ranges.
+
+2025-01-08 21:04:56,139 - INFO - => Retrieving Clean documents...
+2025-01-08 21:05:18,765 - INFO - ############# Target Question: 89 #############
+2025-01-08 21:05:18,765 - INFO - Question: Generates a Folium map with markers for specified locations. It preprocesses the input to handle both direct geographical coordinates and address strings. For address strings, it dynamically resolves their latitude and longitude using the Photon geolocation service. This flexible input handling allows for easy mapping of various location types.
+
+2025-01-08 21:05:18,766 - INFO - => Retrieving Clean documents...
+2025-01-08 21:05:44,068 - INFO - ############# Target Question: 90 #############
+2025-01-08 21:05:44,068 - INFO - Question: Imports data from a specified CSV input into an SQLite database and retrieves it as a pandas DataFrame. The function reads the CSV input (file path or `StringIO`), creates a new database table or replaces an existing one, inserts data into the table, and finally queries the table to return the data as a DataFrame.
+
+2025-01-08 21:05:44,068 - INFO - => Retrieving Clean documents...
+2025-01-08 21:06:07,035 - INFO - ############# Target Question: 91 #############
+2025-01-08 21:06:07,035 - INFO - Question: Generates a DataFrame with a specified number of rows and columns, populated with randomly generated data. Each column's data type is randomly selected from a set of Python data types, including primitive and complex structures. DataFrame: A DataFrame in which each column's data type could be one of the following, with random content generated accordingly: - str: Random strings of 5 lowercase alphabetic characters. - int: Random integers from 0 to 9. - float: Random floats derived by converting integers from 0 to 9 into float. - list: Lists of random length (1 to 5) containing integers from 0 to 9. - tuple: Tuples of random length (1 to 5) containing integers from 0 to 9. - dict: Dictionaries with a random number (1 to 5) of key-value pairs, keys and values are integers from 0 to 9. - set: Sets of random size (1 to 5) containing unique integers from 0 to 9.
+
+2025-01-08 21:06:07,036 - INFO - => Retrieving Clean documents...
+2025-01-08 21:06:31,075 - INFO - ############# Target Question: 92 #############
+2025-01-08 21:06:31,076 - INFO - Question: Generate a weather report for specified cities at a given UTC datetime.
+
+2025-01-08 21:06:31,076 - INFO - => Retrieving Clean documents...
+2025-01-08 21:06:54,204 - INFO - ############# Target Question: 93 #############
+2025-01-08 21:06:54,205 - INFO - Question: Generate and draw a random sequence of "elements" number of steps. The steps are either -1 or 1, and the sequence is plotted as a random walk. Returns the descriptive statistics of the random walk and the plot of the random walk. The descriptive statistics include count, mean, standard deviation, minimum, 5th percentile, 25th percentile, median, 75th percentile, 95th percentile and maximum.
+
+2025-01-08 21:06:54,205 - INFO - => Retrieving Clean documents...
+2025-01-08 21:07:17,572 - INFO - ############# Target Question: 94 #############
+2025-01-08 21:07:17,572 - INFO - Question: Retrieve data from a specific API endpoint with the provided parameters, convert the data into a pandas dataframe, and draw a heatmap to show the correlation between numerical characteristics. The heatmap is displayed and also returned for further use or testing.
+
+2025-01-08 21:07:17,573 - INFO - => Retrieving Clean documents...
+2025-01-08 21:07:41,270 - INFO - ############# Target Question: 95 #############
+2025-01-08 21:07:41,271 - INFO - Question: Analyze text content in JSON files from a given directory and find the most common words. This function reads all the JSON files in the specified directory, extracts the text content from each file, and determines the most frequent words. It then returns a list of the specified number of the most common words and their respective counts.
+
+2025-01-08 21:07:41,271 - INFO - => Retrieving Clean documents...
+2025-01-08 21:08:04,953 - INFO - ############# Target Question: 96 #############
+2025-01-08 21:08:04,953 - INFO - Question: Pre-processes a DataFrame by replacing values according to a dictionary mapping, standardizing specified features, and optionally drawing a histogram of the target variable.
+
+2025-01-08 21:08:04,953 - INFO - => Retrieving Clean documents...
+2025-01-08 21:08:29,015 - INFO - ############# Target Question: 97 #############
+2025-01-08 21:08:29,016 - INFO - Question: This function preprocesses a pandas DataFrame by replacing specified values, encoding categorical attributes, and standardizing numerical attributes. It's designed to be flexible for data preprocessing in machine learning tasks.
+
+2025-01-08 21:08:29,016 - INFO - => Retrieving Clean documents...
+2025-01-08 21:08:52,806 - INFO - ############# Target Question: 98 #############
+2025-01-08 21:08:52,807 - INFO - Question: Replace values in a DataFrame with a dictionary mapping and optionally record histograms for specified columns.
+
+2025-01-08 21:08:52,807 - INFO - => Retrieving Clean documents...
+2025-01-08 21:09:16,699 - INFO - ############# Target Question: 99 #############
+2025-01-08 21:09:16,699 - INFO - Question: Replace certain values in a DataFrame with a dictionary mapping and calculate the Pearson correlation coefficient between each pair of columns.
+
+2025-01-08 21:09:16,699 - INFO - => Retrieving Clean documents...
+2025-01-08 21:09:40,265 - INFO - ############# Target Question: 100 #############
+2025-01-08 21:09:40,266 - INFO - Question: Generates a histogram of scores and a boxplot of scores by country from a pandas DataFrame. It considers only unique names for both plots. >>> print(task_func("not a dataframe")) Invalid input
+
+2025-01-08 21:09:40,266 - INFO - => Retrieving Clean documents...
+2025-01-08 21:10:05,647 - INFO - ############# Target Question: 101 #############
+2025-01-08 21:10:05,647 - INFO - Question: Generate a sales report from a DataFrame, excluding duplicate customer names. The report includes total sales and the most popular sales category.
+
+2025-01-08 21:10:05,647 - INFO - => Retrieving Clean documents...
+2025-01-08 21:10:31,614 - INFO - ############# Target Question: 102 #############
+2025-01-08 21:10:31,614 - INFO - Question: Perform a linear regression between "age" and "score" in the DataFrame, excluding rows with duplicate names. Plot the regression line and the scatter plot of the data.
+
+2025-01-08 21:10:31,614 - INFO - => Retrieving Clean documents...
+2025-01-08 21:10:55,475 - INFO - ############# Target Question: 103 #############
+2025-01-08 21:10:55,476 - INFO - Question: Predicts categories based on 'Age' and 'Score' in a given DataFrame using a Random Forest Classifier. Rows with duplicate 'Name' entries are dropped before the prediction. The function uses a Random Forest Classifier from sklearn to make predictions and evaluates the model using accuracy.
+
+2025-01-08 21:10:55,476 - INFO - => Retrieving Clean documents...
+2025-01-08 21:11:19,023 - INFO - ############# Target Question: 104 #############
+2025-01-08 21:11:19,023 - INFO - Question: Generate a random dataset of floating-point numbers, truncate each value to 3 decimal places, then return the generated DataFrame with the specified column name.
+
+2025-01-08 21:11:19,023 - INFO - => Retrieving Clean documents...
+2025-01-08 21:11:43,777 - INFO - ############# Target Question: 105 #############
+2025-01-08 21:11:43,778 - INFO - Question: Generate a random set of floating-point numbers, truncate each value to 3 decimal places, and return them in a DataFrame. The number of data points to generate can be specified. If zero, returns an empty DataFrame.
+
+2025-01-08 21:11:43,778 - INFO - => Retrieving Clean documents...
+2025-01-08 21:12:07,532 - INFO - ############# Target Question: 106 #############
+2025-01-08 21:12:07,532 - INFO - Question: Generate a random dataset of floating-point numbers within a specified range, truncate each value to 3 decimal places, and calculate statistical measures (mean, median, mode) of the data.
+
+2025-01-08 21:12:07,532 - INFO - => Retrieving Clean documents...
+2025-01-08 21:12:30,770 - INFO - ############# Target Question: 107 #############
+2025-01-08 21:12:30,771 - INFO - Question: Generate a random dataset of floating point numbers, truncate each value to 3 decimal places and normalize the data using standard scaling (mean = 0, std = 1).
+
+2025-01-08 21:12:30,771 - INFO - => Retrieving Clean documents...
+2025-01-08 21:12:54,627 - INFO - ############# Target Question: 108 #############
+2025-01-08 21:12:54,627 - INFO - Question: Generate a random set of floating-point numbers within a specified range, truncate each value to 3 decimal places, and divide the data into train and test sets based on a given test size.
+
+2025-01-08 21:12:54,627 - INFO - => Retrieving Clean documents...
+2025-01-08 21:13:19,957 - INFO - ############# Target Question: 109 #############
+2025-01-08 21:13:19,958 - INFO - Question: Draw a pie chart that shows the job distribution in the given data and return the plot object.
+
+2025-01-08 21:13:19,958 - INFO - => Retrieving Clean documents...
+2025-01-08 21:13:44,026 - INFO - ############# Target Question: 110 #############
+2025-01-08 21:13:44,027 - INFO - Question: Updates the provided dictionary with a specified key-value pair and generates a random dataset of size 'n' following a normal distribution. The mean and standard deviation of the distribution are set to the value associated with the given key. Additionally, it returns a histogram of the generated dataset.
+
+2025-01-08 21:13:44,027 - INFO - => Retrieving Clean documents...
+2025-01-08 21:14:07,966 - INFO - ############# Target Question: 111 #############
+2025-01-08 21:14:07,967 - INFO - Question: Scale the 'Age' and 'Income' columns between 0 and 1 for each group by 'id' in the provided pandas DataFrame. Additionally, create a histogram of the 'Income' column after scaling and return both the scaled DataFrame and the histogram data.
+
+2025-01-08 21:14:07,967 - INFO - => Retrieving Clean documents...
+2025-01-08 21:14:32,367 - INFO - ############# Target Question: 112 #############
+2025-01-08 21:14:32,367 - INFO - Question: Standardize the 'age' and 'income' columns for each group by 'id' in a Pandas DataFrame, and return the standardized DataFrame.
+
+2025-01-08 21:14:32,367 - INFO - => Retrieving Clean documents...
+2025-01-08 21:14:55,310 - INFO - ############# Target Question: 113 #############
+2025-01-08 21:14:55,311 - INFO - Question: Draw a bar chart of the counts of each unique value in the 'value' column of a pandas DataFrame and return the Axes object. Empty DataFrame will return an empty bar chart.
+
+2025-01-08 21:14:55,311 - INFO - => Retrieving Clean documents...
+2025-01-08 21:15:20,081 - INFO - ############# Target Question: 114 #############
+2025-01-08 21:15:20,081 - INFO - Question: Splits a list in the 'Value' column of a DataFrame into several columns, scales these columns using StandardScaler, and optionally returned the scaled data using a bar chart. The 'Date' column is converted to datetime and used as the index in the plot.
+
+2025-01-08 21:15:20,081 - INFO - => Retrieving Clean documents...
+2025-01-08 21:15:43,145 - INFO - ############# Target Question: 115 #############
+2025-01-08 21:15:43,146 - INFO - Question: Generate all subsets of a given size from a tuple and calculate the product of the sums of the subsets. Additionally, return the top_n sums of the subsets. If the subset size is larger than the tuple length, return 1. If the subset size is 0, return 1.
+
+2025-01-08 21:15:43,146 - INFO - => Retrieving Clean documents...
+2025-01-08 21:16:06,997 - INFO - ############# Target Question: 116 #############
+2025-01-08 21:16:06,997 - INFO - Question: Processes a pandas DataFrame with 'Date' and 'Value' columns. The 'Value' column contains lists of numbers. Converts 'Date' to datetime, splits 'Value' lists into separate columns, calculates Z-scores, and creates a box plot for Z-scores over time.
+
+2025-01-08 21:16:06,998 - INFO - => Retrieving Clean documents...
+2025-01-08 21:16:31,433 - INFO - ############# Target Question: 117 #############
+2025-01-08 21:16:31,433 - INFO - Question: Processes a pandas DataFrame by splitting lists in the 'Value' column into separate columns, calculates the Pearson correlation coefficient between these columns, and optionally visualizes the correlation matrix using a heatmap.
+
+2025-01-08 21:16:31,433 - INFO - => Retrieving Clean documents...
+2025-01-08 21:16:56,250 - INFO - ############# Target Question: 118 #############
+2025-01-08 21:16:56,251 - INFO - Question: Processes a DataFrame containing dates and lists of numbers. It converts the lists into separate columns, performs Principal Component Analysis (PCA), and returns the explained variance ratio of the principal components along with a bar chart visualizing this ratio. Returns 0,0 if the input DataFrame is empty.
+
+2025-01-08 21:16:56,251 - INFO - => Retrieving Clean documents...
+2025-01-08 21:17:20,119 - INFO - ############# Target Question: 119 #############
+2025-01-08 21:17:20,120 - INFO - Question: Create a report on students' grades in different subjects and then calculate the average grade for each student and subject.
+
+2025-01-08 21:17:20,120 - INFO - => Retrieving Clean documents...
+2025-01-08 21:17:44,107 - INFO - ############# Target Question: 120 #############
+2025-01-08 21:17:44,108 - INFO - Question: Generate a category distribution within a specified range and return as a DataFrame.
+
+2025-01-08 21:17:44,108 - INFO - => Retrieving Clean documents...
+2025-01-08 21:18:07,709 - INFO - ############# Target Question: 121 #############
+2025-01-08 21:18:07,710 - INFO - Question: Extracts all names from a given text string that are not surrounded by square brackets and counts the frequency of each extracted name. It then creates a bar chart of the name frequencies and returns the name frequencies as a pandas Series and the bar chart plot's axes object along with the skewness and kurtosis of the name frequencies. If the skewness and kurtosis are nan, they are returned as None.
+
+2025-01-08 21:18:07,710 - INFO - => Retrieving Clean documents...
+2025-01-08 21:18:33,460 - INFO - ############# Target Question: 122 #############
+2025-01-08 21:18:33,460 - INFO - Question: Calculate the TF-IDF score of the words in a list of documents.
+
+2025-01-08 21:18:33,460 - INFO - => Retrieving Clean documents...
+2025-01-08 21:18:58,105 - INFO - ############# Target Question: 123 #############
+2025-01-08 21:18:58,106 - INFO - Question: This function takes a pandas DataFrame and a column name as input and generates two subplots in one matplotlib figure: the first subplot is a histogram (with a kernel density estimate for numerical data), and the second is a box plot, representing the distribution of the values in the specified column.
+
+2025-01-08 21:18:58,106 - INFO - => Retrieving Clean documents...
+2025-01-08 21:19:22,859 - INFO - ############# Target Question: 124 #############
+2025-01-08 21:19:22,860 - INFO - Question: Draw a pie chart of the number of unique values in a given DataFrame column with an optional title.
+
+2025-01-08 21:19:22,860 - INFO - => Retrieving Clean documents...
+2025-01-08 21:19:47,016 - INFO - ############# Target Question: 125 #############
+2025-01-08 21:19:47,016 - INFO - Question: Draw a scatter plot with a regression line for two columns from a DataFrame.
+
+2025-01-08 21:19:47,016 - INFO - => Retrieving Clean documents...
+2025-01-08 21:20:11,733 - INFO - ############# Target Question: 126 #############
+2025-01-08 21:20:11,733 - INFO - Question: Find all matches of the regex pattern '([a-fA-F\ d] {32})' in a Pandas DataFrame column and count the occurrence of any unique match in the data.
+
+2025-01-08 21:20:11,733 - INFO - => Retrieving Clean documents...
+2025-01-08 21:20:39,362 - INFO - ############# Target Question: 127 #############
+2025-01-08 21:20:39,363 - INFO - Question: Create a sales report for a list of products in different categories. The report includes the quantity sold and revenue generated for each product.
+
+2025-01-08 21:20:39,363 - INFO - => Retrieving Clean documents...
+2025-01-08 21:21:03,508 - INFO - ############# Target Question: 128 #############
+2025-01-08 21:21:03,508 - INFO - Question: Create a sales report for a list of products in different categories. The report includes the quantity sold and revenue generated for each product.
+
+2025-01-08 21:21:03,508 - INFO - => Retrieving Clean documents...
+2025-01-08 21:21:27,783 - INFO - ############# Target Question: 129 #############
+2025-01-08 21:21:27,784 - INFO - Question: Calculate the frequency of certain words in a text dictionary and return a bar chart's Axes object and a dictionary containing the frequencies of the top_k most common words in text_dict. The function takes a dictionary containing word frequencies and a list of words. It calculates the frequency of the provided words in the dictionary and returns the Axes object of the bar chart displaying the frequencies along with the top_k most common words and their frequencies as a dictionary. If a word in word_keys is not present in text_dict, its frequency is considered to be 0.
+
+2025-01-08 21:21:27,784 - INFO - => Retrieving Clean documents...
+2025-01-08 21:21:54,552 - INFO - ############# Target Question: 130 #############
+2025-01-08 21:21:54,552 - INFO - Question: Create a sales report for a list of products in different categories. The report includes the quantity sold, revenue for 1 product, and total revenue generated for each product.
+
+2025-01-08 21:21:54,552 - INFO - => Retrieving Clean documents...
+2025-01-08 21:22:18,696 - INFO - ############# Target Question: 131 #############
+2025-01-08 21:22:18,696 - INFO - Question: Calculate the occurrence of certain words in a collection of sentences and return a bar chart.
+
+2025-01-08 21:22:18,696 - INFO - => Retrieving Clean documents...
+2025-01-08 21:22:44,909 - INFO - ############# Target Question: 132 #############
+2025-01-08 21:22:44,910 - INFO - Question: Load data from an Excel spreadsheet (.xlsx), calculate the mean and standard deviation of each column, and draw a bar chart. The bar chart will be returned as a matplotlib figure object.
+
+2025-01-08 21:22:44,910 - INFO - => Retrieving Clean documents...
+2025-01-08 21:23:10,084 - INFO - ############# Target Question: 133 #############
+2025-01-08 21:23:10,084 - INFO - Question: Reads data from an Excel spreadsheet, converts it to a CSV file, then calculates the sum of each column in the CSV file.
+
+2025-01-08 21:23:10,084 - INFO - => Retrieving Clean documents...
+2025-01-08 21:23:34,717 - INFO - ############# Target Question: 134 #############
+2025-01-08 21:23:34,718 - INFO - Question: Copies data from an Excel spreadsheet into a new Excel file, then reads the new Excel file and returns its contents.
+
+2025-01-08 21:23:34,718 - INFO - => Retrieving Clean documents...
+2025-01-08 21:23:59,499 - INFO - ############# Target Question: 135 #############
+2025-01-08 21:23:59,499 - INFO - Question: Train a linear regression model on a given DataFrame.
+
+2025-01-08 21:23:59,500 - INFO - => Retrieving Clean documents...
+2025-01-08 21:24:24,110 - INFO - ############# Target Question: 136 #############
+2025-01-08 21:24:24,111 - INFO - Question: Scale the input field to the range [0, 1] and display it as a DataFrame.
+
+2025-01-08 21:24:24,111 - INFO - => Retrieving Clean documents...
+2025-01-08 21:24:52,164 - INFO - ############# Target Question: 137 #############
+2025-01-08 21:24:52,165 - INFO - Question: Generates a summary table of all ascendingly sorted CSV files in a specified directory using Texttable. If an empty CSV file is encountered, a pandas.errors.EmptyDataError is raised.
+
+2025-01-08 21:24:52,165 - INFO - => Retrieving Clean documents...
+2025-01-08 21:25:16,532 - INFO - ############# Target Question: 138 #############
+2025-01-08 21:25:16,533 - INFO - Question: Generate a Pandas DataFrame with specified length and random data and then record the data.
+
+2025-01-08 21:25:16,533 - INFO - => Retrieving Clean documents...
+2025-01-08 21:25:43,101 - INFO - ############# Target Question: 139 #############
+2025-01-08 21:25:43,101 - INFO - Question: Trains a random forest model on data from a CSV file, using one column as the target variable (y) and the rest as features (X), and visualizes the feature importances in a bar plot. This function also handles missing values by dropping rows with any NaN values. >>> file_path = 'arena.csv' >>> create_dummy_file(file_path) >>> ax, importances = task_func(file_path, 'Index') # This will train a random forest model predicting 'Index' from 'Score1', 'Score2', and 'Score3', then plot and return the importances of 'Score1', 'Score2', and 'Score3' as features (X). >>> os.remove(file_path)
+
+2025-01-08 21:25:43,101 - INFO - => Retrieving Clean documents...
+2025-01-08 21:26:07,417 - INFO - ############# Target Question: 140 #############
+2025-01-08 21:26:07,417 - INFO - Question: Visualize the uppermost K n-grams in a given text string.
+
+2025-01-08 21:26:07,417 - INFO - => Retrieving Clean documents...
+2025-01-08 21:26:30,614 - INFO - ############# Target Question: 141 #############
+2025-01-08 21:26:30,615 - INFO - Question: Randomly generate a pandas DataFrame with specified ranges and length, and calculate the cumulative distribution function (CDF).
+
+2025-01-08 21:26:30,615 - INFO - => Retrieving Clean documents...
+2025-01-08 21:26:55,364 - INFO - ############# Target Question: 142 #############
+2025-01-08 21:26:55,364 - INFO - Question: Count the occurrences of each value in the specified columns in multiple CSV files.
+
+2025-01-08 21:26:55,365 - INFO - => Retrieving Clean documents...
+2025-01-08 21:27:19,903 - INFO - ############# Target Question: 143 #############
+2025-01-08 21:27:19,904 - INFO - Question: Fetches data from a given dictionary that includes a CSV URL and returns a pandas DataFrame sorted based on two specified columns. >>> task_func({"URL": "http://example.com/test.csv"}, "price") id   title  price 2   3  Cherry    0.2 0   1   Apple    0.3 1   2  Banana    0.5
+
+2025-01-08 21:27:19,904 - INFO - => Retrieving Clean documents...
+2025-01-08 21:27:44,950 - INFO - ############# Target Question: 144 #############
+2025-01-08 21:27:44,950 - INFO - Question: Extract numeric data from all text files matching a given pattern in a directory and compile it into a Pandas DataFrame.
+
+2025-01-08 21:27:44,950 - INFO - => Retrieving Clean documents...
+2025-01-08 21:28:12,549 - INFO - ############# Target Question: 145 #############
+2025-01-08 21:28:12,549 - INFO - Question: Query an SQLite database and return the results. This function connects to a given SQLite database, executes a given SQL query, and returns the results as a pandas DataFrame.
+
+2025-01-08 21:28:12,549 - INFO - => Retrieving Clean documents...
+2025-01-08 21:28:38,633 - INFO - ############# Target Question: 146 #############
+2025-01-08 21:28:38,633 - INFO - Question: Calculate the mean, median, and standard deviation of the data from a specific column in an Excel file.
+
+2025-01-08 21:28:38,633 - INFO - => Retrieving Clean documents...
+2025-01-08 21:29:04,340 - INFO - ############# Target Question: 147 #############
+2025-01-08 21:29:04,340 - INFO - Question: Filters data in a specific date range from a column in an Excel file and returns a Pandas DataFrame of the filtered data.
+
+2025-01-08 21:29:04,341 - INFO - => Retrieving Clean documents...
+2025-01-08 21:29:29,905 - INFO - ############# Target Question: 148 #############
+2025-01-08 21:29:29,906 - INFO - Question: Converts the given DataFrame to a dictionary, dropping the column named 'c' if it exists, and then saves it as a JSON file.
+
+2025-01-08 21:29:29,906 - INFO - => Retrieving Clean documents...
+2025-01-08 21:29:55,112 - INFO - ############# Target Question: 149 #############
+2025-01-08 21:29:55,112 - INFO - Question: Remove a column from a data dictionary if it exists, and then plot the remaining data if it contains numeric data.
+
+2025-01-08 21:29:55,113 - INFO - => Retrieving Clean documents...
+2025-01-08 21:30:18,863 - INFO - ############# Target Question: 150 #############
+2025-01-08 21:30:18,864 - INFO - Question: Decodes all Unicode escape strings in a particular column ("UnicodeString") in a given Pandas DataFrame.
+
+2025-01-08 21:30:18,864 - INFO - => Retrieving Clean documents...
+2025-01-08 21:30:44,046 - INFO - ############# Target Question: 151 #############
+2025-01-08 21:30:44,047 - INFO - Question: Removes a column from a given data dictionary and creates a heatmap of the correlation matrix of the remaining data. Non-numeric columns are excluded from the heatmap. If the data is empty or has no numeric columns, the function returns None.
+
+2025-01-08 21:30:44,047 - INFO - => Retrieving Clean documents...
+2025-01-08 21:31:08,180 - INFO - ############# Target Question: 152 #############
+2025-01-08 21:31:08,181 - INFO - Question: Scales numeric columns of a data dictionary using the StandardScaler. This function scales the numeric columns of a dataframe using the StandardScaler from scikit-learn. Non-numeric columns remain unchanged. If a column contains mixed data types, it tries to convert the entire column to float. If any value in the column cannot be converted to float, the entire column is left unchanged.
+
+2025-01-08 21:31:08,181 - INFO - => Retrieving Clean documents...
+2025-01-08 21:31:32,616 - INFO - ############# Target Question: 153 #############
+2025-01-08 21:31:32,616 - INFO - Question: Split the data into train and test datasets after removing a specified column if it exists.
+
+2025-01-08 21:31:32,617 - INFO - => Retrieving Clean documents...
+2025-01-08 21:31:59,611 - INFO - ############# Target Question: 154 #############
+2025-01-08 21:31:59,612 - INFO - Question: Perform linear regression analysis with specified characteristics and targets. The function should merge two dataframes based on the 'id' column, perform linear regression using columns specified in features to predict the target, and plot the residuals.
+
+2025-01-08 21:31:59,612 - INFO - => Retrieving Clean documents...
+2025-01-08 21:32:23,813 - INFO - ############# Target Question: 155 #############
+2025-01-08 21:32:23,813 - INFO - Question: Merge two dataframes on the 'id' column and then scale the numeric features. This function merges two dataframes via outer join on the 'id' column, and scales the merged dataframe's numeric features from df1 to have a mean of 0 and standard deviation of 1. It also returns a pair plot of the scaled features from df1.
+
+2025-01-08 21:32:23,814 - INFO - => Retrieving Clean documents...
+2025-01-08 21:32:47,758 - INFO - ############# Target Question: 156 #############
+2025-01-08 21:32:47,759 - INFO - Question: Perform the feature selection with SelectKBest (k=2) and return a heatmap of the feature correlations.
+
+2025-01-08 21:32:47,759 - INFO - => Retrieving Clean documents...
+2025-01-08 21:33:13,399 - INFO - ############# Target Question: 157 #############
+2025-01-08 21:33:13,400 - INFO - Question: Generate a Pandas DataFrame of products with their ID, quantity, code, price, product, and description based on a specified string of product data. The input string is expected to be divided into segments by newlines. Each segment is expected to be further split into parts by whitespace: ID, quantity, code, price, and a product description. The function will remove trailing whitespaces in each field and assign a product name per unique code. Product name is randomly sampled from: ['Apple', 'Banana', 'Orange', 'Pear', 'Grape']. The same product name will be assigned to each code for each input s, however different codes can be mapped to the same name. >>> s = '1 10 A10B 100 This is a description with spaces\\n2 20 B20C 200 Another description example' >>> df = task_func(s) >>> df ID  Quantity  Code  Price Product                        Description 0  1        10  A10B    100    Pear  This is a description with spaces 1  2        20  B20C    200    Pear        Another description example
+
+2025-01-08 21:33:13,400 - INFO - => Retrieving Clean documents...
+2025-01-08 21:33:37,345 - INFO - ############# Target Question: 158 #############
+2025-01-08 21:33:37,345 - INFO - Question: Generate a Pandas DataFrame of employees with their details based on the input provided.
+
+2025-01-08 21:33:37,345 - INFO - => Retrieving Clean documents...
+2025-01-08 21:34:01,178 - INFO - ############# Target Question: 159 #############
+2025-01-08 21:34:01,179 - INFO - Question: Calculate the product of matrix "P" and 3D tensor "T" then return dataframe of normalized results. This function performs matrix-tensor multiplication between a matrix "P" and a 3D tensor "T" using numpy. It checks if the shapes of P and T are compatible for multiplication, raising a ValueError if they are not. The function then normalizes the resulting 2D array using sklearn's StandardScaler. The final output is returned as a pandas DataFrame, with columns named feature_0, feature_1, ..., feature_n, where n is the number of features in the flattened result of the matrix-tensor multiplication.
+
+2025-01-08 21:34:01,179 - INFO - => Retrieving Clean documents...
+2025-01-08 21:34:25,242 - INFO - ############# Target Question: 160 #############
+2025-01-08 21:34:25,242 - INFO - Question: This function takes a pandas DataFrame and standardizes its features using sklearn's StandardScaler, which standardizes features by removing the mean and scaling to unit variance. After standardization, it draws a histogram for each feature with 20 bins.
+
+2025-01-08 21:34:25,243 - INFO - => Retrieving Clean documents...
+2025-01-08 21:34:50,242 - INFO - ############# Target Question: 161 #############
+2025-01-08 21:34:50,242 - INFO - Question: Normalize the data and visualize it using a heatmap. This function takes a pandas DataFrame, normalizes the data to a range [0, 1], and then visualizes this normalized data using a seaborn heatmap.  The heatmap uses the "YlGnBu" colormap to represent normalized values and includes a color bar labeled "Normalized Value" to indicate the range of data values. It returns both the normalized data and the heatmap plot.
+
+2025-01-08 21:34:50,242 - INFO - => Retrieving Clean documents...
+2025-01-08 21:35:14,662 - INFO - ############# Target Question: 162 #############
+2025-01-08 21:35:14,662 - INFO - Question: Draw a histogram of all elements in a nested list 'L' and return the Axes object of the plot. The function first uses Numpy to handle array operations, checking for correct input type while ignoring empty sublists. It then plots the histogram using pandas, assigning each unique value its own bin and plotting the histogram with rwidth 0.8.
+
+2025-01-08 21:35:14,662 - INFO - => Retrieving Clean documents...
+2025-01-08 21:35:39,904 - INFO - ############# Target Question: 163 #############
+2025-01-08 21:35:39,905 - INFO - Question: Load a JSON string into a dictionary, normalize the dictionary by doubling the numerical values, and then create a Pandas DataFrame from the dictionary. This function processes a JSON string by converting it into a dictionary, normalizes the data by doubling the numerical values, and then constructs a Pandas DataFrame from this dictionary.
+
+2025-01-08 21:35:39,905 - INFO - => Retrieving Clean documents...
+2025-01-08 21:36:05,197 - INFO - ############# Target Question: 164 #############
+2025-01-08 21:36:05,198 - INFO - Question: Executes a script to produce a CSV, reads the CSV, and plots a bar graph from the data. This function runs the provided script, which should generate a CSV file at the specified output path. The CSV must have exactly two columns. It then reads this CSV into a DataFrame and plots a bar graph, setting the first column as the x-axis labels and the second column as the bar heights. It will raise ValueError if the script fails to execute, or if the produced CSV is not valid.
+
+2025-01-08 21:36:05,198 - INFO - => Retrieving Clean documents...
+2025-01-08 21:36:31,220 - INFO - ############# Target Question: 165 #############
+2025-01-08 21:36:31,220 - INFO - Question: Create a Pandas DataFrame with specified number of rows. Each row contains a randomly selected category from the provided categories list and a random integer between 1 and 100. The function also generates a bar chart visualizing the counts of each category in the DataFrame and returns both the DataFrame and the bar chart.
+
+2025-01-08 21:36:31,221 - INFO - => Retrieving Clean documents...
+2025-01-08 21:36:55,170 - INFO - ############# Target Question: 166 #############
+2025-01-08 21:36:55,170 - INFO - Question: Convert a string of numerical values separated by a specified separator into a pandas numerical series with int64, and then draw a histogram of the data. The function raises a ValueError if data is empty or it fails to convert the data. It plots the histogram with the following attributes: - grid: True - rwidth: 0.9 - color: '#607c8e'
+
+2025-01-08 21:36:55,171 - INFO - => Retrieving Clean documents...
+2025-01-08 21:37:19,733 - INFO - ############# Target Question: 167 #############
+2025-01-08 21:37:19,734 - INFO - Question: Read a CSV file into a Pandas DataFrame, convert numeric values into floats,and draw a line chart of data in the specified columns. In addition, compute the cube-root of the data.
+
+2025-01-08 21:37:19,734 - INFO - => Retrieving Clean documents...
+2025-01-08 21:37:44,879 - INFO - ############# Target Question: 168 #############
+2025-01-08 21:37:44,879 - INFO - Question: Create a report on students' grades in a class, including a count of each grade out of all possible grades and a bar chart. Note: Grades are case-insensitive but whitespace-sensitive. Those not in possible grades are ignored.
+
+2025-01-08 21:37:44,879 - INFO - => Retrieving Clean documents...
+2025-01-08 21:38:09,166 - INFO - ############# Target Question: 169 #############
+2025-01-08 21:38:09,166 - INFO - Question: Count the frequency of each word in a list and return a DataFrame of words and their number.
+
+2025-01-08 21:38:09,166 - INFO - => Retrieving Clean documents...
+2025-01-08 21:38:35,234 - INFO - ############# Target Question: 170 #############
+2025-01-08 21:38:35,235 - INFO - Question: Draw a histogram of the data from a DataFrame column of the pandas after converting the data into a specific format, and return the matplotlib Axes object. Additional Notes: The title of the plot should be 'Date Distribution'. The y label should be named with 'Frequency'.
+
+2025-01-08 21:38:35,235 - INFO - => Retrieving Clean documents...
+2025-01-08 21:39:01,903 - INFO - ############# Target Question: 171 #############
+2025-01-08 21:39:01,903 - INFO - Question: Create a DataFrame with a given number of rows (N) and 3 columns: "x" and "y" with random values, and "category" with random categories from a given CATEGORIES list. Each category is guaranteed to appear at least once if N is greater than or equal to the number of categories, otherwise it is randomly sampled without replacement from CATEGORIES. Finally, draw a scatter plot of "x" vs "y," colored by "category".
+
+2025-01-08 21:39:01,903 - INFO - => Retrieving Clean documents...
+2025-01-08 21:39:25,990 - INFO - ############# Target Question: 172 #############
+2025-01-08 21:39:25,990 - INFO - Question: Removes a random comma-separated value (treated as a "substring") from each string in a list and returns a pandas DataFrame containing the original and modified strings.
+
+2025-01-08 21:39:25,990 - INFO - => Retrieving Clean documents...
+2025-01-08 21:39:50,181 - INFO - ############# Target Question: 173 #############
+2025-01-08 21:39:50,182 - INFO - Question: Replace a random substring (a sequence of characters between two commas or at the beginning/end of the string) in a list of strings with a random string (comprising ascii lowercase characters) with the same length as the substituted characters.
+
+2025-01-08 21:39:50,182 - INFO - => Retrieving Clean documents...
+2025-01-08 21:40:14,681 - INFO - ############# Target Question: 174 #############
+2025-01-08 21:40:14,681 - INFO - Question: Shuffle the substrings within each string in a given list. This function takes a list of comma-separated strings and splits each into substrings. It extracts substrings based on commas, removing leading and trailing whitespaces from each. Then, it shuffles these processed substrings within each string, and returns a pandas DataFrame with two columns: "Original String" and "Shuffled String".
+
+2025-01-08 21:40:14,682 - INFO - => Retrieving Clean documents...
+2025-01-08 21:40:39,531 - INFO - ############# Target Question: 175 #############
+2025-01-08 21:40:39,531 - INFO - Question: Randomizes the order of comma-separated substrings within each string in a list, normalizing spaces to ensure a single space follows each comma using regex, then returns a DataFrame comparing original and randomized strings.
+
+2025-01-08 21:40:39,531 - INFO - => Retrieving Clean documents...
+2025-01-08 21:41:03,910 - INFO - ############# Target Question: 176 #############
+2025-01-08 21:41:03,910 - INFO - Question: Apply a random operation (remove, replace, shuffle, or randomize) to substrings in a list of strings. This function processes a list of comma-separated strings by applying one of four random operations to their substrings: remove, replace, shuffle, or randomize. Here, a substring refers to the individual items in the string that are separated by commas, sensitive to leading/trailing whitespace, i.e. 'apple' != 'apple ', and sensitive to case, i.e. 'APPLE' != 'aPPLE'. The choice of operation and the substrings it affects are determined randomly. The operations are: - Remove: Randomly selects and removes a substring. If a string contains only one substring, no 'remove' operation is applied. - Replace: Randomly selects a substring and replaces it with 'random_string'. - Shuffle: Randomly shuffles the order of the substrings. - Randomize: Assigns a new, random order to the substrings. Finally, the function returns a DataFrame with column 'Original String' containing the input strings and the 'Modified String' column containing the strings after applying the random operation.
+
+2025-01-08 21:41:03,910 - INFO - => Retrieving Clean documents...
+2025-01-08 21:41:28,724 - INFO - ############# Target Question: 177 #############
+2025-01-08 21:41:28,724 - INFO - Question: Reverse the order of words in a specific column of a pandas DataFrame where the words match a user-specified regular expression pattern, using a nested helper function. Words are considered to be whitespace-separated strings. This function maintains the original order of non-matching words.
+
+2025-01-08 21:41:28,725 - INFO - => Retrieving Clean documents...
+2025-01-08 21:41:54,716 - INFO - ############# Target Question: 178 #############
+2025-01-08 21:41:54,716 - INFO - Question: Generate a DataFrame with detailed artificial sensor readings for specified timestamps and sensor statuses from a predefined list. The function generates sensor readings for Sensor1, Sensor2, and Sensor3 (or their corresponding named columns in the supplied column list) using sine, cosine, and tan functions, respectively, of the timestamp (converted to seconds), with a small random noise added to simulate real sensor data variability. SensorStatus is randomly chosen from the provided statuses for each timestamp.
+
+2025-01-08 21:41:54,716 - INFO - => Retrieving Clean documents...
+2025-01-08 21:42:18,650 - INFO - ############# Target Question: 179 #############
+2025-01-08 21:42:18,651 - INFO - Question: Generate a time series from a given epoch start time to end time with a specified step and trend. The time series is plotted with timestamps on the x-axis ('Time') and values on the y-axis ('Value'). The values are generated from a normal distribution, and a linear trend is added based on the provided trend value.
+
+2025-01-08 21:42:18,651 - INFO - => Retrieving Clean documents...
+2025-01-08 21:42:43,382 - INFO - ############# Target Question: 180 #############
+2025-01-08 21:42:43,383 - INFO - Question: Parse a log file to extract log entries into a DataFrame. This function reads a log file line by line. The log file is assumed to follow this format for each entry: YYYY-MM-DD HH:MM:SS.ssssss - LEVEL - Message The function matches each line against a predefined regular expression to extract timestamp, log level, and message, ignoring lines where there is no match. It then aggregates the matched and extracted data into a pandas DataFrame with columns: 'Timestamp', 'Level', and 'Message'. If the logs are empty or there is no extracted data, this function returns an otherwise empty DataFrame containing the same expected columns.
+
+2025-01-08 21:42:43,383 - INFO - => Retrieving Clean documents...
+2025-01-08 21:43:07,134 - INFO - ############# Target Question: 181 #############
+2025-01-08 21:43:07,135 - INFO - Question: Generate a time series with a given seasonality from the start UTC time to the end UTC time with a given step, and plot the time series with the seasonality.
+
+2025-01-08 21:43:07,135 - INFO - => Retrieving Clean documents...
+2025-01-08 21:43:35,001 - INFO - ############# Target Question: 182 #############
+2025-01-08 21:43:35,002 - INFO - Question: Generate user activity logs from a given epoch time to the current time. This function iterates from the starting epoch time to the current system time, incrementally increasing the time by a random number of seconds (an integer in [1, 10]) between each log entry. Each log entry records a user performing an activity at a specific time.
+
+2025-01-08 21:43:35,002 - INFO - => Retrieving Clean documents...
+2025-01-08 21:44:00,447 - INFO - ############# Target Question: 183 #############
+2025-01-08 21:44:00,447 - INFO - Question: Generate sales data for five products from a given epoch time up to the current time. This function checks input validity, then for each day between the date of the given epoch time to the date of the current time, generates random sales data for each of the 5 products.
+
+2025-01-08 21:44:00,448 - INFO - => Retrieving Clean documents...
+2025-01-08 21:44:26,507 - INFO - ############# Target Question: 184 #############
+2025-01-08 21:44:26,508 - INFO - Question: Generates a spending report DataFrame for the given number of days. This function takes a number of days as input and populates a pandas DataFrame with fake expenditure data indexed by date. Each day on or after '2023-01-01' has its own row. The DataFrame has five columns: Groceries, Entertainment, Rent, Utilities, and Miscellaneous, with their integer values independently randomly sampled from 0 to 100.
+
+2025-01-08 21:44:26,508 - INFO - => Retrieving Clean documents...
+2025-01-08 21:44:51,350 - INFO - ############# Target Question: 185 #############
+2025-01-08 21:44:51,350 - INFO - Question: Convert JSON strings to an Excel file, including handling empty JSON arrays. This function takes a JSON string and converts it into an Excel file with the specified filename. If the JSON string represents an empty array, the function creates an Excel file with no data rows.
+
+2025-01-08 21:44:51,351 - INFO - => Retrieving Clean documents...
+2025-01-08 21:45:18,599 - INFO - ############# Target Question: 186 #############
+2025-01-08 21:45:18,599 - INFO - Question: Generates a graph of daily activity durations for a specified number of days in the past using randomly generated data for activities. This function randomly generates acitivity durations from 0 to 120 for each activity from ["Running", "Swimming", "Cycling", "Yoga", "Weight Training"]. A sample row from the returned DataFrame might look like: Date        Activity  Duration YYYY-MM-DD  Running   45
+
+2025-01-08 21:45:18,599 - INFO - => Retrieving Clean documents...
+2025-01-08 21:45:42,519 - INFO - ############# Target Question: 187 #############
+2025-01-08 21:45:42,520 - INFO - Question: Create a DataFrame of stock prices for a specified number of days in the past using random data.
+
+2025-01-08 21:45:42,520 - INFO - => Retrieving Clean documents...
+2025-01-08 21:46:07,093 - INFO - ############# Target Question: 188 #############
+2025-01-08 21:46:07,093 - INFO - Question: Analyze and visualize statistical properties of a specified weather data column. This function calculates the sum, mean, minimum, and maximum values of a specified column in the given data. It also generates a histogram plot of the data in the column. The dataset is expected to be a list of weather observations, where each observation includes date, temperature, humidity, wind speed, and precipitation values. If the provided data list is empty, resulting in an empty DataFrame, the function handles it by setting: - The 'mean' value to np.nan. - The 'min' value to np.inf. - The 'max' value to -np.inf.
+
+2025-01-08 21:46:07,093 - INFO - => Retrieving Clean documents...
+2025-01-08 21:46:33,438 - INFO - ############# Target Question: 189 #############
+2025-01-08 21:46:33,438 - INFO - Question: Analyzes a list of stock data and calculates the sum, mean, minimum, and maximum values for a specified column.
+
+2025-01-08 21:46:33,438 - INFO - => Retrieving Clean documents...
+2025-01-08 21:46:58,649 - INFO - ############# Target Question: 190 #############
+2025-01-08 21:46:58,649 - INFO - Question: Compare two CSV files and create a difference report. This function compares two CSV files line by line and provides a detailed report of the differences. It represents each difference with a line number, a status indicator, and the content of that line.
+
+2025-01-08 21:46:58,649 - INFO - => Retrieving Clean documents...
+2025-01-08 21:47:25,448 - INFO - ############# Target Question: 191 #############
+2025-01-08 21:47:25,448 - INFO - Question: Analyze a list of employee data and calculate statistics for a given column. If the data list is empty, the sum will be 0 and mean, min, and max values will be NaN. The function also visualizes the data with a pie chart, using the Age column as labels.
+
+2025-01-08 21:47:25,448 - INFO - => Retrieving Clean documents...
+2025-01-08 21:47:50,533 - INFO - ############# Target Question: 192 #############
+2025-01-08 21:47:50,534 - INFO - Question: Analyze a list of sales data, calculate the sum, the mean, the minimum, the maximum of a given column, and return the bar chart plot for the given column without displaying it.
+
+2025-01-08 21:47:50,534 - INFO - => Retrieving Clean documents...
+2025-01-08 21:48:16,698 - INFO - ############# Target Question: 193 #############
+2025-01-08 21:48:16,698 - INFO - Question: Analyze a list of fitness data, calculate the sum, the mean, the minimum, the maximum of a certain column and draw a line chart. Additionally, validate that the numeric values for steps, calories burned, and distance walked are non-negative.
+
+2025-01-08 21:48:16,698 - INFO - => Retrieving Clean documents...
+2025-01-08 21:48:42,083 - INFO - ############# Target Question: 194 #############
+2025-01-08 21:48:42,084 - INFO - Question: Create a Pandas DataFrame from a 2D list and plot the sum of each column. Internal Constants: COLUMNS: List of column names used for the DataFrame ['A', 'B', 'C', 'D', 'E']
+
+2025-01-08 21:48:42,084 - INFO - => Retrieving Clean documents...
+2025-01-08 21:49:07,025 - INFO - ############# Target Question: 195 #############
+2025-01-08 21:49:07,025 - INFO - Question: Generates a DataFrame and heatmap from a 2D list. This function takes a 2D list and returns a pandas DataFrame and a seaborn heatmap representing the correlation matrix of the DataFrame. Assumes sublists of length 5. Also assumes DataFrame columns: 'A', 'B', 'C', 'D', 'E'.
+
+2025-01-08 21:49:07,025 - INFO - => Retrieving Clean documents...
+2025-01-08 21:49:32,001 - INFO - ############# Target Question: 196 #############
+2025-01-08 21:49:32,001 - INFO - Question: Generate a Pandas DataFrame from a 2D list and perform a multiple linear regression. The function first validates the input list, creates a DataFrame, separates independent and dependent variables, adds a constant to the model, and fits a linear regression using statsmodels. - random_seed (int): A seed for reproducibility in numpy for statsmodels. Defaults to 0.
+
+2025-01-08 21:49:32,001 - INFO - => Retrieving Clean documents...
+2025-01-08 21:49:56,780 - INFO - ############# Target Question: 197 #############
+2025-01-08 21:49:56,780 - INFO - Question: Converts a 2D list into a pandas DataFrame and applies PCA for dimensionality reduction. This function creates a DataFrame from the provided 2D list and then applies PCA to reduce the dataset to its two main components. The function uses a fixed random seed to ensure reproducibility.
+
+2025-01-08 21:49:56,780 - INFO - => Retrieving Clean documents...
+2025-01-08 21:50:22,291 - INFO - ############# Target Question: 198 #############
+2025-01-08 21:50:22,292 - INFO - Question: Generate a Pandas DataFrame from a 2D list and calculate a distance matrix. This function converts a 2D list into a DataFrame, with columns named alphabetically starting from 'A'. It uses the `chr()` function, which converts an integer to its corresponding Unicode character, to dynamically assign alphabetical labels to each column based on their index. The function then computes the Euclidean distance matrix between rows.
+
+2025-01-08 21:50:22,292 - INFO - => Retrieving Clean documents...
+2025-01-08 21:50:48,021 - INFO - ############# Target Question: 199 #############
+2025-01-08 21:50:48,022 - INFO - Question: Combine a list of dictionaries with the same keys (fruit names) into a single pandas dataframe where NA/NaN values are filled with 0, then generate a line chart of sales. The chart should have title 'Fruit Sales over Time', x-axis 'Time', and y-axis 'Sales Quantity'.
+
+2025-01-08 21:50:48,022 - INFO - => Retrieving Clean documents...
+2025-01-08 21:51:12,760 - INFO - ############# Target Question: 200 #############
+2025-01-08 21:51:12,760 - INFO - Question: Visualizes the scores of students over multiple tests using a line plot. The function takes in a list of dictionaries. Each dictionary contains the name of a student (key) and their score (value). It combines these dictionaries into a pandas DataFrame and plots a line graph of student scores over tests, where the x-axis represents the test number and the y-axis represents the score. Each student's scores are plotted as separate lines. Missing scores are handled by not plotting those specific data points, allowing for discontinuous lines where data is missing.
+
+2025-01-08 21:51:12,760 - INFO - => Retrieving Clean documents...
+2025-01-08 21:51:36,816 - INFO - ############# Target Question: 201 #############
+2025-01-08 21:51:36,816 - INFO - Question: Combine a list of dictionaries with the same keys into a single dictionary, turn it into a Pandas DataFrame and create a line plot of the data.
+
+2025-01-08 21:51:36,817 - INFO - => Retrieving Clean documents...
+2025-01-08 21:52:02,980 - INFO - ############# Target Question: 202 #############
+2025-01-08 21:52:02,980 - INFO - Question: Read a list of dictionaries from a JSON file, calculate the mean and median for each key (ignoring non-numeric or missing values), and convert the results into a Pandas DataFrame.
+
+2025-01-08 21:52:02,981 - INFO - => Retrieving Clean documents...
+2025-01-08 21:52:27,252 - INFO - ############# Target Question: 203 #############
+2025-01-08 21:52:27,253 - INFO - Question: Read a list of dictionaries from a JSON file, calculate the results (mean and median for each key) via numpy, convert the input data into a pandas DataFrame with the keys as "X" and values as "Y" for visualization with a seaborn box plot, then return the results and box plot.
+
+2025-01-08 21:52:27,253 - INFO - => Retrieving Clean documents...
+2025-01-08 21:52:51,167 - INFO - ############# Target Question: 204 #############
+2025-01-08 21:52:51,167 - INFO - Question: Identifies duplicate rows from a CSV file using the csv library, convert duplicated rows into a pandas DataFrame, then plot using matplotlib.
+
+2025-01-08 21:52:51,167 - INFO - => Retrieving Clean documents...
+2025-01-08 21:53:15,519 - INFO - ############# Target Question: 205 #############
+2025-01-08 21:53:15,520 - INFO - Question: Identify duplicate entries in a DataFrame and record the age distribution for the duplicate names. This function takes a DataFrame with 'name' and 'age' columns. If age is provided as floats, they will be rounded down to the nearest integer. Age must not be negative, otherwise the function raises ValueError. Then, the function identifies duplicate names and records the age distribution. It returns a Counter object with the age distribution and a histogram plot showing the distribution of ages for duplicate names, with age on the x-axis and count on the y-axis. Bins are calculated based on the minimum and maximum ages found among the duplicates, adjusted by .5 to ensure that integer ages fall squarely within bins.
+
+2025-01-08 21:53:15,520 - INFO - => Retrieving Clean documents...
+2025-01-08 21:53:40,190 - INFO - ############# Target Question: 206 #############
+2025-01-08 21:53:40,190 - INFO - Question: Read SQLite3 table via pandas and export to a CSV file.
+
+2025-01-08 21:53:40,190 - INFO - => Retrieving Clean documents...
+2025-01-08 21:54:07,227 - INFO - ############# Target Question: 207 #############
+2025-01-08 21:54:07,228 - INFO - Question: Draw the age distribution of the persons in an SQLite3 table and returns the Axes object of the plot. Raises a ValueError if the loaded data contains negative age values.
+
+2025-01-08 21:54:07,228 - INFO - => Retrieving Clean documents...
+2025-01-08 21:54:31,322 - INFO - ############# Target Question: 208 #############
+2025-01-08 21:54:31,322 - INFO - Question: Plot the relationship between the first and second numerical columns of an SQLite3 table, after excluding 'id' column.
+
+2025-01-08 21:54:31,322 - INFO - => Retrieving Clean documents...
+2025-01-08 21:54:55,819 - INFO - ############# Target Question: 209 #############
+2025-01-08 21:54:55,820 - INFO - Question: Encodes a dict of list as a Base64 string. The dict is first converted to a Pandas DataFrame. Then convert the data franme to CSV format and encoded to bytes, finally encoded it to a Base64 string.
+
+2025-01-08 21:54:55,820 - INFO - => Retrieving Clean documents...
+2025-01-08 21:55:21,297 - INFO - ############# Target Question: 210 #############
+2025-01-08 21:55:21,297 - INFO - Question: Given a nested list of menu items, this function flattens the list and returns a Pandas DataFrame detailing the count of each individual menu item with index name 'MenuItem'.
+
+2025-01-08 21:55:21,297 - INFO - => Retrieving Clean documents...
+2025-01-08 21:55:45,148 - INFO - ############# Target Question: 211 #############
+2025-01-08 21:55:45,148 - INFO - Question: Given a nested list of menu items, this function flattens the list and visualizes the frequency of each menu item using a seaborn barplot.
+
+2025-01-08 21:55:45,148 - INFO - => Retrieving Clean documents...
+2025-01-08 21:56:10,081 - INFO - ############# Target Question: 212 #############
+2025-01-08 21:56:10,081 - INFO - Question: Generate a pandas DataFrame with random values based on lists 'a' and 'b', and plot it as a bar chart. List 'a' sets the DataFrame's row indices, while the length of list 'b' determines the number of columns using predefined names from the 'COLUMNS = ['A', 'B', 'C', 'D', 'E']' list. Data Structure: - Uses pandas DataFrame to structure the data.
+
+2025-01-08 21:56:10,082 - INFO - => Retrieving Clean documents...
+2025-01-08 21:56:35,026 - INFO - ############# Target Question: 213 #############
+2025-01-08 21:56:35,026 - INFO - Question: Calculate the Pearson correlation coefficient of two lists, generate a Pandas DataFrame from these lists, and then draw a scatter plot with a regression line.
+
+2025-01-08 21:56:35,026 - INFO - => Retrieving Clean documents...
+2025-01-08 21:56:59,121 - INFO - ############# Target Question: 214 #############
+2025-01-08 21:56:59,121 - INFO - Question: Standardize two lists of numbers using the StandardScaler from sklearn and visualize the standardized values using a bar plot.
+
+2025-01-08 21:56:59,121 - INFO - => Retrieving Clean documents...
+2025-01-08 21:57:23,758 - INFO - ############# Target Question: 215 #############
+2025-01-08 21:57:23,758 - INFO - Question: Calculate the Euclidean distance between two lists, create a Pandas DataFrame from these lists with indices 'A' and 'B', and then draw the values with a line displaying the Euclidean distance.
+
+2025-01-08 21:57:23,758 - INFO - => Retrieving Clean documents...
+2025-01-08 21:57:47,593 - INFO - ############# Target Question: 216 #############
+2025-01-08 21:57:47,593 - INFO - Question: This function plots a bar chart of monthly data values for a single year, with 'month' on the x-axis and 'value' on the y-axis.
+
+2025-01-08 21:57:47,593 - INFO - => Retrieving Clean documents...
+2025-01-08 21:58:11,907 - INFO - ############# Target Question: 217 #############
+2025-01-08 21:58:11,907 - INFO - Question: This function draws a histogram to visualize the frequency distribution of numeric values provided in a string format, with 'Value' on the x-axis, 'Frequency' on the y-axis and 'Histogram of Values' as the title.
+
+2025-01-08 21:58:11,907 - INFO - => Retrieving Clean documents...
+2025-01-08 21:58:37,232 - INFO - ############# Target Question: 218 #############
+2025-01-08 21:58:37,233 - INFO - Question: Analyzes a list of functions and draws a bar chart showing the number of arguments for each function. The function names are listed along the x-axis, and the number of arguments are represented as bars. This method showcases the integration of function introspection, data frame creation, and data visualization.
+
+2025-01-08 21:58:37,233 - INFO - => Retrieving Clean documents...
+2025-01-08 21:59:04,497 - INFO - ############# Target Question: 219 #############
+2025-01-08 21:59:04,497 - INFO - Question: Exports the specifications of functions in 'f_list' to a CSV file at 'file_path'. The CSV file columns are as follows: - 'Function Name': The name of the function. - 'Number of Arguments': The number of arguments the function takes. - 'Defaults': Default values for the function's arguments, if any. - 'Annotations': Type annotations of the function's arguments and return value, if any. - 'Is Lambda': Boolean value indicating whether the function is a lambda function. Each row in the CSV file corresponds to a function in 'f_list'.
+
+2025-01-08 21:59:04,497 - INFO - => Retrieving Clean documents...
+2025-01-08 21:59:30,550 - INFO - ############# Target Question: 220 #############
+2025-01-08 21:59:30,551 - INFO - Question: Generate two arrays of random numbers of a given length, calculate their mean, median, and standard deviation, then store these results in a Panda DataFrame 'statistics' with keys 'Array1' and 'Array2'. Draw a bar chart to compare these statistics with indices 'Mean', 'Median', and 'Standard Deviation'.
+
+2025-01-08 21:59:30,551 - INFO - => Retrieving Clean documents...
+2025-01-08 21:59:55,596 - INFO - ############# Target Question: 221 #############
+2025-01-08 21:59:55,596 - INFO - Question: Given a list `l`, this function shuffles the list, constructs a dataframe using the shuffled list, and then for each row in the dataframe, moves the first n_groups elements to the end of the same row.
+
+2025-01-08 21:59:55,596 - INFO - => Retrieving Clean documents...
+2025-01-08 22:00:21,301 - INFO - ############# Target Question: 222 #############
+2025-01-08 22:00:21,301 - INFO - Question: Generate a Series from a list "l". The function shuffles the list, then creates a longer series by cycling through the shuffled list. For each element in the series, it randomly selects n_groups characters from the start of the string and moves them to the end.
+
+2025-01-08 22:00:21,301 - INFO - => Retrieving Clean documents...
+2025-01-08 22:00:50,165 - INFO - ############# Target Question: 223 #############
+2025-01-08 22:00:50,165 - INFO - Question: Generates a pandas DataFrame with two columns, "Random Numbers" and "Moving Average," filled with random integers and their moving average, respectively. Additionally, this function plots a histogram of the "Random Numbers" column. No Parameters.
+
+2025-01-08 22:00:50,165 - INFO - => Retrieving Clean documents...
+2025-01-08 22:01:15,374 - INFO - ############# Target Question: 224 #############
+2025-01-08 22:01:15,375 - INFO - Question: Generates a DataFrame with two columns, 'X' and 'Y', each filled with random integers within a specified range, and plots these points using a scatter plot. The visualization is created using Seaborn on top of Matplotlib. The function is designed to be parameter-free for simplicity, utilizing constants for configuration. No Parameters.
+
+2025-01-08 22:01:15,375 - INFO - => Retrieving Clean documents...
+2025-01-08 22:01:40,873 - INFO - ############# Target Question: 225 #############
+2025-01-08 22:01:40,874 - INFO - Question: Extracts the text and href attributes of all anchor tags from a given URL's HTML content, and returns this data in a pandas DataFrame along with the time of data extraction.
+
+2025-01-08 22:01:40,874 - INFO - => Retrieving Clean documents...
+2025-01-08 22:02:06,020 - INFO - ############# Target Question: 226 #############
+2025-01-08 22:02:06,020 - INFO - Question: Generate temperature data for the specified number of hours, save it in a CSV file, and plot the data using matplotlib. Data Structure: The function uses a dictionary to manage the generated temperature data with keys: 'Time', 'Temperature', and 'Category'.
+
+2025-01-08 22:02:06,020 - INFO - => Retrieving Clean documents...
+2025-01-08 22:02:30,350 - INFO - ############# Target Question: 227 #############
+2025-01-08 22:02:30,351 - INFO - Question: Generates traffic data for different vehicle types over a specified number of hours, saves the data to a CSV file with coloumns 'Time', 'Car', 'Bus', 'Truck', and 'Bike', and plots the data in a line chart with 'Time' on x-axis and 'Vehicle Count' on y-axis.
+
+2025-01-08 22:02:30,351 - INFO - => Retrieving Clean documents...
+2025-01-08 22:02:57,918 - INFO - ############# Target Question: 228 #############
+2025-01-08 22:02:57,918 - INFO - Question: Filters rows in a dictionary where the 'Name' column values start with a specified letter. First, convert the dict to a DataFrame and then filter rows in this DataFrame.
+
+2025-01-08 22:02:57,918 - INFO - => Retrieving Clean documents...
+2025-01-08 22:03:23,812 - INFO - ############# Target Question: 229 #############
+2025-01-08 22:03:23,813 - INFO - Question: The function filters rows in a dict of list in which the values of the 'Word' column begin with a specified letter. It first convert the dict to Datafrome, then calculates the length of the words in the filtered column and returns a dictionary of word lengths and their respective counts.
+
+2025-01-08 22:03:23,813 - INFO - => Retrieving Clean documents...
+2025-01-08 22:03:47,922 - INFO - ############# Target Question: 230 #############
+2025-01-08 22:03:47,923 - INFO - Question: This function converts an input dictionary into a DataFrame, filters rows where 'Word' column values start with a specified letter, calculates the lengths of these words, and returns returns a histogram plot of the word lengths.
+
+2025-01-08 22:03:47,923 - INFO - => Retrieving Clean documents...
+2025-01-08 22:04:13,373 - INFO - ############# Target Question: 231 #############
+2025-01-08 22:04:13,374 - INFO - Question: This function converts an input dictionary into a DataFrame, filters rows where 'Word' column values start with a specified letter, calculates the lengths of these words, and returns basic statistics (mean, median, mode) of the word lengths.
+
+2025-01-08 22:04:13,374 - INFO - => Retrieving Clean documents...
+2025-01-08 22:04:42,166 - INFO - ############# Target Question: 232 #############
+2025-01-08 22:04:42,166 - INFO - Question: Create a CSV file containing a 2D matrix populated exclusively with random lowercase letters.
+
+2025-01-08 22:04:42,166 - INFO - => Retrieving Clean documents...
+2025-01-08 22:05:09,129 - INFO - ############# Target Question: 233 #############
+2025-01-08 22:05:09,129 - INFO - Question: Connects two 2D numeric arrays (matrices) along the second axis (columns), converts them into a Pandas DataFrame, and returns a string representation of the DataFrame.
+
+2025-01-08 22:05:09,130 - INFO - => Retrieving Clean documents...
+2025-01-08 22:05:32,137 - INFO - ############# Target Question: 234 #############
+2025-01-08 22:05:32,137 - INFO - Question: Visualize a 2D numeric array (matrix) as a heatmap using matplotlib, specifying a cmap for the color mapping and interpolation to control the pixel rendering.
+
+2025-01-08 22:05:32,137 - INFO - => Retrieving Clean documents...
+2025-01-08 22:05:56,735 - INFO - ############# Target Question: 235 #############
+2025-01-08 22:05:56,735 - INFO - Question: Normalizes a 2D numeric array (matrix) using the Z score.
+
+2025-01-08 22:05:56,735 - INFO - => Retrieving Clean documents...
+2025-01-08 22:06:23,742 - INFO - ############# Target Question: 236 #############
+2025-01-08 22:06:23,743 - INFO - Question: Remove rows from a dataframe based on column values and generate random scatter plots.
+
+2025-01-08 22:06:23,743 - INFO - => Retrieving Clean documents...
+2025-01-08 22:06:48,898 - INFO - ############# Target Question: 237 #############
+2025-01-08 22:06:48,898 - INFO - Question: Remove rows from a dataframe based on values of multiple columns, and then create n random joint plots of two columns against each other if the DataFrame is not empty.
+
+2025-01-08 22:06:48,899 - INFO - => Retrieving Clean documents...
+2025-01-08 22:07:13,398 - INFO - ############# Target Question: 238 #############
+2025-01-08 22:07:13,398 - INFO - Question: Generates a performance report DataFrame for teams, detailing goals and penalties. For each team, the function fetches goal and penalty counts, calculates 'Penalties Cost' using a random multiplier from a predefined list, and computes a 'Performance Score' as the non-negative difference between goals and penalties. Return a Dataframe with colomns 'Team', 'Goals', 'Penalties', 'Penalties Cost' and 'Performance Score'.
+
+2025-01-08 22:07:13,398 - INFO - => Retrieving Clean documents...
+2025-01-08 22:07:38,261 - INFO - ############# Target Question: 239 #############
+2025-01-08 22:07:38,261 - INFO - Question: Calculates net scores for teams ('Team A' to 'Team E') by subtracting penalties from goals and clips scores to stay within -10 to 10. Visualizes results with a bar chart showing each team's adjusted scores 'Team' on the x-axis and score values 'Score' on the y-axis.
+
+2025-01-08 22:07:38,262 - INFO - => Retrieving Clean documents...
+2025-01-08 22:08:02,678 - INFO - ############# Target Question: 240 #############
+2025-01-08 22:08:02,679 - INFO - Question: Visualize the distribution of goals and penalties for a number of teams and return the data as a DataFrame with colomns 'Team', 'Goals' and 'Penalties'.
+
+2025-01-08 22:08:02,679 - INFO - => Retrieving Clean documents...
+2025-01-08 22:08:29,674 - INFO - ############# Target Question: 241 #############
+2025-01-08 22:08:29,675 - INFO - Question: Generate a Pandas DataFrame with colomns 'Team' and 'Match Result' of the results of football matches for multiple teams, incorporating random goals and penalties. Penalties are converted into fines using a predefined cost.
+
+2025-01-08 22:08:29,675 - INFO - => Retrieving Clean documents...
+2025-01-08 22:08:54,634 - INFO - ############# Target Question: 242 #############
+2025-01-08 22:08:54,635 - INFO - Question: Generate a Dataframe to show the football match results of teams 'Team' with random goals 'Goals' and penalties 'Penalty Cost', and create a bar plot of the results. Penalties are converted into fines according to the penalty costs.
+
+2025-01-08 22:08:54,635 - INFO - => Retrieving Clean documents...
+2025-01-08 22:09:18,979 - INFO - ############# Target Question: 243 #############
+2025-01-08 22:09:18,979 - INFO - Question: Generate and analyze a Pandas DataFrame of football match results for multiple teams, incorporating random goals and penalties, then visualize the analyzed data with colomns 'Team', 'Goals', and 'Penalty Cost'. Penalties are converted into fines based on a predetermined penalty cost.
+
+2025-01-08 22:09:18,979 - INFO - => Retrieving Clean documents...
+2025-01-08 22:09:42,710 - INFO - ############# Target Question: 244 #############
+2025-01-08 22:09:42,711 - INFO - Question: Generate and visualize a Pandas DataFrame of the results of football matches for multiple teams 'Team' with random goals 'Goals' and penalties 'Penalty Cost'. Penalties are converted into fines according to penalty costs.
+
+2025-01-08 22:09:42,711 - INFO - => Retrieving Clean documents...
+2025-01-08 22:10:07,002 - INFO - ############# Target Question: 245 #############
+2025-01-08 22:10:07,002 - INFO - Question: Simulates football match results with random goals and penalties for multiple teams, and trains a linear regression model to predict penalty costs from goals.
+
+2025-01-08 22:10:07,002 - INFO - => Retrieving Clean documents...
+2025-01-08 22:10:33,156 - INFO - ############# Target Question: 246 #############
+2025-01-08 22:10:33,156 - INFO - Question: Generates a DataFrame filled with random integers. The dimensions of the DataFrame (number of rows and columns) are determined by multiplying pairs of integers from nested lists within the input list of lists 'L'.
+
+2025-01-08 22:10:33,156 - INFO - => Retrieving Clean documents...
+2025-01-08 22:10:57,812 - INFO - ############# Target Question: 247 #############
+2025-01-08 22:10:57,812 - INFO - Question: Generate a DataFrame with population data for a list of cities. The population is generated randomly and rounded up to the next thousand.
+
+2025-01-08 22:10:57,812 - INFO - => Retrieving Clean documents...
+2025-01-08 22:11:21,824 - INFO - ############# Target Question: 248 #############
+2025-01-08 22:11:21,824 - INFO - Question: This function takes in a list of product names and generates random sales data for each product over a period of 12 months. It then calculates the average sales for each product and returns the results as a pandas DataFrame with columns: 'Product', 'Month 1', 'Month 2', ..., 'Month 12', 'Average Sales'..
+
+2025-01-08 22:11:21,824 - INFO - => Retrieving Clean documents...
+2025-01-08 22:11:46,484 - INFO - ############# Target Question: 249 #############
+2025-01-08 22:11:46,484 - INFO - Question: Save a Pandas DataFrame to a JSON file in a specified directory.
+
+2025-01-08 22:11:46,484 - INFO - => Retrieving Clean documents...
+2025-01-08 22:12:11,774 - INFO - ############# Target Question: 250 #############
+2025-01-08 22:12:11,774 - INFO - Question: Write a Pandas DataFrame into a JSON Lines file and save it in a specified directory.
+
+2025-01-08 22:12:11,774 - INFO - => Retrieving Clean documents...
+2025-01-08 22:12:35,684 - INFO - ############# Target Question: 251 #############
+2025-01-08 22:12:35,684 - INFO - Question: Analyzes a text string, removing duplicate consecutive words and stopwords defined by nltk.corpus, generates a square co-occurrence matrix of words, and plots this matrix.
+
+2025-01-08 22:12:35,684 - INFO - => Retrieving Clean documents...
+2025-01-08 22:13:00,203 - INFO - ############# Target Question: 252 #############
+2025-01-08 22:13:00,203 - INFO - Question: Create a Pandas DataFrame with random integer values between 0 and 9 for a given number of rows. Count the non-zero values in each column and visualize this information using a bar plot.
+
+2025-01-08 22:13:00,203 - INFO - => Retrieving Clean documents...
+2025-01-08 22:13:23,938 - INFO - ############# Target Question: 253 #############
+2025-01-08 22:13:23,939 - INFO - Question: Generate a Pandas DataFrame that displays the grades of a randomly selected group of students in multiple courses. Calculate the average grade in each course, the number of students with a passing grade (>= 60), and visualize this information using a bar plot with title 'Course-wise Average and Passing Grade Counts'.
+
+2025-01-08 22:13:23,939 - INFO - => Retrieving Clean documents...
+2025-01-08 22:13:50,705 - INFO - ############# Target Question: 254 #############
+2025-01-08 22:13:50,706 - INFO - Question: Create a Pandas DataFrame that displays the random scores of different teams in multiple games. The function generates random scores for each game played by each team and populates them in a DataFrame with index=teams, columns=games.
+
+2025-01-08 22:13:50,706 - INFO - => Retrieving Clean documents...
+2025-01-08 22:14:17,717 - INFO - ############# Target Question: 255 #############
+2025-01-08 22:14:17,717 - INFO - Question: Generate a Pandas DataFrame with random values, representing a dataset with multiple features. Calculate the correlation between the features and visualize this information using a heatmap.
+
+2025-01-08 22:14:17,717 - INFO - => Retrieving Clean documents...
+2025-01-08 22:14:42,278 - INFO - ############# Target Question: 256 #############
+2025-01-08 22:14:42,279 - INFO - Question: Generate a DataFrame representing monthly sales of products and visualize the total sales. The function creates a DataFrame where each row represents a month, each column represents a product, and cell values represent sales figures. It then plots the total sales per product across all months using both a line plot and a heatmap for visualization. The function also displays: - A line plot showing the total sales per product. - A heatmap visualizing sales figures across products and months.
+
+2025-01-08 22:14:42,279 - INFO - => Retrieving Clean documents...
+2025-01-08 22:15:08,074 - INFO - ############# Target Question: 257 #############
+2025-01-08 22:15:08,074 - INFO - Question: Searches for files in the specified directory that match a given regex pattern. This function walks through the directory, matches filenames against the pattern, and saves the matched file paths to a CSV file. It returns a DataFrame of these paths with colomn 'File Path'.
+
+2025-01-08 22:15:08,074 - INFO - => Retrieving Clean documents...
+2025-01-08 22:15:34,813 - INFO - ############# Target Question: 258 #############
+2025-01-08 22:15:34,814 - INFO - Question: Extract numeric data from a Pandas DataFrame based on a specific pattern. The function searches each cell for occurrences of the regex pattern '>number<number>' (e.g., '>1.23<') and replaces the cell content with the extracted numeric value. If no match is found, the cell is replaced with NaN.
+
+2025-01-08 22:15:34,814 - INFO - => Retrieving Clean documents...
+2025-01-08 22:16:01,864 - INFO - ############# Target Question: 259 #############
+2025-01-08 22:16:01,864 - INFO - Question: Read a CSV file into a Pandas DataFrame and then delete the entire contents of the original file.
+
+2025-01-08 22:16:01,864 - INFO - => Retrieving Clean documents...
+2025-01-08 22:16:27,439 - INFO - ############# Target Question: 260 #############
+2025-01-08 22:16:27,439 - INFO - Question: Read a CSV file, convert a column of date strings into datetime objects, and draw a histogram of the year distribution of these dates.
+
+2025-01-08 22:16:27,439 - INFO - => Retrieving Clean documents...
+2025-01-08 22:16:51,959 - INFO - ############# Target Question: 261 #############
+2025-01-08 22:16:51,959 - INFO - Question: Analyze the weekday distribution in a list of date strings. Implemented by dateutil.parser. This function takes a list of date strings in "yyyy-mm-dd" format, calculates the weekday for each date, and returns a distribution of the weekdays.
+
+2025-01-08 22:16:51,959 - INFO - => Retrieving Clean documents...
+2025-01-08 22:17:16,725 - INFO - ############# Target Question: 262 #############
+2025-01-08 22:17:16,725 - INFO - Question: Convert the input dic of list to DataFrame and searcher in this DataFrame for rows with cells equal to the provided target_value. It then plots the count of such rows per column.
+
+2025-01-08 22:17:16,725 - INFO - => Retrieving Clean documents...
+2025-01-08 22:17:40,580 - INFO - ############# Target Question: 263 #############
+2025-01-08 22:17:40,580 - INFO - Question: Creates a document-term matrix (DTM) from a list of text documents using CountVectorizer from Scikit-learn. Texts are preprocessed by removing non-alphanumeric characters (excluding spaces), converting to lowercase, and excluding English stop words defined in NLTK.
+
+2025-01-08 22:17:40,580 - INFO - => Retrieving Clean documents...
+2025-01-08 22:18:06,488 - INFO - ############# Target Question: 264 #############
+2025-01-08 22:18:06,488 - INFO - Question: Create a heatmap using the seaborn library for "x" as x-values and "y" as y-values with labels.
+
+2025-01-08 22:18:06,488 - INFO - => Retrieving Clean documents...
+2025-01-08 22:18:30,686 - INFO - ############# Target Question: 265 #############
+2025-01-08 22:18:30,687 - INFO - Question: Read a CSV file of pandas, reverse the order of the lines and write the inverted lines back into the file. Then move the cursor back to the beginning of the file. The header should not be inverted and the file may be empty.
+
+2025-01-08 22:18:30,687 - INFO - => Retrieving Clean documents...
+2025-01-08 22:18:57,722 - INFO - ############# Target Question: 266 #############
+2025-01-08 22:18:57,723 - INFO - Question: Generate a DataFrame that contains savegames for a number of games between different teams. Each row of the input DataFrame represents a match, and contains two teams and their respective scores. The function adds a 'winner' column to the DataFrame, which is the team with the highest score in each match. If the scores are equal, the winner is should be randomly decided.
+
+2025-01-08 22:18:57,723 - INFO - => Retrieving Clean documents...
+2025-01-08 22:19:23,231 - INFO - ############# Target Question: 267 #############
+2025-01-08 22:19:23,232 - INFO - Question: Analyze the relationship between two variables in a DataFrame. The function performs a linear regression on the two variables and adds a 'predicted' column to the DataFrame.
+
+2025-01-08 22:19:23,232 - INFO - => Retrieving Clean documents...
+2025-01-08 22:19:49,662 - INFO - ############# Target Question: 268 #############
+2025-01-08 22:19:49,663 - INFO - Question: Processes JSON files in a directory. The function reads each JSON file alphabetically into a DataFrame and inserts a "Source" column that specifies the filename. The processed files are then moved to a "processed" subdirectory. The path may not exist initially.
+
+2025-01-08 22:19:49,663 - INFO - => Retrieving Clean documents...
+2025-01-08 22:20:13,986 - INFO - ############# Target Question: 269 #############
+2025-01-08 22:20:13,986 - INFO - Question: Calculate the frequency of combinations of elements in a DataFrame. The function adds a 'combination' column to the DataFrame, which is the combination of items in each row. It then calculates the frequency of each combination.
+
+2025-01-08 22:20:13,986 - INFO - => Retrieving Clean documents...
+2025-01-08 22:20:38,391 - INFO - ############# Target Question: 270 #############
+2025-01-08 22:20:38,392 - INFO - Question: Standardize the functions in a DataFrame. The function applies standard scaling to the features.
+
+2025-01-08 22:20:38,392 - INFO - => Retrieving Clean documents...
+2025-01-08 22:21:02,591 - INFO - ############# Target Question: 271 #############
+2025-01-08 22:21:02,591 - INFO - Question: Load a JSON file into a Pandas DataFrame, remove a specific key from each object and write the processed DataFrame back into a JSON file oriented by records.
+
+2025-01-08 22:21:02,592 - INFO - => Retrieving Clean documents...
+2025-01-08 22:21:27,017 - INFO - ############# Target Question: 272 #############
+2025-01-08 22:21:27,017 - INFO - Question: Process a Pandas DataFrame by removing a specific column and adding a 'IsEvenIndex' column. The 'IsEvenIndex' column is a boolean flag indicating if the index of each row is even.
+
+2025-01-08 22:21:27,017 - INFO - => Retrieving Clean documents...
+2025-01-08 22:21:53,221 - INFO - ############# Target Question: 273 #############
+2025-01-08 22:21:53,221 - INFO - Question: Given a Pandas DataFrame with random numeric values, standardize it with the standard scaler from sklearn.
+
+2025-01-08 22:21:53,222 - INFO - => Retrieving Clean documents...
+2025-01-08 22:22:16,961 - INFO - ############# Target Question: 274 #############
+2025-01-08 22:22:16,961 - INFO - Question: Given a Pandas DataFrame with random numeric values and columns X & Y, use sklearn's linear regression to match the data to a linear model.
+
+2025-01-08 22:22:16,962 - INFO - => Retrieving Clean documents...
+2025-01-08 22:22:41,253 - INFO - ############# Target Question: 275 #############
+2025-01-08 22:22:41,254 - INFO - Question: Given a pandas DataFrame with random numeric values, run KMeans clusters on the data and return the labels.
+
+2025-01-08 22:22:41,254 - INFO - => Retrieving Clean documents...
+2025-01-08 22:23:06,038 - INFO - ############# Target Question: 276 #############
+2025-01-08 22:23:06,038 - INFO - Question: Given a list of tuples turn them into a Pandas DataFrame with math.sin applied to each number.
+
+2025-01-08 22:23:06,038 - INFO - => Retrieving Clean documents...
+2025-01-08 22:23:30,839 - INFO - ############# Target Question: 277 #############
+2025-01-08 22:23:30,839 - INFO - Question: Convert a list of tuples into a Pandas DataFrame, perform a default scaling in each column, and return the transformed DataFrame.
+
+2025-01-08 22:23:30,839 - INFO - => Retrieving Clean documents...
+2025-01-08 22:23:56,860 - INFO - ############# Target Question: 278 #############
+2025-01-08 22:23:56,860 - INFO - Question: Divide the given DataFrame into a training set and a test set (70%: 30% split), separate the "target" column and return the four resulting DataFrames.
+
+2025-01-08 22:23:56,860 - INFO - => Retrieving Clean documents...
+2025-01-08 22:24:20,717 - INFO - ############# Target Question: 279 #############
+2025-01-08 22:24:20,718 - INFO - Question: Perform K-Means clustering on the given data by first turning it into a DataFrame with two columns "x" and "y" and then return the labels and centroids.
+
+2025-01-08 22:24:20,718 - INFO - => Retrieving Clean documents...
+2025-01-08 22:24:45,069 - INFO - ############# Target Question: 280 #############
+2025-01-08 22:24:45,069 - INFO - Question: Turn the provided data into a DataFrame and then calculate the correlation matrix of numeric columns.
+
+2025-01-08 22:24:45,069 - INFO - => Retrieving Clean documents...
+2025-01-08 22:25:09,470 - INFO - ############# Target Question: 281 #############
+2025-01-08 22:25:09,471 - INFO - Question: Perform a linear regression analysis on a given DataFrame.
+
+2025-01-08 22:25:09,471 - INFO - => Retrieving Clean documents...
+2025-01-08 22:25:34,397 - INFO - ############# Target Question: 282 #############
+2025-01-08 22:25:34,398 - INFO - Question: Perform Principal Component Analysis (PCA) on the DataFrame and record the first two main components.
+
+2025-01-08 22:25:34,398 - INFO - => Retrieving Clean documents...
+2025-01-08 22:25:58,223 - INFO - ############# Target Question: 283 #############
+2025-01-08 22:25:58,223 - INFO - Question: Perform DBSCAN clustering on the data by transforming it into a DataFrame and recording the clusters in a new column named 'Cluster'. Please choose the parameters eps=3 and min_samples=2.
+
+2025-01-08 22:25:58,223 - INFO - => Retrieving Clean documents...
+2025-01-08 22:26:23,469 - INFO - ############# Target Question: 284 #############
+2025-01-08 22:26:23,470 - INFO - Question: Find all combinations of columns from a given DataFrame so that the absolute correlation between them is greater than a certain threshold.
+
+2025-01-08 22:26:23,470 - INFO - => Retrieving Clean documents...
+2025-01-08 22:26:47,492 - INFO - ############# Target Question: 285 #############
+2025-01-08 22:26:47,493 - INFO - Question: Perform a logistic regression on a DataFrame to predict a specific target column.
+
+2025-01-08 22:26:47,493 - INFO - => Retrieving Clean documents...
+2025-01-08 22:27:12,523 - INFO - ############# Target Question: 286 #############
+2025-01-08 22:27:12,523 - INFO - Question: Normalizes a dataset from a .csv file.
+
+2025-01-08 22:27:12,523 - INFO - => Retrieving Clean documents...
+2025-01-08 22:27:37,005 - INFO - ############# Target Question: 287 #############
+2025-01-08 22:27:37,006 - INFO - Question: Create a Pandas DataFrame from a list of pairs and normalize the data using MinMaxScaler.
+
+2025-01-08 22:27:37,006 - INFO - => Retrieving Clean documents...
+2025-01-08 22:28:01,127 - INFO - ############# Target Question: 288 #############
+2025-01-08 22:28:01,128 - INFO - Question: Finds all words in a text, that are seperated by whitespace, beginning with the "$" character and computes their number of occurences. >>> text = "$hello this i$s a $test $test $test" >>> task_func(text) Word  Frequency 0  $hello          1 1   $test          3
+
+2025-01-08 22:28:01,128 - INFO - => Retrieving Clean documents...
+2025-01-08 22:28:27,077 - INFO - ############# Target Question: 289 #############
+2025-01-08 22:28:27,077 - INFO - Question: Replace all elements in DataFrame columns that are not present in the target_values array with zeros, and then perform a linear regression using the target column. >>> rng = np.random.default_rng(seed=0) >>> df = pd.DataFrame(rng.integers(0, 100, size=(1000, 5)), columns=['A', 'B', 'C', 'D', 'predict']) >>> model = task_func(df, 'predict') >>> print(model.coef_) [-0.00173703 -0.02190392 -0.03304266  0.00759771] >>> print(model.intercept_) 53.362739257681035
+
+2025-01-08 22:28:27,077 - INFO - => Retrieving Clean documents...
+2025-01-08 22:28:50,463 - INFO - ############# Target Question: 290 #############
+2025-01-08 22:28:50,464 - INFO - Question: Filters and standardizes a given DataFrame based on specified age and weight criteria. This function first filters the rows in the input DataFrame where 'Age' is less than the specified 'age' and 'Weight' is greater than the specified 'weight'. It then standardizes the numerical values in the filtered DataFrame using the StandardScaler from sklearn. >>> data = pd.DataFrame({ ...     "Age": [32, 51, 11, 5, 88, 434], ...     "Weight": [62, 76, 72, 859, 69, 102], ...     "shoe_size": [12, 6, 7, 8, 9, 6] ... }) >>> print(task_func(data, 70, 63)) Age    Weight  shoe_size 0  1.40400 -0.701695  -1.224745 1 -0.55507 -0.712504   0.000000 2 -0.84893  1.414200   1.224745 >>> input = pd.DataFrame({ ...     "Age": [32, 51, 12, 1, 55, 11, 23, 5], ...     "Weight": [62, 63, 12, 24, 11, 111, 200, 70], ...     "banana_consumption": [1, 1, 7, 2, 100, 6, 26, 1] ... }) >>> print(task_func(input, 32, 22)) Age    Weight  banana_consumption 0 -1.083473 -1.192322           -0.666109 1  0.120386  0.150487           -0.271378 2  1.565016  1.524165            1.702277 3 -0.601929 -0.482331           -0.764791
+
+2025-01-08 22:28:50,464 - INFO - => Retrieving Clean documents...
+2025-01-08 22:29:14,908 - INFO - ############# Target Question: 291 #############
+2025-01-08 22:29:14,909 - INFO - Question: Performs an OLS linear regression on a subset of the provided DataFrame. The subset is created by filtering rows where the value in the second column of 'columns' is greater than 'height' and the value in the third column is less than 'weight'. The first column in 'columns' is used as the dependent variable / target (y), and the rest as independent variables (X) in the regression. If df is empty, or if no rows match the conditions None is returned. >>> df = pd.DataFrame(np.random.randint(10,98,size=(100, 3)), columns=['Age', 'Height', 'Weight']) >>> model = task_func(df, 45, 72, columns=['Age', 'Height', 'Weight'])
+
+2025-01-08 22:29:14,909 - INFO - => Retrieving Clean documents...
+2025-01-08 22:29:40,714 - INFO - ############# Target Question: 292 #############
+2025-01-08 22:29:40,714 - INFO - Question: Train a linear regression model and return the model score of the test set. The provided DataFrame is used as training data, where target_column is used as target in training the model. Before training the provided data is split into a training and a test set using test_size and random_state parameters. >>> data = pd.DataFrame({ ...     'x1': rng.random(500), ... }) >>> data['y'] = data['x1'] * 2 + 1 >>> result = task_func(data, 'y', random_state=9, test_size=0.1) >>> result 1.0
+
+2025-01-08 22:29:40,714 - INFO - => Retrieving Clean documents...
+2025-01-08 22:30:05,560 - INFO - ############# Target Question: 293 #############
+2025-01-08 22:30:05,561 - INFO - Question: Calculate the mean, median, min, max, and standard deviation of the "from_user" values in "result" and add the current date and time in the format YYYY-mm-dd HHL:MM:SS to the summary. The global constant DATE_FORMAT is used to transform the currnet date and time into this format. Data Structures: - Uses numpy arrays for efficient statistical computations.
+
+2025-01-08 22:30:05,561 - INFO - => Retrieving Clean documents...
+2025-01-08 22:30:30,694 - INFO - ############# Target Question: 294 #############
+2025-01-08 22:30:30,695 - INFO - Question: Generate a demographic dataset with information about people from different countries, their age, and gender. Genders are encoded using sklearn LabelEncoder. Datapoints are sampled from the lists using a numpy.random.default_rng with seed: rng_seed. >>> demographics = task_func(5, countries=['Austria', 'Germany'], rng_seed=3) >>> print(demographics) Country  Age  Gender 0  Germany   51       1 1  Austria   54       1 2  Austria   42       0 3  Austria   19       1 4  Austria   21       1
+
+2025-01-08 22:30:30,695 - INFO - => Retrieving Clean documents...
+2025-01-08 22:30:54,679 - INFO - ############# Target Question: 295 #############
+2025-01-08 22:30:54,680 - INFO - Question: Creates a random DataFrame with 100 records. Each record consists of an ID (ranging from 1 to 100), Name (randomly selected from provided lists of Latin and other names), Date of Birth (randomly generated dates between the specified years), and Email (constructed using the name, year of birth, and provided email domain). Improperly encoded Latin characters in names are corrected during the process. >>> df = task_func(start_year=0, end_year=1200, email_domain='test.at', rng_seed=3) >>> print(df) ID      Name        Date of Birth                Email 0     1   Sopetón  0952-09-01 00:00:00   sopetón952@test.at 1     2     Brown  0875-10-10 00:00:00     brown875@test.at 2     3   Sopetón  0605-08-15 00:00:00   sopetón605@test.at 3     4     Gómez  0337-11-23 00:00:00     gómez337@test.at 4     5     Gómez  0641-04-27 00:00:00     gómez641@test.at ..  ...       ...                  ...                  ... 95   96     Brown  0044-05-17 00:00:00      brown44@test.at 96   97  Williams  0530-01-21 00:00:00  williams530@test.at 97   98   Johnson  1005-12-15 00:00:00  johnson1005@test.at 98   99    Méndez  1134-07-19 00:00:00   méndez1134@test.at 99  100   Johnson  0696-08-22 00:00:00   johnson696@test.at <BLANKLINE> [100 rows x 4 columns]
+
+2025-01-08 22:30:54,680 - INFO - => Retrieving Clean documents...
+2025-01-08 22:31:19,991 - INFO - ############# Target Question: 296 #############
+2025-01-08 22:31:19,991 - INFO - Question: Sorts a CSV file by a specific column key using pandas, and optionally writes the sorted data to another CSV file. Can also fit a linear regression model to specified columns if required.
+
+2025-01-08 22:31:19,991 - INFO - => Retrieving Clean documents...
+2025-01-08 22:31:45,606 - INFO - ############# Target Question: 297 #############
+2025-01-08 22:31:45,606 - INFO - Question: Analyze the publication times of a list of articles: 1) Convert 'published_time' to a specified timezone 2) Group articles by 'category' 3) For each category, calculate the count, mean, min, max publication times only considering the hour.
+
+2025-01-08 22:31:45,606 - INFO - => Retrieving Clean documents...
+2025-01-08 22:32:10,065 - INFO - ############# Target Question: 298 #############
+2025-01-08 22:32:10,066 - INFO - Question: Generate 'n' random articles with titles, URLs, IDs, categories, and views, and return them as a DataFrame. Views are generated by sampling from a poisson distribution with lambda=1000. >>> df = task_func(3, categories=['A', 'B'], domain='test.de', random_seed=12) >>> print(df) title          title_url  id category  views 0  Article 0  test.de/Article_0   0        B    963 1  Article 1  test.de/Article_1   1        B    977 2  Article 2  test.de/Article_2   2        B   1048
+
+2025-01-08 22:32:10,066 - INFO - => Retrieving Clean documents...
+2025-01-08 22:32:36,573 - INFO - ############# Target Question: 299 #############
+2025-01-08 22:32:36,573 - INFO - Question: Generate a DataFrame with random survey data based on given categories, news sites, and Likert scale responses. The function writes the generated data to a CSV file and then reads it into a Pandas DataFrame. >>> df = task_func(8, ['test', 'fun'], likert_scale=['true', 'false'], news_sites=['cat', 'dog'], random_seed=12) >>> print(df) Site Category  Response  Value 0  dog      fun     False      2 1  cat      fun      True      1 2  dog      fun     False      2 3  dog     test      True      1 4  cat      fun     False      2 5  cat      fun      True      1 6  cat     test      True      1 7  dog      fun      True      1
+
+2025-01-08 22:32:36,574 - INFO - => Retrieving Clean documents...
+2025-01-08 22:33:04,049 - INFO - ############# Target Question: 300 #############
+2025-01-08 22:33:04,050 - INFO - Question: Generate random sales data and return it as a pandas DataFrame. The sales data has the columns 'Country', 'Product' and 'Sales'. Country and Product get sampled from the provided lists / the default values. Sales is populated by generating random integers between 1 and 100. If an output_path is provided, the generated data is saved to a csv file. >>> df = task_func(7, products=['tea', 'coffee'], countries=['Austria', 'Australia'], random_seed=12) >>> print(df) Country Product  Sales 0  Australia  coffee     85 1  Australia     tea     49 2    Austria  coffee     62 3  Australia  coffee     89 4    Austria     tea     85 5    Austria  coffee     48 6    Austria  coffee     27
+
+2025-01-08 22:33:04,050 - INFO - => Retrieving Clean documents...
+2025-01-08 22:33:28,646 - INFO - ############# Target Question: 301 #############
+2025-01-08 22:33:28,647 - INFO - Question: Count the total number of brackets (i.e., '(', ')', '{', '}', '[', ']') in a pandas DataFrame. >>> df = pd.DataFrame({'Test': ['(a)', 'b', '[[[[))c']}) >>> task_func(df) 8
+
+2025-01-08 22:33:28,647 - INFO - => Retrieving Clean documents...
+2025-01-08 22:33:53,239 - INFO - ############# Target Question: 302 #############
+2025-01-08 22:33:53,239 - INFO - Question: Generate a specified number of Pandas DataFrames from a list of lists "L". Each DataFrame has the same column names randomly chosen from lowercase English letters and 3 rows sampled from 'L'. Then, find the common rows between all generated DataFrames. If L is empty, an empty dataframe is returend. >>> L = [[1, '65', 76], [2, '5', 6]] >>> common_rows, df_list = task_func(L, num_dataframes=1, random_seed=1) >>> print(common_rows) d   w   t 0  1  65  76 >>> print(df_list) [   d   w   t 0  1  65  76 1  1  65  76 2  1  65  76]
+
+2025-01-08 22:33:53,239 - INFO - => Retrieving Clean documents...
+2025-01-08 22:34:17,935 - INFO - ############# Target Question: 303 #############
+2025-01-08 22:34:17,935 - INFO - Question: Normalize data in a csv file using MinMaxScaler from sklearn. Only numeric columns are normalized. Columns with other dtypes are left as they are.
+
+2025-01-08 22:34:17,935 - INFO - => Retrieving Clean documents...
+2025-01-08 22:34:43,862 - INFO - ############# Target Question: 304 #############
+2025-01-08 22:34:43,862 - INFO - Question: Converts a dictionary to a pandas DataFrame and find the locations of a particular item in the resulting DataFrame. Counts the number of occurences and adds a random integer x, where 0 <=x < 10, to it. >>> dict = {'A': ['a', 'b', 'e'], 'B': ['c', 'd', 'd'], '2': ['asdf', 'ddd', 'aaaa'], '12': ['e', 'e', 'd']} >>> task_func(dict, 'e', seed=2) ([(2, 'A'), (0, '12'), (1, '12')], 3,    A  B     2 12 0  a  c  asdf  e 1  b  d   ddd  e 2  e  d  aaaa  d)
+
+2025-01-08 22:34:43,862 - INFO - => Retrieving Clean documents...
+2025-01-08 22:35:09,693 - INFO - ############# Target Question: 305 #############
+2025-01-08 22:35:09,693 - INFO - Question: Converts a dictionary to a pandas DataFrame and Find the positions of a particular item in a the resulting DataFrame and record its frequency distribution. Optionally, return a random sample of these positions, with an option to set a random seed for reproducibility. >>> dictionary =  { ...         1: ['road', 'car', 'traffic'], ...         2: ['car', 'light', 'candle'] ...     } >>> positions = task_func(dictionary, 'car') >>> print(positions) ([(0, 2), (1, 1)],          1       2 0     road     car 1      car   light 2  traffic  candle)
+
+2025-01-08 22:35:09,694 - INFO - => Retrieving Clean documents...
+2025-01-08 22:35:33,497 - INFO - ############# Target Question: 306 #############
+2025-01-08 22:35:33,498 - INFO - Question: Find all unique combinations of 3 numbers from a list that add up to a certain element. If the number_list is empty, or there is no combination that adds up to the element, an empty dataframe is returned. >>> result = task_func([-1, 1, 0, -2, 2, 3], 0) >>> print(result) Combinations 0  (-1, -2, 3) 1   (-1, 1, 0) 2   (0, -2, 2) >>> result = task_func([], 0) >>> print(result) Empty DataFrame Columns: [Combinations] Index: []
+
+2025-01-08 22:35:33,498 - INFO - => Retrieving Clean documents...
+2025-01-08 22:35:59,829 - INFO - ############# Target Question: 307 #############
+2025-01-08 22:35:59,829 - INFO - Question: Convert a dictionary of test results into a pandas DataFrame and Calculate the average test score and the standard deviation for a particular student from this DataFrame. >>> scores = {'Student': [1, 2, 1, 1], 'Score': [10, 1, 1, 1]} >>> task_func(scores, 1) (array([4.        , 5.19615242]),    Student  Score 0        1     10 1        2      1 2        1      1 3        1      1)
+
+2025-01-08 22:35:59,829 - INFO - => Retrieving Clean documents...
+2025-01-08 22:36:25,092 - INFO - ############# Target Question: 308 #############
+2025-01-08 22:36:25,092 - INFO - Question: Convert a Pandas DataFrame into a dictionary of generator objects in which each generator generates a sequence of tuples that contain a unique name and the corresponding average score for that name. >>> df_sample = pd.DataFrame({ ...     'Name': ['Micky', 'Donald', 'Girl'], ...     'Score': [25.2, 9, -1] ... }) >>> gen_dict = task_func(df_sample) >>> {key: next(value) for key, value in gen_dict.items()} {'Donald': ('Donald', 9.0), 'Girl': ('Girl', -1.0), 'Micky': ('Micky', 25.2)}
+
+2025-01-08 22:36:25,092 - INFO - => Retrieving Clean documents...
+2025-01-08 22:36:50,308 - INFO - ############# Target Question: 309 #############
+2025-01-08 22:36:50,310 - INFO - Question: Generate a DataFrame with columns 'columns' and fill them with random integer values between 0 and 100. Remove some columns based on the provided indexes. >>> df = task_func(3, [1, 3], columns=['test', 'rem1', 'apple', 'remove'], random_seed=12) >>> print(df) test  apple 0    75      6 1     3     76 2    22     52
+
+2025-01-08 22:36:50,310 - INFO - => Retrieving Clean documents...
+2025-01-08 22:37:15,010 - INFO - ############# Target Question: 310 #############
+2025-01-08 22:37:15,011 - INFO - Question: Generate a DataFrame with columns 'columns' and fill them with random values. Scale the columns at the provided indexes with sklearn StandardScaler. If scale_cols is empty no column is scaled >>> df = task_func(5, [1, 2, 3], random_seed=12) >>> print(df) A         B         C         D   E 0  75 -0.840307 -0.791926 -1.462784   3 1  67  0.673481  1.517859 -0.855820  49 2  52 -1.519967 -0.406962  1.177511  34 3  75  0.611694 -1.121896  0.782984  13 4  82  1.075099  0.802925  0.358109  35
+
+2025-01-08 22:37:15,011 - INFO - => Retrieving Clean documents...
+2025-01-08 22:37:39,762 - INFO - ############# Target Question: 311 #############
+2025-01-08 22:37:39,762 - INFO - Question: Creates a CSV file on a given file path with random numeric data. The number of rows in the CSV file is determined by the 'num_rows' parameter, and the number of columns (features) is determined by the 'data_dimensions' parameter. Columns are named following the convention: 'Feature_x', where x is the number of the feature column starting at 1.
+
+2025-01-08 22:37:39,763 - INFO - => Retrieving Clean documents...
+2025-01-08 22:38:05,162 - INFO - ############# Target Question: 312 #############
+2025-01-08 22:38:05,162 - INFO - Question: Count the frequency of each value of the given attribute from a list of objects. This function returns a pandas Dataframe containing frequency count of the specified attribute from the objects in the list. The DataFrame consist of two columns ('attribute' and 'count'), which contain the attribute and its specific count respectively. If no attributes are found, an empty DataFrame is returned. >>> class ExampleObject: ...     def __init__(self, animal, shape): ...         self.animal = animal ...         self.shape = shape ... >>> obj_list = [ExampleObject('tiger', 'Square'), ExampleObject('leopard', 'Circle'), ExampleObject('cat', 'Rectangle'), ExampleObject('elephant', 'Rectangle')] >>> count = task_func(obj_list, 'shape') >>> print(count) attribute  count 0     Square      1 1     Circle      1 2  Rectangle      2
+
+2025-01-08 22:38:05,162 - INFO - => Retrieving Clean documents...
+2025-01-08 22:38:31,181 - INFO - ############# Target Question: 313 #############
+2025-01-08 22:38:31,181 - INFO - Question: Create a grade report for a list of students across various subjects. Each student's grades are randomly generated, and the report includes the average grade for each student. The randomness is seeded for reproducibility if a seed is provided.
+
+2025-01-08 22:38:31,182 - INFO - => Retrieving Clean documents...
+2025-01-08 22:38:59,429 - INFO - ############# Target Question: 314 #############
+2025-01-08 22:38:59,429 - INFO - Question: Calculate and return the total and average counts for each type of fruit. This function takes a list of tuples, each containing a fruit name and its count, then calculates the total count and the average count for each type of fruit. The results are returned as a pandas DataFrame with each row representing a different fruit. If fruit_data is an empty list, an empty dataFrame is returned. >>> fruit = [('apple', 1), ('orange', 25), ('apple', 111)] >>> df = task_func(fruit) >>> df.sort_index(inplace=True) >>> print(df) Total Count  Average Count apple           112           56.0 orange           25           25.0
+
+2025-01-08 22:38:59,429 - INFO - => Retrieving Clean documents...
+2025-01-08 22:39:24,234 - INFO - ############# Target Question: 315 #############
+2025-01-08 22:39:24,235 - INFO - Question: This function takes a list of tuples containing elements and their respective counts and weights. It normalizes the counts using z-score normalization and the weights using min-max scaling. Finally, it returns a pandas DataFrame with the items, normalized counts, and normalized weights.
+
+2025-01-08 22:39:24,235 - INFO - => Retrieving Clean documents...
+2025-01-08 22:39:48,318 - INFO - ############# Target Question: 316 #############
+2025-01-08 22:39:48,318 - INFO - Question: Generates a grade report for a specified number of grades. The function cycles through the given list of students, assigning each a random grade from a predefined range, and compiles this information into a pandas DataFrame. The random grades can be made reproducable by providing a seed in 'rng_seed'. >>> grade_report = task_func(5, rng_seed=12) >>> print(grade_report) Student  Grade 0    Alice      8 1      Bob      5 2  Charlie      9 3    David      6 4      Eve      3
+
+2025-01-08 22:39:48,319 - INFO - => Retrieving Clean documents...
+2025-01-08 22:40:12,963 - INFO - ############# Target Question: 317 #############
+2025-01-08 22:40:12,963 - INFO - Question: Calculate the mean of numerical values in each position across tuples in a list. Non-numeric values are ignored, and means are computed only from available data. That means that missing data in some of the tuples is simply ignored. A DataFrame with one columns named 'Mean Value' which contains the mean values for all tuple positions. The index is according to this scheme: 'Position i' where i is the current position. If an empty list is passed, then an empty DataFrame is returned. >>> data = [('a', '1', 2.1), ('b', 21, 'c'), (12, 3, 4.3), (['d'], 4, 5.4), ('e', 5, 6.5)] >>> df = task_func() >>> print(df) Mean Value Position 0         NaN Position 1         3.0 Position 2         4.3
+
+2025-01-08 22:40:12,964 - INFO - => Retrieving Clean documents...
+2025-01-08 22:40:38,354 - INFO - ############# Target Question: 318 #############
+2025-01-08 22:40:38,355 - INFO - Question: Create a Pandas DataFrame from a list of tuples, each representing a row. Tuples of unequal lengths are allowed, and missing elements are filled with None. Optionally, missing numeric values can be filled with random data. >>> data = [('Mango', 20), ('Apple', ), ('Banana', )] >>> df = task_func(data, columns=['Fruit', 'Quantity'], fill_missing=False, seed=42) >>> print(df) Fruit  Quantity 0   Mango      20.0 1   Apple       NaN 2  Banana       NaN
+
+2025-01-08 22:40:38,355 - INFO - => Retrieving Clean documents...
+2025-01-08 22:41:03,235 - INFO - ############# Target Question: 319 #############
+2025-01-08 22:41:03,235 - INFO - Question: Perform PCA (Principal Component Analysis) on the provided DataFrame. This function takes a pandas DataFrame, scales the data using sklearn StandardScaler, and then applies PCA to reduce the number of dimensions of the data to the number specified by n_components, maintaining as much information as possible. >>> data = pd.DataFrame({ ...         'A': [-43, 212, 1, -12, 5], ...         'B': [-1, 0, 0, 9.76, 12.34], ...         'C': [1, 42, -13.2, 31, 1.23], ... }) >>> res = task_func(data, n_components=1) >>> print(res) 0 0 -0.793152 1  2.511947 2 -0.940253 3  0.069179 4 -0.847722
+
+2025-01-08 22:41:03,236 - INFO - => Retrieving Clean documents...
+2025-01-08 22:41:28,438 - INFO - ############# Target Question: 320 #############
+2025-01-08 22:41:28,439 - INFO - Question: Trains a RandomForestRegressor model and returns the mean squared error (MSE) of the predictions and the model. First the data is converted into a pandas DataFrame and then split into a train and test set. The fractional size of the test set is determined by 'test_size'. Then a RandomForestRegressor is trained on the data, using the in 'target' specified column as target. The MSE on the test set is calculated.
+
+2025-01-08 22:41:28,439 - INFO - => Retrieving Clean documents...
+2025-01-08 22:41:53,245 - INFO - ############# Target Question: 321 #############
+2025-01-08 22:41:53,246 - INFO - Question: Perform a chi-square test of independence of variables in a contingency table. This function takes a DataFrame containing categorical data and two column names, then constructs a contingency table from the two categorical columns and performs a chi-square test of independence. It returns the p-value of the test, which indicates the probability of observing the data if the null hypothesis (independence of the variables) is true. >>> np.random.seed(42) >>> data = pd.DataFrame({ ...     'a': np.random.choice(['A', 'B'], size=100), ...     'b': np.random.choice(['X', 'Y'], size=100) ... }) >>> task_func(data, 'a', 'b') 1.0
+
+2025-01-08 22:41:53,246 - INFO - => Retrieving Clean documents...
+2025-01-08 22:42:18,150 - INFO - ############# Target Question: 322 #############
+2025-01-08 22:42:18,151 - INFO - Question: Perform K-Means clustering on the given DataFrame using the sklearn KMeans algorithm. The function expects a DataFrame with numerical values, as KMeans cannot handle categorical data. It applies standard KMeans clustering from the sklearn library to form clusters. The number of clusters is configurable via the 'n_clusters' parameter, defaulting to 3. The Number of times the k-means algorithm is run with different centroid seeds (n_init) is set to 10. The function returns an array of cluster labels corresponding to each data point in the input as well as the fitted KMeans model. >>> data = pd.DataFrame({ ...     'a': [1, 20, 2, 22, 100], ...     'b': [1, 20, 2, 22, 100] ... }) >>> labels, model = task_func(data, seed=213) >>> print(labels) [2 0 2 0 1] >>> print(model) KMeans(n_clusters=3, n_init=10, random_state=213)
+
+2025-01-08 22:42:18,151 - INFO - => Retrieving Clean documents...
+2025-01-08 22:42:42,729 - INFO - ############# Target Question: 323 #############
+2025-01-08 22:42:42,729 - INFO - Question: Search for matches with a specified regex pattern in a given column of a CSV file and optionally return a random sample of these matches. The random sampling is implemented by generating a random list of integers which are used as indices. The number of generated indices is given by sample_size.
+
+2025-01-08 22:42:42,729 - INFO - => Retrieving Clean documents...
+2025-01-08 22:43:06,654 - INFO - ############# Target Question: 324 #############
+2025-01-08 22:43:06,654 - INFO - Question: Find all matches with a regex pattern in a list of strings in an SQL database. The function loads an sql database and selects all entries from the specified table. Matches are returned in a DataFrame.
+
+2025-01-08 22:43:06,654 - INFO - => Retrieving Clean documents...
+2025-01-08 22:43:31,361 - INFO - ############# Target Question: 325 #############
+2025-01-08 22:43:31,362 - INFO - Question: Determines if a specific subset of data is stationary by filtering rows where column_b bigger than 50 and column_c equal to 900. Data is considered to be stationary if the p_value returned by the Augmented Dickey-Fuller test is smaller than 0.05. If column_a is empty after filtering or if its values are constant, True is returned.
+
+2025-01-08 22:43:31,362 - INFO - => Retrieving Clean documents...
+2025-01-08 22:43:57,193 - INFO - ############# Target Question: 326 #############
+2025-01-08 22:43:57,194 - INFO - Question: Filters a pandas DataFrame based on the values of specific rows, and performs a chi-square independence test on the first two columns. The function filters rows based on the following criteria: Keep only rows where: The value of the second column: df['second'] > larger and The value of the third column: df['third'] == equal After filtering a conigency table of the first two columns is computed, which is then used in the chi2 independence test. The p_value of the test is returned. >>> df = pd.DataFrame({ ...     'test': ['A', 'b', 'b', 'a', 'c', 'd'], ...     'hi': [45, 2, 2, 3, 4, 4], ...     'column3': [50, 50, 50, 50, 50, 50, ] ... }) >>> task_func(df, ['test', 'hi', 'column3'], larger=2, equal=50) 0.23810330555354436
+
+2025-01-08 22:43:57,194 - INFO - => Retrieving Clean documents...
+2025-01-08 22:44:23,132 - INFO - ############# Target Question: 327 #############
+2025-01-08 22:44:23,133 - INFO - Question: This function filters rows from the input DataFrame 'df' based on conditions in columns 'B' and 'C', then uses linear regression to predict values in column 'B' using data from column 'A'. Specifically, it selects rows where column 'B' values are greater than 50 and column 'C' values equal 900. A train test split of the remaining data is performed, where the test_size = 0.2 and col_a is used as X value and col_b is used as Y values / target. This data is used to train a LinearRegression model. The test split is used to generate predictions for col_b. These predictions are returned as well as the trained model. If df is empty or empty after the filtering, None is returned. If df does contain non numeric data None is returned. If the specified columns are not contained in df, None is returned. >>> df = pd.DataFrame({'A': [1, 2, 3, 4, 5], ...                    'B': [10, 80, 80, 80, 80], ...                    'C': [900, 900, 900, 900, 900]}) >>> predictions, model = task_func(df, seed=12) >>> print(predictions) [80.] >>> print(model) LinearRegression()
+
+2025-01-08 22:44:23,133 - INFO - => Retrieving Clean documents...
+2025-01-08 22:44:49,608 - INFO - ############# Target Question: 328 #############
+2025-01-08 22:44:49,609 - INFO - Question: Analyze a dictionary of student data to return a dataframe sorted by name and age in ascending order, the average score per student as a pandas Series, and the most common age as an integer.
+
+2025-01-08 22:44:49,609 - INFO - => Retrieving Clean documents...

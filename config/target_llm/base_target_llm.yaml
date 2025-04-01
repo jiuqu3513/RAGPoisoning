@@ -1,0 +1,20 @@
+llm_params:
+  # device: 'cuda:0'
+  device: 'auto'
+  freeze: true
+  dtype: float16
+  lora_params: null
+allow_non_ascii: true
+gen_params:
+  max_new_tokens: 512
+  do_sample: false
+  temperature: 0
+  top_p: 0.95        
+  top_k: 50
+  repetition_penalty: 1.1
+  no_repeat_ngram_size: 2
+  num_return_sequences: 1
+  use_cache: False
+  # top_k: 50
+  # top_p: 0.95
+  

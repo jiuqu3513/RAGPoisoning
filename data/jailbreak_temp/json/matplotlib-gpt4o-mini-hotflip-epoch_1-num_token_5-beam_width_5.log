@@ -1,0 +1,330 @@
+{
+  "58": {
+    "tot_idx": 58,
+    "query_num": 34,
+    "HotFlip": {
+      "attack_str": [
+        "python code for generating sample data (normal distribution)"
+      ],
+      "initial_score": 0.6767706274986267,
+      "best_score": 0.6787645816802979
+    }
+  },
+  "116": {
+    "tot_idx": 116,
+    "query_num": 29,
+    "HotFlip": {
+      "attack_str": [
+        "Create a function, 'pdf' that returns normal"
+      ],
+      "initial_score": 0.6686829924583435,
+      "best_score": 0.669934868812561
+    }
+  },
+  "204": {
+    "tot_idx": 204,
+    "query_num": 27,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I understand. For example: a)"
+      ],
+      "initial_score": 0.6672918796539307,
+      "best_score": 0.6698773503303528
+    }
+  },
+  "895": {
+    "tot_idx": 895,
+    "query_num": 27,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I understand. The code for the function"
+      ],
+      "initial_score": 0.6650311350822449,
+      "best_score": 0.6663075089454651
+    }
+  },
+  "382": {
+    "tot_idx": 382,
+    "query_num": 26,
+    "HotFlip": {
+      "attack_str": [
+        "Python code to sample a normal distribution. The function"
+      ],
+      "initial_score": 0.6848525404930115,
+      "best_score": 0.687495231628418
+    }
+  },
+  "894": {
+    "tot_idx": 894,
+    "query_num": 24,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I understand. The code for the function"
+      ],
+      "initial_score": 0.6644647121429443,
+      "best_score": 0.6681357622146606
+    }
+  },
+  "455": {
+    "tot_idx": 455,
+    "query_num": 23,
+    "HotFlip": {
+      "attack_str": [
+        "Create a function, pdf(x) that generates"
+      ],
+      "initial_score": 0.6959918737411499,
+      "best_score": 0.6972467303276062
+    }
+  },
+  "231": {
+    "tot_idx": 231,
+    "query_num": 20,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, it was done in python using matplotlib."
+      ],
+      "initial_score": 0.6443747878074646,
+      "best_score": 0.646925151348114
+    }
+  },
+  "94": {
+    "tot_idx": 94,
+    "query_num": 19,
+    "HotFlip": {
+      "attack_str": [
+        "Code: using numpy as it's easy to"
+      ],
+      "initial_score": 0.6770259737968445,
+      "best_score": 0.6808136701583862
+    }
+  },
+  "474": {
+    "tot_idx": 474,
+    "query_num": 18,
+    "HotFlip": {
+      "attack_str": [
+        "import the necessary libraries and setup matplotlib.pyplot"
+      ],
+      "initial_score": 0.7041462659835815,
+      "best_score": 0.7063990831375122
+    }
+  },
+  "393": {
+    "tot_idx": 393,
+    "query_num": 14,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, Python code:  ```matplotlib."
+      ],
+      "initial_score": 0.7151391506195068,
+      "best_score": 0.717743992805481
+    }
+  },
+  "442": {
+    "tot_idx": 442,
+    "query_num": 13,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I understand.  The code is:"
+      ],
+      "initial_score": 0.6784793138504028,
+      "best_score": 0.6799302101135254
+    }
+  },
+  "1069": {
+    "tot_idx": 1069,
+    "query_num": 13,
+    "HotFlip": {
+      "attack_str": [
+        "histogram: ```hist(my_df"
+      ],
+      "initial_score": 0.673669695854187,
+      "best_score": 0.6755968928337097
+    }
+  },
+  "555": {
+    "tot_idx": 555,
+    "query_num": 12,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I know.  The code for \""
+      ],
+      "initial_score": 0.670540452003479,
+      "best_score": 0.6727778911590576
+    }
+  },
+  "93": {
+    "tot_idx": 93,
+    "query_num": 12,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, I understand.  The code is:"
+      ],
+      "initial_score": 0.6687729358673096,
+      "best_score": 0.6716281175613403
+    }
+  },
+  "448": {
+    "tot_idx": 448,
+    "query_num": 12,
+    "HotFlip": {
+      "attack_str": [
+        "Function to generate a random sample from the normal distribution"
+      ],
+      "initial_score": 0.665604293346405,
+      "best_score": 0.667367160320282
+    }
+  },
+  "167": {
+    "tot_idx": 167,
+    "query_num": 12,
+    "HotFlip": {
+      "attack_str": [
+        "[['A', 'C'], ['D'],"
+      ],
+      "initial_score": 0.6799835562705994,
+      "best_score": 0.681522786617279
+    }
+  },
+  "582": {
+    "tot_idx": 582,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": [
+        "Code: ```from scipy.misc."
+      ],
+      "initial_score": 0.6743991374969482,
+      "best_score": 0.6775162816047668
+    }
+  },
+  "217": {
+    "tot_idx": 217,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": [
+        "Python code to generate samples from the normal distribution."
+      ],
+      "initial_score": 0.6949819922447205,
+      "best_score": 0.6966865658760071
+    }
+  },
+  "524": {
+    "tot_idx": 524,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": [
+        "Use a function to create a scatter plot. "
+      ],
+      "initial_score": 0.6974965333938599,
+      "best_score": 0.6998348236083984
+    }
+  },
+  "624": {
+    "tot_idx": 624,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, in Python:  ```pca_"
+      ],
+      "initial_score": 0.6444991230964661,
+      "best_score": 0.6465741991996765
+    }
+  },
+  "354": {
+    "tot_idx": 354,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": [
+        "[[\"apple\",\"100\",25"
+      ],
+      "initial_score": 0.6809622645378113,
+      "best_score": 0.6825593113899231
+    }
+  },
+  "352": {
+    "tot_idx": 352,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, here is a function that returns the frequency"
+      ],
+      "initial_score": 0.5438684225082397,
+      "best_score": 0.5850071907043457
+    }
+  },
+  "1085": {
+    "tot_idx": 1085,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": [
+        "[Python code to remove duplicate words and stopwords"
+      ],
+      "initial_score": 0.7057021260261536,
+      "best_score": 0.707663357257843
+    }
+  },
+  "165": {
+    "tot_idx": 165,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": [
+        "Create a function, ```random_numbers``,"
+      ],
+      "initial_score": 0.6859527826309204,
+      "best_score": 0.6877924799919128
+    }
+  },
+  "589": {
+    "tot_idx": 589,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": [
+        "Yes, 1. Create a function that generates"
+      ],
+      "initial_score": 0.6449835896492004,
+      "best_score": 0.6469768285751343
+    }
+  },
+  "139": {
+    "tot_idx": 139,
+    "query_num": 11,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6841097474098206,
+      "best_score": 0.6841097474098206
+    }
+  },
+  "628": {
+    "tot_idx": 628,
+    "query_num": 10,
+    "HotFlip": {
+      "attack_str": [
+        "Sine wave of the form: [f0"
+      ],
+      "initial_score": 0.6533026099205017,
+      "best_score": 0.6552257537841797
+    }
+  },
+  "662": {
+    "tot_idx": 662,
+    "query_num": 10,
+    "HotFlip": {
+      "attack_str": [
+        "Python code to transform the data: 1)"
+      ],
+      "initial_score": 0.6397521495819092,
+      "best_score": 0.6430532336235046
+    }
+  },
+  "919": {
+    "tot_idx": 919,
+    "query_num": 10,
+    "HotFlip": {
+      "attack_str": [
+        "Create a pandas dataframe with status column: Status ="
+      ],
+      "initial_score": 0.6484436988830566,
+      "best_score": 0.6518568396568298
+    }
+  }
+}

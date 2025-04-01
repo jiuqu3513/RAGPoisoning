@@ -1,0 +1,35 @@
+{
+  "58": {
+    "tot_idx": 58,
+    "query_num": 34,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] manchu \" chico [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]",
+      "initial_score": 0.6378082036972046,
+      "best_score": 0.658592164516449,
+      "jb_score": 0.6746220588684082,
+      "jb_suffix": ".[py"
+    }
+  },
+  "116": {
+    "tot_idx": 116,
+    "query_num": 29,
+    "HotFlip": {
+      "attack_str": "[PAD] gdp torpedoes [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] * [PAD]",
+      "initial_score": 0.6376474499702454,
+      "best_score": 0.6520351767539978,
+      "jb_score": 0.6746614575386047,
+      "jb_suffix": "_py"
+    }
+  },
+  "204": {
+    "tot_idx": 204,
+    "query_num": 27,
+    "HotFlip": {
+      "attack_str": "[PAD] [PAD] [PAD] [PAD] [PAD] [PAD] unitarian [PAD] railroads [PAD] [PAD] coupling [PAD] [PAD] [PAD]",
+      "initial_score": 0.6172522306442261,
+      "best_score": 0.6327983736991882,
+      "jb_score": 0.6740646362304688,
+      "jb_suffix": "[PAD]"
+    }
+  }
+}

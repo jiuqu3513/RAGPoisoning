@@ -1,0 +1,17 @@
+defaults:
+  - base_target_llm
+  - _self_
+
+llm_params:
+  model_name: "llama-3.2-3b-instruct"
+  checkpoint: 'meta-llama/Llama-3.2-3B-Instruct' # or replace with local DIR
+prompt_manager:
+  prompt_template:
+    - key: system_message
+      msg: "<s>[INST]"
+    - key: full_instruct
+      msg: "{full_instruct}"  # loaded from context
+    - key: separator
+      msg: "[/INST]"
+    - key: target
+      msg: "{target}"  # loaded from context
