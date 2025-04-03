@@ -107,4 +107,4 @@ class Attacker():
         #     with open(os.path.join(log_dir,f'{self.exp_name}.log'), 'w') as f:
         #         json.dump(result_json, f, indent=2)
 
-        return final_poisoned_doc,early_stop,best_score,initial_score,r_score,jb_score, rr_score,max_model, max_language
+        return final_poisoned_doc,early_stop,best_score,initial_score,r_score,jb_score, rr_score,max_model, max_language,time

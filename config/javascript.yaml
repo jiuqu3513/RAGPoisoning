@@ -24,8 +24,8 @@ rag:
   eval_transfer: 0
   head_insert: 0
   search_range: 'global'
-  original_pkg: 'express'
-  malicious_pkg: 'express_safe'
+  original_pkg: 'uuid'
+  malicious_pkg: 'uuid_safe'
   epoch_num: 50
   rr_epoch_num: 25
   num_tokens: 20

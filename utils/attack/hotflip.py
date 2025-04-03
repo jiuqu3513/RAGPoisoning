@@ -106,7 +106,7 @@ class HotFlip:
     def compute_hotflip_gradient(self, inputs_embeds_batch, doc_embs):
         inputs_embeds = torch.nn.Parameter(inputs_embeds_batch, requires_grad=True)
         s_adv_emb = self.encoder(inputs_embeds=inputs_embeds)[0].mean(dim=1)
-        cos_sim = torch.matmul(normalize(s_adv_emb, p=2, dim=1), normalize(doc_embs, p=2, dim=1).t()).mean()
+        cos_sim = torch.matmul(normalize(s_adv_emb, p=2, dim=1), normalize(doc_embs, p=2, dim=1).t()).mean()    
         loss = cos_sim
         loss.backward()
         return inputs_embeds.grad.detach()

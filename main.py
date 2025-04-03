@@ -39,7 +39,7 @@ def main(cfg: DictConfig):
     gpu_list = [int(item) for item in GPU_LIST.split(",")]
     ngpu = len(gpu_list)
     cfg.gpu_list = cfg.gpu_list[:ngpu]
-    resources = [faiss.StandardGpuResources() for i in range(ngpu)]
+    # resources = [faiss.StandardGpuResources() for i in range(ngpu)]
     setup_seeds(cfg.seed)
     if cfg.rag.model_config_path == False:
         model_config_path = f'model_configs/{cfg.rag.model_name}_config.json'
@@ -54,7 +54,7 @@ def main(cfg: DictConfig):
     eval_model_name = cfg.rag.model_name if cfg.rag.eval_transfer == 1 else cfg.target_llm.llm_params.model_name
     model_save_dir = os.path.join(exp_dir,'logs',cfg.rag.original_pkg,eval_model_name,cfg.target_llm.llm_params.model_name)
     os.makedirs(model_save_dir,exist_ok=True)
-    exp_name = f"{malicious_pkg}-eval_{eval_model_name}-target_{cfg.target_llm.llm_params.model_name}-{cfg.rag.attack_method}-jb_first{cfg.rag.jb_first}-usr_r{cfg.rag.use_r}-jb{cfg.rag.use_jb}-rr{cfg.rag.use_rr}-epoch_{cfg.rag.epoch_num}-num_token_{cfg.rag.num_tokens}-beam_width_{cfg.rag.beam_width}-topk{cfg.rag.top_k_tokens}-jbtopk_{jailbreak_topk}"
+    exp_name = f"{malicious_pkg}-target_{cfg.target_llm.llm_params.model_name}-{cfg.rag.attack_method}-jb_first{cfg.rag.jb_first}-usr_r{cfg.rag.use_r}-jb{cfg.rag.use_jb}-rr{cfg.rag.use_rr}-epoch_{cfg.rag.epoch_num}-num_token_{cfg.rag.num_tokens}-beam_width_{cfg.rag.beam_width}-topk{cfg.rag.top_k_tokens}-jbtopk_{jailbreak_topk}"
     poison_database_name = f"{malicious_pkg}-target_{cfg.target_llm.llm_params.model_name}-{cfg.rag.attack_method}-jb_first{cfg.rag.jb_first}-usr_r{cfg.rag.use_r}-jb{cfg.rag.use_jb}-rr{cfg.rag.use_rr}-epoch_{cfg.rag.epoch_num}-num_token_{cfg.rag.num_tokens}-beam_width_{cfg.rag.beam_width}-topk{cfg.rag.top_k_tokens}-jbtopk_{jailbreak_topk}"
     logger_path = os.path.join(model_save_dir,f'{exp_name}.log')
     logger = create_logger(logger_path)
@@ -299,7 +299,7 @@ def main(cfg: DictConfig):
             if malicious_pkg in doc.page_content:
                 poisoned_docs_count += 1
         posioned_total_rank += poisoned_docs_count
-        logger.info(f'Poisoned Before Reranking:{poisoned_docs_count}\{num_retrieved_docs}')
+        logger.info(f'Poisoned Before Reranking:{poisoned_docs_count}\\{num_retrieved_docs}')
         query_prompt = wrap_prompt(query, page_relevant_docs, language=language)
         response = llm.query(query_prompt)
         logger.info(f"-------------Poisoned Output:-------------\n{response}\n\n")
@@ -316,7 +316,7 @@ def main(cfg: DictConfig):
             if malicious_pkg in doc.page_content:
                 poisoned_docs_count += 1
         baseline_total_rank += poisoned_docs_count
-        logger.info(f'Baseline Before Reranking:{poisoned_docs_count}\{num_retrieved_docs}')
+        logger.info(f'Baseline Before Reranking:{poisoned_docs_count}\\{num_retrieved_docs}')
         query_prompt = wrap_prompt(query, page_relevant_docs, language=language)
         response = llm.query(query_prompt)
         logger.info(f"-------------Baseline Output:-------------\n{response}\n\n")
